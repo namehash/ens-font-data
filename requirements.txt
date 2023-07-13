@@ -1,4 +1,5 @@
 fonttools
-rich
+tqdm
+dask
 ens-normalize
 uharfbuzz
