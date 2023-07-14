@@ -43,16 +43,16 @@ def analyze_font(font_path: str, output: str):
     os.makedirs(os.path.join(output, os.path.basename(font_path)), exist_ok=True)
 
     with open(os.path.join(output, os.path.basename(font_path), 'supported_chars.json'), 'w', encoding='utf-8') as f:
-        json.dump(sorted(font_supported_cps), f, indent=0)
+        json.dump(sorted(font_supported_cps), f)
 
     with open(os.path.join(output, os.path.basename(font_path), 'unsupported_chars.json'), 'w', encoding='utf-8') as f:
-        json.dump(sorted(font_unsupported_cps), f, indent=0)
+        json.dump(sorted(font_unsupported_cps), f)
 
     with open(os.path.join(output, os.path.basename(font_path), 'supported_emoji.json'), 'w', encoding='utf-8') as f:
-        json.dump(sorted(font_supported_emoji), f, indent=0)
+        json.dump(sorted(font_supported_emoji), f)
 
     with open(os.path.join(output, os.path.basename(font_path), 'unsupported_emoji.json'), 'w', encoding='utf-8') as f:
-        json.dump(sorted(font_unsupported_emoji), f, indent=0)
+        json.dump(sorted(font_unsupported_emoji), f)
 
     return font_supported_cps, font_unsupported_cps, font_supported_emoji, font_unsupported_emoji
 
@@ -110,16 +110,16 @@ def run():
     os.makedirs(args.output, exist_ok=True)
 
     with open(os.path.join(args.output, 'supported_chars.json'), 'w', encoding='utf-8') as f:
-        json.dump(sorted(supported_cps), f, indent=0)
+        json.dump(sorted(supported_cps), f)
 
     with open(os.path.join(args.output, 'unsupported_chars.json'), 'w', encoding='utf-8') as f:
-        json.dump(sorted(unsupported_cps), f, indent=0)
+        json.dump(sorted(unsupported_cps), f)
 
     with open(os.path.join(args.output, 'supported_emoji.json'), 'w', encoding='utf-8') as f:
-        json.dump(sorted(supported_emoji), f, indent=0)
+        json.dump(sorted(supported_emoji), f)
 
     with open(os.path.join(args.output, 'unsupported_emoji.json'), 'w', encoding='utf-8') as f:
-        json.dump(sorted(unsupported_emoji), f, indent=0)
+        json.dump(sorted(unsupported_emoji), f)
 
 
 if __name__ == '__main__':
