@@ -93,7 +93,7 @@ def run():
     shutil.rmtree(args.output, ignore_errors=True)
 
     with TqdmCallback(desc='Analyzing fonts'):
-        results = db.from_sequence(font_paths[:100]).map(analyze_font, args.output).compute()
+        results = db.from_sequence(font_paths).map(analyze_font, args.output).compute()
     for font_supported_cps, font_unsupported_cps, font_supported_emoji, font_unsupported_emoji in results:
         supported_cps.update(font_supported_cps)
         unsupported_cps.update(font_unsupported_cps)
