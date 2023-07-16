@@ -20,5 +20,8 @@ if __name__ == '__main__':
     with open(args.source, encoding='utf-8') as f:
         data = json.load(f)
 
-    for char in data:
-        print(char)
+    for itm in data:
+        if isinstance(itm, int):
+            print(chr(itm))
+        else:
+            print(''.join(chr(cp) for cp in itm))

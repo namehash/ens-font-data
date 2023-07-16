@@ -11,10 +11,6 @@ from tqdm.dask import TqdmCallback
 import dask.bag as db
 
 
-def cps_to_chrs(cps):
-    return [chr(cp) for cp in cps]
-
-
 def get_supported_cps(font_path: str) -> set[int]:
     supported_cps = set()
     fonts = []
@@ -66,6 +62,8 @@ def run():
 
     if args.fc_list:
         font_paths = subprocess.getoutput('fc-list').splitlines()
+        font_paths = [re.match(r'^(.+\.(?:ttf|otf|ttc)):', line) for line in font_paths]
+        font_paths = [match.group(1) for match in font_paths if match]
     elif args.font_dir:
         font_paths = []
         for root, dirs, files in os.walk(args.font_dir):
@@ -77,8 +75,6 @@ def run():
         parser.print_help()
         exit(1)
 
-    font_paths = [re.match(r'^(.+\.(?:ttf|otf|ttc)):', line) for line in font_paths]
-    font_paths = [match.group(1) for match in font_paths if match]
     font_paths = set(font_paths)
     # MacOS will fallback to /System/Library/Fonts/LastResort.otf
     font_paths = [font_path for font_path in font_paths if not font_path.endswith('LastResort.otf')]
