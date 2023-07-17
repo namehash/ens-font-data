@@ -20,7 +20,9 @@ def get_supported_cps(font_path: str) -> set[int]:
     else:
         fonts.append(ttLib.TTFont(font_path))
     for font in fonts:
-        supported_cps.update(font.getBestCmap().keys())
+        cmap = font.getBestCmap()
+        if cmap is not None:
+            supported_cps.update(cmap.keys())
     return supported_cps
 
 
