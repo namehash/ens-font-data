@@ -25,3 +25,13 @@ It supports 2 modes of operation:
 ### `dump.py`
 
 This script prints the contents of the specified JSON file.
+
+## Results
+
+The results of the analysis are stored in the `results` directory. Each subdirectory corresponds to an operating system and contains the following files:
+
+* `fonts.txt` - a list of font unique IDs included in this set
+* `supported_chars.json` - a list of supported character codepoints
+* `unsupported_chars.json` - a list of unsupported character codepoints
+* `supported_emojis.json` - a list of supported emojis, each emoji is represented as a list of codepoints
+* `unsupported_emojis.json` - a list of unsupported emojis, each emoji is represented as a list of codepoints
