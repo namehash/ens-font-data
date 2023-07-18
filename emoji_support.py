@@ -2,11 +2,7 @@ from uharfbuzz import Face, Font, Buffer, ot_font_set_funcs, shape
 
 
 # from https://stackoverflow.com/a/55560968
-def is_emoji_supported_by_font(emoji: str, font_path: str) -> bool:
-    # Load font:
-    with open(font_path, 'rb') as fontfile:
-        fontdata = fontfile.read()
-
+def is_emoji_supported_by_font(emoji: str, fontdata: bytes) -> bool:
     # Load font:
     face = Face(fontdata)
     font = Font(face)
