@@ -1,0 +1,373 @@
+segoeuii.ttf.Segoe UI Italic
+isocteur.ttf.ISOCTEUR
+marlett.ttf.Marlett
+calibrii.ttf.Microsoft: Calibri Italic
+couri.ttf.Monotype:Courier New Italic (Microsoft)
+swisse.ttf.Swiss 721 Extended
+mtproxy7.ttf.Macromedia Fontographer 4.1.3 Proxy 7
+segoeuil.ttf.Segoe UI Light
+tahomabd.ttf.Microsoft Tahoma Bold
+vinet.ttf.Vineta, Decorated 781
+monotxt_IV25.ttf.Monotxt_IV25:Version 1.00
+segmdl2.ttf.Segoe MDL2 Assets
+swisscki.ttf.Swiss 721 Black Condensed Italic
+gdt_IV50.ttf.GDT_IV50:Version 2.00
+isocp_IV50.ttf.ISOCP_IV50:Version 1.00
+msyi.ttf.Microsoft Yi Baiti
+Amgdt_IV25.ttf.AMGDT_IV25:Version 1.01
+seguisym.ttf.Segoe UI Symbol
+AcadEref.ttf.Autodesk,Inc.: AcadEref: 2003
+Candaraz.ttf.Microsoft: Candara Bold Italic: 2005
+mtproxy3.ttf.Macromedia Fontographer 4.1.3 Proxy 3
+swissl.ttf.Swiss 721 Light
+swissek.ttf.Swiss 721 Black Extended
+italic_IV50.ttf.Italic_IV50:Version 1.00
+txt_IV25.ttf.Txt_IV25:Version 1.00
+SitkaZ.ttc.SitkaSmallBoldItalic
+SitkaZ.ttc.SitkaTextBoldItalic
+SitkaZ.ttc.SitkaSubheadingBoldItalic
+SitkaZ.ttc.SitkaHeadingBoldItalic
+SitkaZ.ttc.SitkaDisplayBoldItalic
+SitkaZ.ttc.SitkaBannerBoldItalic
+mtproxy1.ttf.Macromedia Fontographer 4.1.3 Proxy 1
+txt_____.ttf.Macromedia Fontographer 4.1.3 Txt
+counb___.ttf.Linguist's Software CountryBlueprint
+courbd.ttf.Monotype:Courier New Bold (Microsoft)
+comic.ttf.Microsoft Comic Sans
+seguibl.ttf.Segoe UI Black
+simplex_IV50.ttf.Simplex_IV50:Version 1.00
+ariblk.ttf.Monotype - Arial Black Regular
+ariali.ttf.Monotype:Arial Regular Italic (Microsoft)
+seguisbi.ttf.Segoe UI Semibold Italic
+lucon.ttf.Lucida Console Regular; B&H alpha25
+symeteo_.ttf.Macromedia Fontographer 4.1.3 Symeteo
+monosi.ttf.Monospace 821 Italic
+BIZ-UDGothicB.ttc.MRSW;BIZ-UDGothic-Bold
+BIZ-UDGothicB.ttc.MRSW;BIZ-UDPGothic-Bold
+cambriai.ttf.Microsoft: Cambria Italic
+sanss___.ttf.Linguist's Software SansSerif
+isocp3_IV50.ttf.ISOCP3_IV50:Version 1.00
+isoct3_IV50.ttf.ISOCT3_IV50:Version 1.00
+Merriweather MG.ttf.Merriweather MG
+mtproxy6.ttf.Macromedia Fontographer 4.1.3 Proxy 6
+monosbi.ttf.Monospace 821 Bold Italic
+isoct2_IV50.ttf.ISOCT2_IV50:Version 1.00
+yumin.ttf.YuMincho-Regular
+BIZ-UDMinchoM.ttc.MRSW;BIZ-UDMincho-Medium
+BIZ-UDMinchoM.ttc.MRSW;BIZ-UDPMincho-Medium
+stylu.ttf.Stylus
+pala.ttf.Palatino Linotype Regular April 1998
+consola.ttf.Microsoft: Consolas
+meiryob.ttc.Microsoft: Meiryo Bold
+meiryob.ttc.Microsoft: Meiryo Bold Italic
+meiryob.ttc.Microsoft: Meiryo UI Bold
+meiryob.ttc.Microsoft: Meiryo UI Bold Italic
+swissko.ttf.Swiss 721 Black Outline
+dutcheb.ttf.Dutch 801 Extra Bold
+msjh.ttc.Microsoft JhengHei Regular
+msjh.ttc.Microsoft JhengHei UI Regular
+swisscli.ttf.Swiss 721 Light Condensed Italic
+GOST Common Italic.ttf.GOST Common Italic
+monotxt_IV50.ttf.Monotxt_IV50:Version 1.00
+dutchbi.ttf.Dutch 801 Bold Italic
+swisscb.ttf.Swiss 721 Bold Condensed
+gdt_IV25.ttf.GDT_IV25:Version 2.00
+monos.ttf.Monospace 821
+gdt_____.ttf.Macromedia Fontographer 4.1.3 GDT
+arialbi.ttf.Monotype:Arial Bold Italic (Microsoft)
+bgothm.ttf.Bank Gothic Medium, Square 021
+sanssbo_.ttf.Linguist's Software SansSerif BoldOblique
+comicbd.ttf.Microsoft Comic Sans Bold
+swissli.ttf.Swiss 721 Light Italic
+Artifakt Element Hair.ttf.2.201;UKWN;ArtifaktElement-Hair
+seguibli.ttf.Segoe UI Black Italic
+YuGothM.ttc.YuGothic-Medium
+YuGothM.ttc.YuGothicUI-Regular
+Gabriola.ttf.MicrosoftCorporation: Gabriola: 2008
+timesi.ttf.Monotype:Times New Roman Italic (Microsoft)
+palab.ttf.Palatino Linotype Bold April 1998
+Artifakt Element Bold Italic.ttf.2.201;UKWN;ArtifaktElement-BoldItalic
+segoeprb.ttf.Segoe Print Bold
+symap_IV50.ttf.Symap_IV50:Version 1.00
+isoct___.ttf.Macromedia Fontographer 4.1.3 ISOCT
+trebucit.ttf.Microsoft Trebuchet Italic
+Artifakt Element Heavy.ttf.2.201;UKWN;ArtifaktElement-Heavy
+eurr____.ttf.Linguist's Software EuroRoman
+msjhl.ttc.Microsoft JhengHei Light
+msjhl.ttc.Microsoft JhengHei UI Light
+symap___.ttf.Macromedia Fontographer 4.1.3 Symap
+verdana.ttf.Microsoft:Verdana Regular
+seguisli.ttf.Segoe UI Semilight Italic
+isocp2_IV50.ttf.ISOCP2_IV50:Version 1.00
+romant__.ttf.Macromedia Fontographer 4.1.3 RomanT
+simsun.ttc.SimSun
+simsun.ttc.NSimSun
+BIZ-UDGothicR.ttc.MRSW;BIZ-UDGothic
+BIZ-UDGothicR.ttc.MRSW;BIZ-UDPGothic
+phagspab.ttf.Microsoft PhagsPa Bold
+dutchb.ttf.Dutch 801 Bold
+umath.ttf.Universal Math 1, Custom Math
+cityb___.ttf.Linguist's Software CityBlueprint
+segoescb.ttf.Segoe Script Bold
+Artifakt Element Regular.ttf.2.201;UKWN;ArtifaktElement-Regular
+wingding.ttf.Wingdings Regular: MS: 2006
+corbell.ttf.Microsoft: Corbel Light 2018
+symeteo_IV25.ttf.Symeteo_IV25:Version 1.00
+scripts_.ttf.Macromedia Fontographer 4.1.3 ScriptS
+swissci.ttf.Swiss 721 Condensed Italic
+techb___.ttf.Linguist's Software TechnicBold
+msjhbd.ttc.Microsoft JhengHei Bold
+msjhbd.ttc.Microsoft JhengHei UI Bold
+isocp2_IV25.ttf.ISOCP2_IV25:Version 1.00
+UDDigiKyokashoN-B.ttc.TypeBank:UD Digi Kyokasho N-B
+UDDigiKyokashoN-B.ttc.TypeBank:UD Digi Kyokasho NP-B
+UDDigiKyokashoN-B.ttc.TypeBank:UD Digi Kyokasho NK-B
+scripts_IV50.ttf.ScriptS_IV50:Version 1.00
+calibriz.ttf.Microsoft: Calibri Bold Italic
+calibril.ttf.Microsoft: Calibri Light
+verdanai.ttf.Microsoft:Verdana Italic
+romans_IV50.ttf.RomanS_IV50:Version 1.00
+gadugi.ttf.Gadugi Regular
+technic_.ttf.Linguist's Software Technic
+micross.ttf.Microsoft Sans Serif Regular
+swisscbo.ttf.Swiss 721 Bold Condensed Outline
+mvboli.ttf.MV Boli Regular
+bahnschrift.ttf.Bahnschrift Regular
+webdings.ttf.Microsoft Webdings
+Candara.ttf.Microsoft: Candara: 2005
+Inkfree.ttf.Microsoft Ink Free Regular
+consolai.ttf.Microsoft: Consolas Italic
+isoct_IV50.ttf.ISOCT_IV50:Version 1.00
+romand__.ttf.Macromedia Fontographer 4.1.3 RomanD
+romab___.ttf.Linguist's Software Romantic Bold
+trebuc.ttf.Microsoft Trebuchet
+isoct2_IV25.ttf.ISOCT2_IV25:Version 1.00
+segoepr.ttf.Segoe Print Regular
+trebucbi.ttf.Microsoft Trebuchet Bold Italic
+Artifakt Element Thin.ttf.2.201;UKWN;ArtifaktElement-Thin
+symath_IV50.ttf.Symath_IV50:Version 1.00
+italict_.ttf.Macromedia Fontographer 4.1.3 ItalicT
+arialbd.ttf.Monotype:Arial Bold (Microsoft)
+segoesc.ttf.Segoe Script Regular
+georgia.ttf.Microsoft Georgia Regular
+msyhl.ttc.Microsoft YaHei Light
+msyhl.ttc.Microsoft YaHei UI Light
+taileb.ttf.Microsoft Tai Le Bold
+ebrima.ttf.MicrosoftCorporation: Ebrima
+italicc_.ttf.Macromedia Fontographer 4.1.3 ItalicC
+taile.ttf.Microsoft Tai Le Regular
+segoeuisl.ttf.Segoe UI Semilight
+palai.ttf.Palatino Linotype Italic April 1998
+symap_IV25.ttf.Symap_IV25:Version 2.00
+SitkaI.ttc.SitkaSmallItalic
+SitkaI.ttc.SitkaTextItalic
+SitkaI.ttc.SitkaSubheadingItalic
+SitkaI.ttc.SitkaHeadingItalic
+SitkaI.ttc.SitkaDisplayItalic
+SitkaI.ttc.SitkaBannerItalic
+romantic.ttf.Linguist's Software Romantic
+Artifakt Element Hair Italic.ttf.2.201;UKWN;ArtifaktElement-HairItalic
+swisscbi.ttf.Swiss 721 Bold Condensed Italic
+greeks__.ttf.Macromedia Fontographer 4.1.3 GreekS
+seguihis.ttf.Segoe UI Historic
+sansso__.ttf.Linguist's Software SansSerif Oblique
+LeelawUI.ttf.Microsoft Leelawadee UI
+sylfaen.ttf.Sylfaen Regular
+constani.ttf.Microsoft: Constantia Italic: 2005
+Sitka.ttc.SitkaSmallRegular
+Sitka.ttc.SitkaTextRegular
+Sitka.ttc.SitkaSubheadingRegular
+Sitka.ttc.SitkaHeadingRegular
+Sitka.ttc.SitkaDisplayRegular
+Sitka.ttc.SitkaBannerRegular
+cour.ttf.Monotype:Courier New (Microsoft)
+gothicg_.ttf.Macromedia Fontographer 4.1.3 GothicG
+isocp3__.ttf.Macromedia Fontographer 4.1.3 ISOCP3
+AMDT_Symbols.ttf.Autodesk,Inc.: AmdtSymbols: 2004
+symath__.ttf.Macromedia Fontographer 4.1.3 Symath
+techl___.ttf.Linguist's Software TechnicLite
+impact.ttf.Impact - 1992
+isocp2__.ttf.Macromedia Fontographer 4.1.3 ISOCP2
+times.ttf.Monotype:Times New Roman Regular (Microsoft)
+segoeuib.ttf.Segoe UI Bold
+Amgdt_IV50.ttf.AMGDT_IV50:Version 1.01
+greekc_IV25.ttf.GreekC_IV25:Version 1.00
+calibrib.ttf.Microsoft: Calibri Bold
+monosb.ttf.Monospace 821 Bold
+corbelz.ttf.Microsoft: Corbel Bold Italic: 2005
+NirmalaS.ttf.Nirmala UI Semilight
+Artifakt Element Bold.ttf.2.201;UKWN;ArtifaktElement-Bold
+swissb.ttf.Swiss 721 Bold
+meiryo.ttc.Microsoft: Meiryo
+meiryo.ttc.Microsoft: Meiryo Italic
+meiryo.ttc.Microsoft: Meiryo UI
+meiryo.ttc.Microsoft: Meiryo UI Italic
+monotxt_.ttf.Macromedia Fontographer 4.1.3 Monotxt
+corbeli.ttf.Microsoft: Corbel Italic: 2005
+symbol.ttf.Monotype:Symbol :version 1.70 (Microsoft)
+Artifakt Element Thin Italic.ttf.2.201;UKWN;ArtifaktElement-ThinItalic
+Candarali.ttf.Microsoft: Candara Light Italic 2018
+ntailu.ttf.Microsoft New Tai Lue Regular
+isocp_IV25.ttf.ISOCP_IV25:Version 1.00
+Artifakt Element Light Italic.ttf.2.201;UKWN;ArtifaktElement-LightItalic
+greekc__.ttf.Macromedia Fontographer 4.1.3 GreekC
+swissk.ttf.Swiss 721 Black
+himalaya.ttf.Microsoft Himalaya
+msgothic.ttc.Microsoft:MS Gothic
+msgothic.ttc.Microsoft:MS UI Gothic
+msgothic.ttc.Microsoft:MS PGothic
+symusic_.ttf.Macromedia Fontographer 4.1.3 Symusic
+cambriaz.ttf.Microsoft: Cambria Bold Italic
+isoct2__.ttf.Macromedia Fontographer 4.1.3 ISOCT2
+tahoma.ttf.Microsoft Tahoma Regular
+YuGothL.ttc.YuGothic-Light
+YuGothL.ttc.YuGothicUI-Light
+mtproxy4.ttf.Macromedia Fontographer 4.1.3 Proxy 4
+phagspa.ttf.Microsoft PhagsPa Regular
+dutch.ttf.Dutch 801 Roman
+panroman.ttf.Linguist's Software PanRoman
+msyh.ttc.Microsoft YaHei Regular
+msyh.ttc.Microsoft YaHei UI Regular
+Artifakt Element Medium Italic.ttf.2.201;UKWN;ArtifaktElement-MediumItalic
+dutchi.ttf.Dutch 801 Italic
+isocpeur.ttf.ISOCPEUR
+constan.ttf.Microsoft: Constantia: 2005
+corbelb.ttf.Microsoft: Corbel Bold: 2005
+romans_IV25.ttf.RomanS_IV25:Version 1.00
+malgunbd.ttf.Malgun Gothic Bold
+syastro_IV25.ttf.Syastro_IV25:Version 1.00
+complex_IV25.ttf.Complex_IV25:Version 1.00
+isocp3_IV25.ttf.ISOCP3_IV25:Version 1.00
+syastro_.ttf.Macromedia Fontographer 4.1.3 Syastro
+cambriab.ttf.Microsoft: Cambria Bold
+consolaz.ttf.Microsoft: Consolas Bold Italic
+syastro_IV50.ttf.Syastro_IV50:Version 2.00
+consolab.ttf.Microsoft: Consolas Bold
+verdanaz.ttf.Microsoft:Verdana Bold Italic
+romans__.ttf.Autodesk,Inc: RomanS: 1998
+NirmalaB.ttf.Nirmala UI Bold
+comsc.ttf.Commercial Script, English 144
+symeteo_IV50.ttf.Symeteo_IV50:Version 1.00
+mmrtext.ttf.Myanmar Text Regular
+seguisb.ttf.Segoe UI Semibold
+segoeui.ttf.Segoe UI Regular
+corbel.ttf.Microsoft: Corbel: 2005
+comici.ttf.Microsoft Comic Sans Italic
+palabi.ttf.Palatino Linotype Bold Italic April 1998
+Artifakt Element Black.ttf.2.201;UKWN;ArtifaktElement-Black
+swisski.ttf.Swiss 721 Black Italic
+Artifakt Element Black Italic.ttf.2.201;UKWN;ArtifaktElement-BlackItalic
+framd.ttf.Monotype - Franklin Gothic Medium Regular
+greeks_IV25.ttf.GreekS_IV25:Version 1.00
+gadugib.ttf.Gadugi Bold
+msmincho.ttc.Microsoft:MS Mincho
+msmincho.ttc.Microsoft:MS PMincho
+georgiai.ttf.Microsoft Georgia Italic
+complex_.ttf.Macromedia Fontographer 4.1.3 Complex
+Candarab.ttf.Microsoft: Candara Bold: 2005
+symath_IV25.ttf.Symath_IV25:Version 1.00
+cambria.ttc.Microsoft: Cambria
+cambria.ttc.Microsoft: Cambria Math
+GENISO.ttf.Autodesk,Inc.: GENISO: 2008
+framdit.ttf.Monotype - Franklin Gothic Medium Italic
+swissc.ttf.Swiss 721 Condensed
+scripts_IV25.ttf.ScriptS_IV25:Version 1.00
+mingliub.ttc.MingLiU-ExtB
+mingliub.ttc.PMingLiU-ExtB
+mingliub.ttc.MingLiU_HKSCS-ExtB
+holomdl2.ttf.HoloLens MDL2 Assets
+courbi.ttf.Monotype:Courier New Bold Italic (Microsoft)
+monbaiti.ttf.Mongolian Baiti
+swisscl.ttf.Swiss 721 Light Condensed
+compi.ttf.Commercial Pi, Custom Ornaments
+GOST Common.ttf.GOST Common
+mtproxy9.ttf.Macromedia Fontographer 4.1.3 Proxy 9
+mtproxy2.ttf.Macromedia Fontographer 4.1.3 Proxy 2
+simplex_IV25.ttf.Simplex_IV25:Version 1.00
+Artifakt Element Book.ttf.2.201;UKWN;ArtifaktElement-Book
+ebrimabd.ttf.MicrosoftCorporation: Ebrima Bold
+swissck.ttf.Swiss 721 Black Condensed
+swisseb.ttf.Swiss 721 Bold Extended
+isocpeui.ttf.ISOCPEUR Italic
+ntailub.ttf.Microsoft New Tai Lue Bold
+txt_IV50.ttf.Txt_IV50:Version 1.00
+Candaral.ttf.Microsoft: Candara Light 2018
+verdanab.ttf.Microsoft:Verdana Bold
+msyhbd.ttc.Microsoft YaHei-Bold
+msyhbd.ttc.Microsoft YaHei UI-Bold
+isoct_IV25.ttf.ISOCT_IV25:Version 1.00
+isoct3_IV25.ttf.ISOCT3_IV25:Version 1.00
+isoct3__.ttf.Macromedia Fontographer 4.1.3 ISOCT3
+YuGothB.ttc.YuGothic-Bold
+YuGothB.ttc.YuGothicUI-Bold
+YuGothB.ttc.YuGothicUI-Semibold
+segoeuiz.ttf.Segoe UI Bold Italic
+calibrili.ttf.Microsoft: Calibri Light Italic
+Artifakt Element Book Italic.ttf.2.201;UKWN;ArtifaktElement-BookItalic
+malgunsl.ttf.Malgun Gothic Semilight
+isocteui.ttf.ISOCTEUR Italic
+Nirmala.ttf.Nirmala UI Regular
+trebucbd.ttf.Microsoft Trebuchet Bold
+simplex_.ttf.Macromedia Fontographer 4.1.3 Simplex
+arial.ttf.Monotype:Arial Regular (Microsoft)
+swissbi.ttf.Swiss 721 Bold Italic
+LeelaUIb.ttf.Microsoft Leelawadee UI Bold
+simsunb.ttf.SimSun-ExtB
+scriptc_.ttf.Macromedia Fontographer 4.1.3 ScriptC
+supef___.ttf.Linguist's Software SuperFrench
+swiss.ttf.Swiss 721
+italic__.ttf.Macromedia Fontographer 4.1.3 Italic
+isocp___.ttf.Macromedia Fontographer 4.1.3 ISOCP
+georgiab.ttf.Microsoft Georgia Bold
+gothici_.ttf.Macromedia Fontographer 4.1.3 GothicI
+yumindb.ttf.YuMincho-Demibold
+romanc__.ttf.Macromedia Fontographer 4.1.3 RomanC
+gothice_.ttf.Macromedia Fontographer 4.1.3 GothicE
+bgothl.ttf.Bank Gothic Light, Square 021
+Artifakt Element Heavy Italic.ttf.2.201;UKWN;ArtifaktElement-HeavyItalic
+swissel.ttf.Swiss 721 Light Extended
+sanssb__.ttf.Linguist's Software SansSerif Bold
+eurro___.ttf.Linguist's Software EuroRoman Oblique
+LeelUIsl.ttf.Microsoft Leelawadee UI Semilight
+yuminl.ttf.YuMincho-Light
+Artifakt Element Italic.ttf.2.201;UKWN;ArtifaktElement-Italic
+seguiemj.ttf.Segoe UI Emoji
+timesbi.ttf.Monotype:Times New Roman Bold Italic (Microsoft)
+mmrtextb.ttf.Myanmar Text Bold
+greekc_IV50.ttf.GreekC_IV50:Version 1.00
+YuGothR.ttc.YuGothic-Regular
+YuGothR.ttc.YuGothicUI-Semilight
+l_10646.ttf.Lucida Sans Unicode Regular; B&H; April 15, 1993;
+corbelli.ttf.Microsoft: Corbel Light Italic 2018
+italic_IV25.ttf.Italic_IV25:Version 1.00
+timesbd.ttf.Monotype:Times New Roman Bold (Microsoft)
+complex_IV50.ttf.Complex_IV50:Version 1.00
+romai___.ttf.Linguist's Software Romantic Italic
+symusic_IV50.ttf.Symusic_IV50:Version 1.00
+symusic_IV25.ttf.Symusic_IV25:Version 1.00
+UDDigiKyokashoN-R.ttc.TypeBank:UD Digi Kyokasho N-R
+UDDigiKyokashoN-R.ttc.TypeBank:UD Digi Kyokasho NP-R
+UDDigiKyokashoN-R.ttc.TypeBank:UD Digi Kyokasho NK-R
+calibri.ttf.Microsoft: Calibri: 2005
+SitkaB.ttc.SitkaSmallBold
+SitkaB.ttc.SitkaTextBold
+SitkaB.ttc.SitkaSubheadingBold
+SitkaB.ttc.SitkaHeadingBold
+SitkaB.ttc.SitkaDisplayBold
+SitkaB.ttc.SitkaBannerBold
+swissi.ttf.Swiss 721 Italic
+mtproxy5.ttf.Macromedia Fontographer 4.1.3 Proxy 5
+Candarai.ttf.Microsoft: Candara Italic: 2005
+comicz.ttf.Microsoft Comic Sans Bold Italic
+mtproxy8.ttf.Macromedia Fontographer 4.1.3 Proxy 8
+malgun.ttf.Malgun Gothic Regular
+greeks_IV50.ttf.GreekS_IV50:Version 1.00
+javatext.ttf.Microsoft: Javanese Text
+constanz.ttf.Microsoft: Constantia Bold Italic: 2005
+seguili.ttf.Segoe UI Light Italic
+Artifakt Element LIght.ttf.2.201;UKWN;ArtifaktElement-Light
+AMGDT___.ttf.ALTS: AMGDT: 2014
+constanb.ttf.Microsoft: Constantia Bold: 2005
+georgiaz.ttf.Microsoft Georgia Bold Italic
+swissbo.ttf.Swiss 721 Bold Outline
+Artifakt Element Medium.ttf.2.201;UKWN;ArtifaktElement-Medium
