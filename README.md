@@ -17,7 +17,7 @@ All codepoints defined as `valid` by ENSIP-15 are checked for support. This incl
 The only multi-codepoint graphemes checked for support are the emoji sequences allowed in ENSIP-15. To check whether a grapheme cluster is supported by a font, it is programmatically rendered using the `harfbuzz` library and the result is checked for correctness (see [emoji_support.py](emoji_support.py)).
 
 **Fonts**\
-Fonts are either contained in an individual font file (`.ttf`, `.otf`) or in a font collection file (`.ttc`). Font files are processed directly and font collections are expanded into individual font files.
+Fonts are either contained in an individual font file (`.ttf`, `.otf`) or in a font collection file (`.ttc`). Font files are processed directly and font collections are expanded into individual font files. The font files that were analyzed are not included in this repository because of their size and licensing restrictions. You may acquire them by their Unique ID from the `fonts.txt` file in the results. You can also extract them from your system using the `analyze.py` script.
 
 ## Results Format
 
@@ -50,7 +50,9 @@ Each font directory name contains the original font file/collection filename con
 
 The recommended way to use the results is to combine multiple font sets into a single set of supported/unsupported characters and emojis. This can be done using the `combine.py` script (see below). Other uses include creating a mapping from characters to fonts that support them (out of scope for this repository).
 
-## Scripts
+## Generating Results
+
+The results were generated using the `analyze.py` script on multiple operating systems.
 
 ### `analyze.py`
 
@@ -88,7 +90,8 @@ python dump.py supported_chars.json
 
 * OS: Android
 * Version: 11
-* Language: English (US)
+* Language: Polish
+* Additional fonts: Samsung
 * Method: extracted with `adb`
 
 ### `fedora38`
