@@ -94,13 +94,6 @@ python dump.py supported_chars.json
 * Additional fonts: Samsung
 * Method: extracted with `adb`
 
-### `fedora38`
-
-* OS: [Fedora Linux](https://www.fedoraproject.org)
-* Version: 38
-* Language: English (US)
-* Method: `fc-list`
-
 ### `macos13`
 
 * OS: macOS

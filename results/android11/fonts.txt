@@ -1,284 +1,43 @@
-SECBengali-Bold.otf.2.000;GOOG;NotoSansBengali-Bold; SECBengali-Bold
-NotoSansSundanese-Regular.ttf.Monotype Imaging - Noto Sans Sundanese
-CutiveMono.ttf.Cutive Mono Regular Version 1.002
-RobotoCondensed-BoldItalic.ttf.Google:Roboto Condensed Bold Italic:2017
-NotoSansPhoenician-Regular.ttf.Monotype Imaging - Noto Sans Phoenician
-SECGujarati-Bold.ttf.Monotype Imaging - SECGujarati Bold
-NotoSansKannadaUI-Regular.ttf.Monotype Imaging - Noto Sans Kannada UI
-NotoSansAdlam-VF.ttf.3.000;GOOG;NotoSansAdlam-Regular
-NotoSansDevanagariUI-Medium.otf.2.000;GOOG;NotoSansDevanagariUI-Medium
-NotoSansBrahmi-Regular.ttf.Monotype Imaging - Noto Sans Brahmi
-NotoSerifCJK-Regular.ttc.1.001;GOOG;NotoSerifCJKjp-Regular;ADOBE
-NotoSerifCJK-Regular.ttc.1.001;GOOG;NotoSerifCJKkr-Regular;ADOBE
-NotoSerifCJK-Regular.ttc.1.001;GOOG;NotoSerifCJKsc-Regular;ADOBE
-NotoSerifCJK-Regular.ttc.1.001;GOOG;NotoSerifCJKtc-Regular;ADOBE
-SECBengaliUI-Medium.otf.2.000;GOOG;NotoSansBengaliUI-Medium; SECBengaliUI-Medium
-NotoSansMongolian-Regular.ttf.Monotype Imaging - Noto Sans Mongolian
-SECGujarati-Regular.ttf.Monotype Imaging - SECGujarati
-NotoSansTagalog-Regular.ttf.Monotype Imaging - Noto Sans Tagalog
-NotoSansJavanese-Regular.otf.2.000;GOOG;NotoSansJavanese-Regular
-SECRobotoLight-Bold.ttf.Google:Roboto Medium:2017
-NotoSansOsmanya-Regular.ttf.Monotype Imaging - Noto Sans Osmanya
-SECKannadaUI-Regular.ttf.Monotype Imaging - SECKannada UI
-DroidSans-Bold.ttf.Google:Roboto Bold:2017
-SECTamil-Regular.otf.2.000;GOOG;NotoSansTamil-Regular; SECTamil-Regular
-NotoSansSaurashtra-Regular.ttf.Monotype Imaging - Noto Sans Saurashtra
-NotoSansMarchen-Regular.otf.2.000;GOOG;NotoSansMarchen-Regular
-NotoSansTamil-Medium.otf.2.000;GOOG;NotoSansTamil-Medium
-Roboto-Light.ttf.Google:Roboto Light:2017
-NotoSansMalayalam-Medium.otf.2.000;GOOG;NotoSansMalayalam-Medium
-NotoSansSamaritan-Regular.ttf.Monotype Imaging - Noto Sans Samaritan
-NotoSansOldSouthArabian-Regular.ttf.Monotype Imaging - Noto Sans Old South Arabian
-NotoSansDevanagari-Medium.otf.2.000;GOOG;NotoSansDevanagari-Medium
-SECDevanagariUI-Regular.otf.2.000;GOOG;NotoSansDevanagariUI-Regular; SECDevanagariUI-Regular
-NotoSansWarangCiti-Regular.otf.2.000;GOOG;NotoSansWarangCiti-Regular
-NotoSansLaoUI-Bold.ttf.Noto Sans Lao UI Bold
-RobotoCondensed-MediumItalic.ttf.Google:Roboto Condensed Medium Italic:2017
-NotoSerifTamil-Regular.otf.2.000;GOOG;NotoSerifTamil-Regular
-SECTibetan-Bold.ttf.Monotype Imaging - SECTibetan Bold
-DancingScript-Bold.ttf.PabloImpallari.www.impallari.comIginoMarini.www.ikern.com: Dancing Script Bold: 2010
-NotoSansThaiUI-Regular.ttf.Monotype Imaging - Noto Sans Thai UI
-NotoSansTamil-Bold.otf.2.000;GOOG;NotoSansTamil-Bold
-NotoSansGurmukhiUI-Regular.ttf.Monotype Imaging - Noto Sans Gurmukhi UI
-NotoSerifGujarati-Regular.ttf.Monotype Imaging - Noto Serif Gujarati
-NotoSerifGurmukhi-Bold.otf.1.900;GOOG;NotoSerifGurmukhi-Bold
-SECLaoUI-Regular.ttf.SEC Sans Lao UI
-NotoSansOriya-Bold.ttf.Monotype Imaging - Noto Sans Oriya Bold
-SamsungColorEmoji.ttf.SamsungColorEmoji
-NotoSerif-Italic.ttf.Monotype Imaging - Noto Serif Italic
-NotoSansMyanmar-Bold.otf.2.001;GOOG;NotoSansMyanmar-Bold
-NotoSerifEthiopic-Bold.otf.2.000;GOOG;NotoSerifEthiopic-Bold
-SECMyanmarUI-Regular.otf.2.000;GOOG;NotoSansMyanmarUI-Regular; SECMyanmarUI-Regular
-NotoSerifArmenian-Bold.otf.2.040;GOOG;NotoSerifArmenian-Bold
-NotoSansTamilUI-Regular.otf.2.000;GOOG;NotoSansTamilUI-Regular
-NotoSansInscriptionalParthian-Regular.ttf.Monotype Imaging - Noto Sans Inscriptional Parthian
-NotoSerif-BoldItalic.ttf.Monotype Imaging - Noto Serif Bold Italic
-SECDevanagari-Regular.otf.2.000;GOOG;NotoSansDevanagari-Regular; SECDevanagari-Regular
-NotoSerifGeorgian-VF.ttf.2.001;GOOG;NotoSerifGeorgian-Regular
-NotoSansKhmerUI-Regular.ttf.Noto Sans Khmer UI
-Clock2021_Fixed.ttf.1.000;SHRP;Clock2021_Fixed-Regular
-RobotoCondensed-Medium.ttf.Google:Roboto Condensed Medium:2017
-NotoSansAnatolianHieroglyphs-Regular.otf.2.000;GOOG;NotoSansAnatolianHieroglyphs-Regular
-NotoSansBuginese-Regular.ttf.Monotype Imaging - Noto Sans Buginese
-NotoSerifKhmer-Bold.otf.2.001;GOOG;NotoSerifKhmer-Bold
-NotoSansMultani-Regular.otf.2.000;GOOG;NotoSansMultani-Regular
-NotoSerifEthiopic-Regular.otf.2.000;GOOG;NotoSerifEthiopic-Regular
-Roboto-Thin.ttf.Google:Roboto Thin:2020
-NotoSansNKo-Regular.ttf.Monotype Imaging - Noto Sans NKo
-NotoSansBengali-Medium.otf.2.000;GOOG;NotoSansBengali-Medium
-SamsungMyanmarZawgyiUI-Regular.ttf.Monotype Imaging - SamsungMyanmarZawgyiUI
-NotoSansKhojki-Regular.otf.2.001;GOOG;NotoSansKhojki-Regular
-NotoSansThaiUI-Bold.ttf.Monotype Imaging - Noto Sans Thai UI Bold
-NotoSansCypriot-Regular.ttf.Monotype Imaging - Noto Sans Cypriot
-NotoSansOldTurkic-Regular.ttf.Monotype Imaging - Noto Sans Old Turkic
-NotoSansOldPermic-Regular.otf.2.000;GOOG;NotoSansOldPermic-Regular
-NotoSansSinhala-Bold.otf.2.000;GOOG;NotoSansSinhala-Bold
-NotoSerif-Bold.ttf.Monotype Imaging - Noto Serif Bold
-Clock2019L-RM.ttf.SamsungElectronics:Clock2017L-RM:2021
-SamsungMyanmarShan-Bold.ttf.Samsung Electronics; SamsungMyanmarShan Bold
-NotoSansDevanagari-Regular.otf.2.000;GOOG;NotoSansDevanagari-Regular
-NotoSansArmenian-Medium.otf.2.040;GOOG;NotoSansArmenian-Medium
-NotoSansEthiopic-Bold.ttf.Monotype Imaging - Noto Sans Ethiopic Bold
-SECDevanagari-Bold.otf.2.000;GOOG;NotoSansDevanagari-Bold; SECDevanagari-Bold
-NotoSansMalayalamUI-Bold.otf.2.000;GOOG;NotoSansMalayalamUI-Bold
-NotoSansThai-Bold.ttf.Monotype Imaging - Noto Sans Thai Bold
-SECLao-Bold.ttf.SEC Lao Bold
-NotoSansMeeteiMayek-Regular.ttf.Monotype Imaging - Noto Sans Meetei Mayek
-NotoSansBatak-Regular.ttf.Monotype Imaging - Noto Sans Batak
-DancingScript-Regular.ttf.PabloImpallari.www.impallari.com: Dancing Script: 2011
-NotoSansTamil-Regular.otf.2.000;GOOG;NotoSansTamil-Regular
-NotoSansElbasan-Regular.otf.2.000;GOOG;NotoSansElbasan-Regular
-SECCutiveMono.ttf.SECCutiveMono Regular Version 1.002
-NotoSansBamum-Regular.ttf.Monotype Imaging - Noto Sans Bamum
-SamsungKorean-Light.ttf.YoonDesignInc.: SamsungKorean_v2.0-Light: 2019
-NotoSansMeroitic-Regular.otf.2.000;GOOG;NotoSansMeroitic-Regular
-SECDevanagari-Medium.otf.2.000;GOOG;NotoSansDevanagari-Medium; SECDevanagari-Medium
-NotoSerifSinhala-Bold.otf.2.000;GOOG;NotoSerifSinhala-Bold
-NotoSerifThai-Bold.ttf.Monotype Imaging - Noto Serif Thai Bold
-NotoNaskhArabicUI-Regular.ttf.Monotype Imaging - Noto Naskh Arabic UI
-SamsungKhmerUI-Regular.ttf.SamsungKhmerUI:Version 1.00
-NotoSansTifinagh-Regular.otf.2.002;GOOG;NotoSansTifinagh-Regular
-NotoSansOldNorthArabian-Regular.otf.2.000;GOOG;NotoSansOldNorthArabian-Regular
-SECTamilUI-Medium.otf.2.000;GOOG;NotoSansTamilUI-Medium; SECTamilUI-Medium
-SECMalayalamUI-Regular.otf.2.000;GOOG;NotoSansMalayalamUI-Regular; SECMalayalamUI-Regular
-NotoSerifGujarati-Bold.ttf.Monotype Imaging - Noto Serif Gujarati Bold
-SECGujaratiUI-Regular.ttf.Monotype Imaging - SECGujarati UI
-NotoSerifKannada-Regular.ttf.Monotype Imaging - Noto Serif Kannada
-NotoSerifKannada-Bold.ttf.Monotype Imaging - Noto Serif Kannada Bold
-NotoSansPahawhHmong-Regular.otf.2.000;GOOG;NotoSansPahawhHmong-Regular
-SECLao-Regular.ttf.SEC Lao
-NotoSansShavian-Regular.ttf.Monotype Imaging - Noto Sans Shavian
-NotoSansWancho-Regular.otf.2.000;GOOG;NotoSansWancho-Regular
-NotoSansOlChiki-Regular.ttf.Monotype Imaging - Noto Sans Ol Chiki
-NotoSansLydian-Regular.ttf.Monotype Imaging - Noto Sans Lydian
-NotoSansKhmerUI-Bold.ttf.Noto Sans Khmer UI Bold
-NotoSansCarian-Regular.ttf.Monotype Imaging - Noto Sans Carian
-NotoSansSyriacWestern-Regular.ttf.Monotype Imaging - Noto Sans Syriac Western
-SamsungKhmerUI-Bold.ttf.SamsungKhmerUI Bold:Version 1.00
-NotoSansBengaliUI-Bold.otf.2.000;GOOG;NotoSansBengaliUI-Bold
-NotoSansDeseret-Regular.ttf.Monotype Imaging - Noto Sans Deseret
-Roboto-BlackItalic.ttf.Google:Roboto Black Italic:2017
-RobotoCondensed-Italic.ttf.Google:Roboto Condensed Italic:2017
-SECKannada-Regular.ttf.Monotype Imaging - SECKannada
-NotoSerifMalayalam-Regular.ttf.Monotype Imaging - Noto Serif Malayalam
-NotoSansTamilUI-Medium.otf.2.000;GOOG;NotoSansTamilUI-Medium
-NotoSerifLao-Regular.ttf.Noto Serif Lao
-SECDevanagariUI-Bold.otf.2.000;GOOG;NotoSansDevanagariUI-Bold; SECDevanagariUI-Bold
-NotoSansHebrew-Bold.ttf.Monotype Imaging - Noto Sans Hebrew Bold
-NotoSansGujarati-Regular.ttf.Monotype Imaging - Noto Sans Gujarati
-NotoSansKharoshthi-Regular.ttf.Monotype Imaging - Noto Sans Kharoshthi
-NotoSansGurmukhiUI-Bold.ttf.Monotype Imaging - Noto Sans Gurmukhi UI Bold
-SECRobotoCondensed-Bold.ttf.Google:Roboto Condensed Bold:2017
-NotoSansSinhala-Medium.otf.2.000;GOOG;NotoSansSinhala-Medium
-NotoSansKannada-Bold.ttf.Monotype Imaging - Noto Sans Kannada Bold
-SECNaskhArabic-Bold.ttf.Monotype Imaging - SEC Naskh Arabic Bold
-SECTelugu-Regular.ttf.Monotype Imaging - SECTelugu
-NotoSansKayahLi-Regular.ttf.Monotype Imaging - Noto Sans Kayah Li
-SECGujaratiUI-Bold.ttf.Monotype Imaging - SECGujarati UI Bold
-RobotoNum-3R.ttf.Google:RobotoNum-3R:2015
-NotoSansCham-Regular.ttf.Noto Sans Cham:Version 1.00
-NotoSansSinhalaUI-Medium.otf.2.000;GOOG;NotoSansSinhalaUI-Medium
-NotoSansMyanmar-Regular.otf.2.001;GOOG;NotoSansMyanmar-Regular
-NotoSansOriya-Regular.ttf.Monotype Imaging - Noto Sans Oriya
-NotoSansOgham-Regular.ttf.Monotype Imaging - Noto Sans Ogham
-NotoSansKannada-Regular.ttf.Monotype Imaging - Noto Sans Kannada
-NotoSansSylotiNagri-Regular.ttf.Monotype Imaging - Noto Sans Syloti Nagri
-NotoSansTeluguUI-Regular.ttf.Monotype Imaging - Noto Sans Telugu UI
-NotoSerifLao-Bold.ttf.Noto Serif Lao Bold
-NotoSansGeorgian-VF.ttf.2.001;GOOG;NotoSansGeorgian-Regular
-NotoSansMalayalamUI-Regular.otf.2.000;GOOG;NotoSansMalayalamUI-Regular
-NotoSansLisu-Regular.ttf.Monotype Imaging - Noto Sans Lisu
-NotoSansSyriacEastern-Regular.ttf.Monotype Imaging - Noto Sans Syriac Eastern
-SECLaoUI-Bold.ttf.SEC Sans Lao UI Bold
-SamsungMyanmarShan-Regular.ttf.Samsung Electronics; SamsungMyanmarShan
-SECGurmukhi-Regular.ttf.Monotype Imaging - SECGurmukhi
-NotoSansPhagsPa-Regular.ttf.Monotype Imaging - Noto Sans Phags Pa
 NotoSansAvestan-Regular.ttf.Monotype Imaging - Noto Sans Avestan
-SECTibetan-Regular.ttf.Monotype Imaging - SECTibetan
-NotoSansSinhala-Regular.otf.2.000;GOOG;NotoSansSinhala-Regular
-NotoSansDevanagari-Bold.otf.2.000;GOOG;NotoSansDevanagari-Bold
-SECTamil-Medium.otf.2.000;GOOG;NotoSansTamil-Medium; SECTamil-Medium
-SECNaskhArabicUI-Bold.ttf.Monotype Imaging - SEC Naskh Arabic UI Bold
-NotoSansBengali-Regular.otf.2.000;GOOG;NotoSansBengali-Regular
-Roboto-ThinItalic.ttf.Google:Roboto Thin Italic:2017
-NotoNaskhArabicUI-Bold.ttf.Monotype Imaging - Noto Naskh Arabic UI Bold
-SECRobotoLight-Regular.ttf.Google:Roboto Regular:2017
-NotoSansSinhalaUI-Bold.otf.2.000;GOOG;NotoSansSinhalaUI-Bold
-NotoSerifBengali-Regular.ttf.Monotype Imaging - Noto Serif Bengali
-SECMyanmarUI-Medium.otf.2.000;GOOG;NotoSansMyanmarUI-Medium; SECMyanmarUI-Medium
-NotoSansOldItalic-Regular.ttf.Monotype Imaging - Noto Sans Old Italic
-NotoSerifThai-Regular.ttf.Monotype Imaging - Noto Serif Thai
-NotoSansCham-Bold.ttf.Noto Sans Cham Bold:Version 1.00
-SECCJK-Regular.ttc.2.001;GOOG;SECCJKjp-Regular;ADOBE
-SECCJK-Regular.ttc.2.001;GOOG;SECCJKkr-Regular;ADOBE
-SECCJK-Regular.ttc.2.001;GOOG;SECCJKsc-Regular;ADOBE
-SECCJK-Regular.ttc.2.001;GOOG;SECCJKtc-Regular;ADOBE
-SECCJK-Regular.ttc.2.001;GOOG;SECCJKhk-Regular;ADOBE
-SECCJK-Regular.ttc.2.001;GOOG;SECMonoCJKjp-Regular;ADOBE
-SECCJK-Regular.ttc.2.001;GOOG;SECMonoCJKkr-Regular;ADOBE
-SECCJK-Regular.ttc.2.001;GOOG;SECMonoCJKsc-Regular;ADOBE
-SECCJK-Regular.ttc.2.001;GOOG;SECMonoCJKtc-Regular;ADOBE
-SECCJK-Regular.ttc.2.001;GOOG;NotoSansMonoCJKhk-Regular;ADOBE
-NotoSansBengaliUI-Regular.otf.2.000;GOOG;NotoSansBengaliUI-Regular
-RobotoNum-3L.ttf.Google:RobotoNum-3L:2014
-NotoSansThai-Regular.ttf.Monotype Imaging - Noto Sans Thai
-NotoSansThaana-Bold.ttf.Monotype Imaging - Noto Sans Thaana Bold
-NotoSansYi-Regular.ttf.Monotype Imaging - Noto Sans Yi
-SECTamilUI-Bold.otf.2.000;GOOG;NotoSansTamilUI-Bold; SECTamilUI-Bold
-NotoSansPalmyrene-Regular.otf.2.000;GOOG;NotoSansPalmyrene-Regular
-NotoSansMalayalam-Bold.otf.2.000;GOOG;NotoSansMalayalam-Bold
-NotoSansCherokee-Regular.ttf.Version 1.900;GOOG;Noto Sans Cherokee Regular
-NotoSerifMyanmar-Bold.otf.2.001;GOOG;NotoSerifMyanmar-Bold
-Roboto-BoldItalic.ttf.Google:Roboto Bold Italic:2017
-SamsungOneUINum-500.ttf.1.000;BA  ;SamsungOneUINum-500: 2015
-NotoColorEmoji.ttf.Noto Color Emoji
-NotoSansMandaic-Regular.ttf.Monotype Imaging - Noto Sans Mandaic
-SECKannadaUI-Bold.ttf.Monotype Imaging - SECKannada UI Bold
-Roboto-MediumItalic.ttf.Google:Roboto Medium Italic:2017
-NotoSansArmenian-Bold.otf.2.040;GOOG;NotoSansArmenian-Bold
-SECBengaliUI-Bold.otf.2.000;GOOG;NotoSansBengaliUI-Bold; SECBengaliUI-Bold
-SECTamilUI-Regular.otf.2.000;GOOG;NotoSansTamilUI-Regular; SECTamilUI-Regular
-SECDevanagariUI-Medium.otf.2.000;GOOG;NotoSansDevanagariUI-Medium; SECDevanagariUI-Medium
-NotoSansSharada-Regular.otf.2.000;GOOG;NotoSansSharada-Regular
-NotoSansTelugu-Bold.ttf.Monotype Imaging - Noto Sans Telugu Bold
-NotoSansLinearA-Regular.otf.2.000;GOOG;NotoSansLinearA-Regular
-ComingSoon.ttf.OpenWindow: Coming Soon: 2010
-NotoSansRejang-Regular.ttf.Monotype Imaging - Noto Sans Rejang
-NotoSansTaiTham-Regular.ttf.Monotype Imaging - Noto Sans Tai Tham
-NotoSerifHebrew-Regular.ttf.Version 1.901;GOOG;Noto Serif Hebrew Regular
-Roboto-LightItalic.ttf.Google:Roboto Light Italic:2017
-SECMalayalam-Bold.otf.2.000;GOOG;NotoSansMalayalam-Bold; SECMalayalam-Bold
-NotoSansOriyaUI-Bold.ttf.Monotype Imaging - Noto Sans Oriya UI Bold
-NotoSerifSinhala-Regular.otf.2.000;GOOG;NotoSerifSinhala-Regular
-SamsungKorean-Bold.ttf.YoonDesignInc.: SamsungKorean_v2.0-Bold: 2017
-NotoSansKaithi-Regular.ttf.Monotype Imaging - Noto Sans Kaithi
-NotoSansManichaean-Regular.otf.2.000;GOOG;NotoSansManichaean-Regular
-NotoSansBengali-Bold.otf.2.000;GOOG;NotoSansBengali-Bold
-SECTamil-Bold.otf.2.000;GOOG;NotoSansTamil-Bold; SECTamil-Bold
-NotoSansTibetan-Regular.ttf.Monotype Imaging - Noto Sans Tibetan
-NotoSerifBengali-Bold.ttf.Monotype Imaging - Noto Serif Bengali Bold
-NotoSansLaoUI-Regular.ttf.Noto Sans Lao UI
-NotoSansMalayalam-Regular.otf.2.000;GOOG;NotoSansMalayalam-Regular
-Roboto-Regular.ttf.Google:Roboto Regular:2017
-NotoSansHanunoo-Regular.ttf.Monotype Imaging - Noto Sans Hanunoo
-NotoSansNabataean-Regular.otf.2.000;GOOG;NotoSansNabataean-Regular
-NotoSansGurmukhi-Bold.ttf.Monotype Imaging - Noto Sans Gurmukhi Bold
-SECGurmukhi-Bold.ttf.Monotype Imaging -SECGurmukhi Bold
-NotoSansChakma-Regular.otf.2.001;GOOG;NotoSansChakma-Regular
-NotoSansMyanmarUI-Regular.otf.2.000;GOOG;NotoSansMyanmarUI-Regular
-NotoSansMyanmar-Medium.otf.2.001;GOOG;NotoSansMyanmar-Medium
 NotoSerifHebrew-Bold.ttf.Version 1.901;GOOG;Noto Serif Hebrew Bold
-NotoSansBassaVah-Regular.otf.2.000;GOOG;NotoSansBassaVah-Regular
-SECMalayalamUI-Medium.otf.2.000;GOOG;NotoSansMalayalamUI-Medium; SECMalayalamUI-Medium
-Clock2021.ttf.1.000;SHRP;Clock2021-Regular
-Roboto-Bold.ttf.Google:Roboto Bold:2017
-NotoSansRunic-Regular.ttf.Monotype Imaging - Noto Sans Runic
-SECNaskhArabic-Regular.ttf.Monotype Imaging - SEC Naskh Arabic
-NotoSansGothic-Regular.ttf.Monotype Imaging - Noto Sans Gothic
-NotoSansKannadaUI-Bold.ttf.Monotype Imaging - Noto Sans Kannada UI Bold
-NotoSansGunjalaGondi-Regular.otf.1.001;GOOG;NotoSansGunjalaGondi-Regular
-NotoSansArmenian-Regular.otf.2.040;GOOG;NotoSansArmenian-Regular
-NotoSerifTelugu-Regular.ttf.Monotype Imaging - Noto Serif Telugu
-SECKannada-Bold.ttf.Monotype Imaging - SECKannada Bold
-NotoSansGurmukhi-Regular.ttf.Monotype Imaging - Noto Sans Gurmukhi
-NotoSansOldPersian-Regular.ttf.Monotype Imaging - Noto Sans Old Persian
-NotoSansLao-Regular.ttf.Noto Sans Lao
-NotoSansCoptic-Regular.ttf.Monotype Imaging - Noto Sans Coptic
-NotoSansTibetan-Bold.ttf.Monotype Imaging - Noto Sans Tibetan Bold
-NotoSerifKhmer-Regular.otf.2.001;GOOG;NotoSerifKhmer-Regular
-NotoSansGlagolitic-Regular.ttf.Monotype Imaging - Noto Sans Glagolitic
-NotoSansOriyaUI-Regular.ttf.Monotype Imaging - Noto Sans Oriya UI
-NotoSansMro-Regular.otf.2.000;GOOG;NotoSansMro-Regular
-RobotoCondensed-Light.ttf.Google:Roboto Condensed Light:2017
-NotoSansMyanmarUI-Medium.otf.2.000;GOOG;NotoSansMyanmarUI-Medium
-NotoSansVai-Regular.ttf.Monotype Imaging - Noto Sans Vai
-NotoSansLycian-Regular.ttf.Monotype Imaging - Noto Sans Lycian
-RobotoCondensed-LightItalic.ttf.Google:Roboto Condensed Light Italic:2017
 SECTeluguUI-Regular.ttf.Monotype Imaging - SECTelugu UI
-NotoSansLao-Bold.ttf.Noto Sans Lao Bold
-NotoSerifTelugu-Bold.ttf.Monotype Imaging - Noto Serif Telugu Bold
-NotoSansEthiopic-Regular.ttf.Monotype Imaging - Noto Sans Ethiopic
-NotoSerifDevanagari-Regular.ttf.Monotype Imaging - Noto Serif Devanagari
-CarroisGothicSC-Regular.ttf.RalphduCarrois: Carrois Gothic SC: 2011
-NotoSansSoraSompeng-Regular.otf.2.000;GOOG;NotoSansSoraSompeng-Regular
-NotoNaskhArabic-Bold.ttf.Monotype Imaging - Noto Naskh Arabic Bold
-NotoSansSymbols-Regular-Subsetted2.ttf.Monotype Imaging - Noto Sans Symbols
-NotoSansTeluguUI-Bold.ttf.Monotype Imaging - Noto Sans Telugu UI Bold
-SECMalayalamUI-Bold.otf.2.000;GOOG;NotoSansMalayalamUI-Bold; SECMalayalamUI-Bold
-NotoSansGujaratiUI-Regular.ttf.Monotype Imaging - Noto Sans Gujarati UI
-NotoSansSinhalaUI-Regular.otf.2.000;GOOG;NotoSansSinhalaUI-Regular
-SECTelugu-Bold.ttf.Monotype Imaging - SECTelugu Bold
-NotoSansBalinese-Regular.ttf.Monotype Imaging - Noto Sans Balinese
-NotoSansCuneiform-Regular.ttf.Monotype Imaging - Noto Sans Cuneiform
-NotoSansSyriacEstrangela-Regular.ttf.Monotype Imaging - Noto Sans Syriac Estrangela
-NotoSansTagbanwa-Regular.ttf.Monotype Imaging - Noto Sans Tagbanwa
+NotoSansLinearA-Regular.otf.2.000;GOOG;NotoSansLinearA-Regular
+SECMyanmarUI-Regular.otf.2.000;GOOG;NotoSansMyanmarUI-Regular; SECMyanmarUI-Regular
+NotoSansCypriot-Regular.ttf.Monotype Imaging - Noto Sans Cypriot
+NotoSansTaiLe-Regular.ttf.Monotype Imaging - Noto Sans Tai Le
+SECRobotoLight-Regular.ttf.Google:Roboto Regular:2017
+SamsungOneUINum-500.ttf.1.000;BA  ;SamsungOneUINum-500: 2015
+NotoSansNewTaiLue-Regular.ttf.Monotype Imaging - Noto Sans New Tai Lue
+NotoSansTamil-Bold.otf.2.000;GOOG;NotoSansTamil-Bold
+NotoSansMultani-Regular.otf.2.000;GOOG;NotoSansMultani-Regular
+SECTamilUI-Bold.otf.2.000;GOOG;NotoSansTamilUI-Bold; SECTamilUI-Bold
+NotoSansGlagolitic-Regular.ttf.Monotype Imaging - Noto Sans Glagolitic
+RobotoNum-3L.ttf.Google:RobotoNum-3L:2014
+NotoSerifEthiopic-Bold.otf.2.000;GOOG;NotoSerifEthiopic-Bold
+NotoSansNKo-Regular.ttf.Monotype Imaging - Noto Sans NKo
+NotoSansNewa-Regular.otf.2.000;GOOG;NotoSansNewa-Regular
+SECMalayalam-Medium.otf.2.000;GOOG;NotoSansMalayalam-Medium; SECMalayalam-Medium
 NotoSansAhom-Regular.otf.2.000;GOOG;NotoSansAhom-Regular
+NotoSerif-BoldItalic.ttf.Monotype Imaging - Noto Serif Bold Italic
+SECGujaratiUI-Regular.ttf.Monotype Imaging - SECGujarati UI
+Roboto-Light.ttf.Google:Roboto Light:2017
+Roboto-Regular.ttf.Google:Roboto Regular:2017
 Clock2019L.ttf.SamsungElectronics:Clock2017L:2017
+NotoNaskhArabic-Regular.ttf.Monotype Imaging - Noto Naskh Arabic
+NotoSerifMyanmar-Bold.otf.2.001;GOOG;NotoSerifMyanmar-Bold
+NotoSansSyriacEastern-Regular.ttf.Monotype Imaging - Noto Sans Syriac Eastern
+NotoSansKannada-Bold.ttf.Monotype Imaging - Noto Sans Kannada Bold
+NotoSansSymbols-Regular-Subsetted.ttf.Monotype Imaging - Noto Sans Symbols
+NotoSansMalayalamUI-Medium.otf.2.000;GOOG;NotoSansMalayalamUI-Medium
 SECMalayalam-Regular.otf.2.000;GOOG;NotoSansMalayalam-Regular; SECMalayalam-Regular
-NotoSerifGurmukhi-Regular.otf.1.900;GOOG;NotoSerifGurmukhi-Regular
-DroidSansMono.ttf.Ascender - Droid Sans Mono
-NotoSansDevanagariUI-Bold.otf.2.000;GOOG;NotoSansDevanagariUI-Bold
-NotoSerifTamil-Bold.otf.2.000;GOOG;NotoSerifTamil-Bold
+NotoSansDevanagariUI-Regular.otf.2.000;GOOG;NotoSansDevanagariUI-Regular
+NotoSansKannadaUI-Regular.ttf.Monotype Imaging - Noto Sans Kannada UI
+NotoSansBuginese-Regular.ttf.Monotype Imaging - Noto Sans Buginese
+NotoSansLepcha-Regular.ttf.Monotype Imaging - Noto Sans Lepcha
+NotoSansDeseret-Regular.ttf.Monotype Imaging - Noto Sans Deseret
+NotoSansOsage-Regular.ttf.2.000;GOOG;NotoSansOsage-Regular
+NotoSansThaiUI-Regular.ttf.Monotype Imaging - Noto Sans Thai UI
+SECLaoUI-Regular.ttf.SEC Sans Lao UI
 NotoSansCJK-Regular.ttc.2.001;GOOG;NotoSansCJKjp-Regular;ADOBE
 NotoSansCJK-Regular.ttc.2.001;GOOG;NotoSansCJKkr-Regular;ADOBE
 NotoSansCJK-Regular.ttc.2.001;GOOG;NotoSansCJKsc-Regular;ADOBE
@@ -289,61 +48,302 @@ NotoSansCJK-Regular.ttc.2.001;GOOG;NotoSansMonoCJKkr-Regular;ADOBE
 NotoSansCJK-Regular.ttc.2.001;GOOG;NotoSansMonoCJKsc-Regular;ADOBE
 NotoSansCJK-Regular.ttc.2.001;GOOG;NotoSansMonoCJKtc-Regular;ADOBE
 NotoSansCJK-Regular.ttc.2.001;GOOG;NotoSansMonoCJKhk-Regular;ADOBE
-NotoSansBhaiksuki-Regular.otf.1.900;GOOG;NotoSansBhaiksuki-Regular
-NotoSansCanadianAboriginal-Regular.ttf.Monotype Imaging - Noto Sans Canadian Aboriginal
-NotoSansNewTaiLue-Regular.ttf.Monotype Imaging - Noto Sans New Tai Lue
-NotoSansImperialAramaic-Regular.ttf.Monotype Imaging - Noto Sans Imperial Aramaic
-SECBengali-Medium.otf.2.000;GOOG;NotoSansBengali-Medium; SECBengali-Medium
-RobotoCondensed-Regular.ttf.Google:Roboto Condensed Regular:2017
-NotoSansMiao-Regular.otf.2.000;GOOG;NotoSansMiao-Regular
-NotoSansMyanmarUI-Bold.otf.2.000;GOOG;NotoSansMyanmarUI-Bold
-NotoSansPauCinHau-Regular.otf.2.000;GOOG;NotoSansPauCinHau-Regular
-NotoSansUgaritic-Regular.ttf.Monotype Imaging - Noto Sans Ugaritic
-NotoSerifMalayalam-Bold.ttf.Monotype Imaging - Noto Serif Malayalam Bold
-SECMalayalam-Medium.otf.2.000;GOOG;NotoSansMalayalam-Medium; SECMalayalam-Medium
-SECTeluguUI-Bold.ttf.Monotype Imaging - SECTelugu UI Bold
-NotoSansKhmer-VF.ttf.Version 1.901;GOOG;Noto Sans Khmer Regular
-NotoSansTaiViet-Regular.ttf.Monotype Imaging - Noto Sans Tai Viet
-RobotoCondensed-Bold.ttf.Google:Roboto Condensed Bold:2017
-SamsungMyanmarZawgyiUI-Bold.ttf.Monotype Imaging -SamsungMyanmarZawgyiUI Bold
-DroidSans.ttf.Google:Roboto Regular:2017
-NotoNaskhArabic-Regular.ttf.Monotype Imaging - Noto Naskh Arabic
-NotoSansHanifiRohingya-Regular.otf.2.002;GOOG;NotoSansHanifiRohingya-Regular
-Roboto-Italic.ttf.Google:Roboto Italic:2017
-NotoSansLepcha-Regular.ttf.Monotype Imaging - Noto Sans Lepcha
-NotoSansTaiLe-Regular.ttf.Monotype Imaging - Noto Sans Tai Le
-NotoSansBengaliUI-Medium.otf.2.000;GOOG;NotoSansBengaliUI-Medium
-NotoSerifMyanmar-Regular.otf.2.001;GOOG;NotoSerifMyanmar-Regular
-NotoSansGujarati-Bold.ttf.Monotype Imaging - Noto Sans Gujarati Bold
-NotoSansEgyptianHieroglyphs-Regular.ttf.Monotype Imaging - Noto Sans Egyptian Hieroglyphs
-NotoSansNewa-Regular.otf.2.000;GOOG;NotoSansNewa-Regular
-NotoSansMasaramGondi-Regular.otf.1.002;GOOG;NotoSansMasaramGondi-Regular
-SECNaskhArabicUI-Regular.ttf.Monotype Imaging - SEC Naskh Arabic UI
-SECBengali-Regular.otf.2.000;GOOG;NotoSansBengali-Regular; SECBengali-Regular
-NotoSerif-Regular.ttf.Monotype Imaging - Noto Serif
-SECGurmukhiUI-Bold.ttf.Monotype Imaging - SECGurmukhi UI Bold
-NotoSansBuhid-Regular.ttf.Monotype Imaging - Noto Sans Buhid
-NotoSansInscriptionalPahlavi-Regular.ttf.Monotype Imaging - Noto Sans Inscriptional Pahlavi
-NotoSerifDevanagari-Bold.ttf.Monotype Imaging - Noto Serif Devanagari Bold
-NotoSansHatran-Regular.otf.2.000;GOOG;NotoSansHatran-Regular
-SECFallback.ttf.SECFallback
-Roboto-Black.ttf.Google:Roboto Black:2017
-NotoSansLinearB-Regular.ttf.Monotype Imaging - Noto Sans Linear B
-NotoSansOsage-Regular.ttf.2.000;GOOG;NotoSansOsage-Regular
-NotoSansGujaratiUI-Bold.ttf.Monotype Imaging - Noto Sans Gujarati UI Bold
-NotoSansDevanagariUI-Regular.otf.2.000;GOOG;NotoSansDevanagariUI-Regular
-Roboto-Medium.ttf.Google:Roboto Medium:2017
-SECCJK-Regular-Extra.ttf.1.005;GOOG;SECCJK-Regular-Extra;ADOBE
-NotoSansLimbu-Regular.ttf.Monotype Imaging - Noto Sans Limbu
+SECDevanagari-Medium.otf.2.000;GOOG;NotoSansDevanagari-Medium; SECDevanagari-Medium
+Clock2019L-RM.ttf.SamsungElectronics:Clock2017L-RM:2021
 NotoSansTamilUI-Bold.otf.2.000;GOOG;NotoSansTamilUI-Bold
-NotoSerifArmenian-Regular.otf.2.040;GOOG;NotoSerifArmenian-Regular
-SECGurmukhiUI-Regular.ttf.Monotype Imaging - SECGurmukhi UI
-SamsungKorean-Regular.ttf.YoonDesignInc.: SamsungKorean_v2.0: 2017
-NotoSansTelugu-Regular.ttf.Monotype Imaging - Noto Sans Telugu
-NotoSansMalayalamUI-Medium.otf.2.000;GOOG;NotoSansMalayalamUI-Medium
-NotoSansThaana-Regular.ttf.Monotype Imaging - Noto Sans Thaana
-NotoSansHebrew-Regular.ttf.Monotype Imaging - Noto Sans Hebrew
-NotoSansSymbols-Regular-Subsetted.ttf.Monotype Imaging - Noto Sans Symbols
+NotoSansKaithi-Regular.ttf.Monotype Imaging - Noto Sans Kaithi
+NotoSerifHebrew-Regular.ttf.Version 1.901;GOOG;Noto Serif Hebrew Regular
+Roboto-LightItalic.ttf.Google:Roboto Light Italic:2017
+SECRobotoLight-Bold.ttf.Google:Roboto Medium:2017
+SamsungKhmerUI-Bold.ttf.SamsungKhmerUI Bold:Version 1.00
+NotoSansSyriacWestern-Regular.ttf.Monotype Imaging - Noto Sans Syriac Western
+SECGurmukhiUI-Bold.ttf.Monotype Imaging - SECGurmukhi UI Bold
+NotoSansSinhalaUI-Medium.otf.2.000;GOOG;NotoSansSinhalaUI-Medium
+SamsungMyanmarZawgyiUI-Bold.ttf.Monotype Imaging -SamsungMyanmarZawgyiUI Bold
+NotoSerifKhmer-Bold.otf.2.001;GOOG;NotoSerifKhmer-Bold
+NotoSansGothic-Regular.ttf.Monotype Imaging - Noto Sans Gothic
+NotoSansOldNorthArabian-Regular.otf.2.000;GOOG;NotoSansOldNorthArabian-Regular
+SECDevanagari-Regular.otf.2.000;GOOG;NotoSansDevanagari-Regular; SECDevanagari-Regular
+DancingScript-Bold.ttf.PabloImpallari.www.impallari.comIginoMarini.www.ikern.com: Dancing Script Bold: 2010
+NotoSansBengaliUI-Regular.otf.2.000;GOOG;NotoSansBengaliUI-Regular
+NotoSansPhoenician-Regular.ttf.Monotype Imaging - Noto Sans Phoenician
+NotoSansTamilUI-Medium.otf.2.000;GOOG;NotoSansTamilUI-Medium
+SECGurmukhi-Regular.ttf.Monotype Imaging - SECGurmukhi
+NotoSansOldPersian-Regular.ttf.Monotype Imaging - Noto Sans Old Persian
+NotoSansVai-Regular.ttf.Monotype Imaging - Noto Sans Vai
+NotoSansGujarati-Regular.ttf.Monotype Imaging - Noto Sans Gujarati
+NotoSansArmenian-Bold.otf.2.040;GOOG;NotoSansArmenian-Bold
+DroidSansMono.ttf.Ascender - Droid Sans Mono
+SECNaskhArabic-Bold.ttf.Monotype Imaging - SEC Naskh Arabic Bold
+NotoSansJavanese-Regular.otf.2.000;GOOG;NotoSansJavanese-Regular
+SECTamil-Regular.otf.2.000;GOOG;NotoSansTamil-Regular; SECTamil-Regular
+NotoSansPahawhHmong-Regular.otf.2.000;GOOG;NotoSansPahawhHmong-Regular
+SECTelugu-Bold.ttf.Monotype Imaging - SECTelugu Bold
+NotoSerifMalayalam-Bold.ttf.Monotype Imaging - Noto Serif Malayalam Bold
+NotoSansMasaramGondi-Regular.otf.1.002;GOOG;NotoSansMasaramGondi-Regular
+NotoSansOldSouthArabian-Regular.ttf.Monotype Imaging - Noto Sans Old South Arabian
+NotoSansPalmyrene-Regular.otf.2.000;GOOG;NotoSansPalmyrene-Regular
 SECBengaliUI-Regular.otf.2.000;GOOG;NotoSansBengaliUI-Regular; SECBengaliUI-Regular
+NotoSansGeorgian-VF.ttf.2.001;GOOG;NotoSansGeorgian-Regular
+SECCJK-Regular-Extra.ttf.1.005;GOOG;SECCJK-Regular-Extra;ADOBE
+SECGujaratiUI-Bold.ttf.Monotype Imaging - SECGujarati UI Bold
+NotoSansArmenian-Medium.otf.2.040;GOOG;NotoSansArmenian-Medium
+NotoSerifTelugu-Regular.ttf.Monotype Imaging - Noto Serif Telugu
+NotoSerifBengali-Regular.ttf.Monotype Imaging - Noto Serif Bengali
+SamsungKhmerUI-Regular.ttf.SamsungKhmerUI:Version 1.00
+NotoSansTaiTham-Regular.ttf.Monotype Imaging - Noto Sans Tai Tham
+NotoSerifBengali-Bold.ttf.Monotype Imaging - Noto Serif Bengali Bold
+DroidSans.ttf.Google:Roboto Regular:2017
+NotoSansOriyaUI-Regular.ttf.Monotype Imaging - Noto Sans Oriya UI
+RobotoCondensed-Italic.ttf.Google:Roboto Condensed Italic:2017
+NotoSansTeluguUI-Regular.ttf.Monotype Imaging - Noto Sans Telugu UI
+NotoSerifArmenian-Bold.otf.2.040;GOOG;NotoSerifArmenian-Bold
+SECDevanagariUI-Bold.otf.2.000;GOOG;NotoSansDevanagariUI-Bold; SECDevanagariUI-Bold
+NotoSansCuneiform-Regular.ttf.Monotype Imaging - Noto Sans Cuneiform
+NotoSerifKhmer-Regular.otf.2.001;GOOG;NotoSerifKhmer-Regular
+NotoSansSamaritan-Regular.ttf.Monotype Imaging - Noto Sans Samaritan
+NotoSansGurmukhiUI-Regular.ttf.Monotype Imaging - Noto Sans Gurmukhi UI
+NotoSansHebrew-Regular.ttf.Monotype Imaging - Noto Sans Hebrew
+SECCJK-Regular.ttc.2.001;GOOG;SECCJKjp-Regular;ADOBE
+SECCJK-Regular.ttc.2.001;GOOG;SECCJKkr-Regular;ADOBE
+SECCJK-Regular.ttc.2.001;GOOG;SECCJKsc-Regular;ADOBE
+SECCJK-Regular.ttc.2.001;GOOG;SECCJKtc-Regular;ADOBE
+SECCJK-Regular.ttc.2.001;GOOG;SECCJKhk-Regular;ADOBE
+SECCJK-Regular.ttc.2.001;GOOG;SECMonoCJKjp-Regular;ADOBE
+SECCJK-Regular.ttc.2.001;GOOG;SECMonoCJKkr-Regular;ADOBE
+SECCJK-Regular.ttc.2.001;GOOG;SECMonoCJKsc-Regular;ADOBE
+SECCJK-Regular.ttc.2.001;GOOG;SECMonoCJKtc-Regular;ADOBE
+SECCJK-Regular.ttc.2.001;GOOG;NotoSansMonoCJKhk-Regular;ADOBE
+Roboto-Medium.ttf.Google:Roboto Medium:2017
+NotoSansHatran-Regular.otf.2.000;GOOG;NotoSansHatran-Regular
+NotoSansGunjalaGondi-Regular.otf.1.001;GOOG;NotoSansGunjalaGondi-Regular
+NotoSansCham-Regular.ttf.Noto Sans Cham:Version 1.00
+NotoSerifLao-Regular.ttf.Noto Serif Lao
+NotoSansHanunoo-Regular.ttf.Monotype Imaging - Noto Sans Hanunoo
+NotoSansOldTurkic-Regular.ttf.Monotype Imaging - Noto Sans Old Turkic
+NotoSansBatak-Regular.ttf.Monotype Imaging - Noto Sans Batak
+NotoSansAdlam-VF.ttf.3.000;GOOG;NotoSansAdlam-Regular
+SECDevanagariUI-Regular.otf.2.000;GOOG;NotoSansDevanagariUI-Regular; SECDevanagariUI-Regular
+DancingScript-Regular.ttf.PabloImpallari.www.impallari.com: Dancing Script: 2011
+NotoSansImperialAramaic-Regular.ttf.Monotype Imaging - Noto Sans Imperial Aramaic
+NotoSansMiao-Regular.otf.2.000;GOOG;NotoSansMiao-Regular
+Clock2021_Fixed.ttf.1.000;SHRP;Clock2021_Fixed-Regular
+Roboto-Italic.ttf.Google:Roboto Italic:2017
+NotoSerifSinhala-Regular.otf.2.000;GOOG;NotoSerifSinhala-Regular
+NotoSansEthiopic-Bold.ttf.Monotype Imaging - Noto Sans Ethiopic Bold
+NotoSansThaana-Bold.ttf.Monotype Imaging - Noto Sans Thaana Bold
+SECBengali-Medium.otf.2.000;GOOG;NotoSansBengali-Medium; SECBengali-Medium
+SECRobotoCondensed-Bold.ttf.Google:Roboto Condensed Bold:2017
+CarroisGothicSC-Regular.ttf.RalphduCarrois: Carrois Gothic SC: 2011
+SECTamilUI-Regular.otf.2.000;GOOG;NotoSansTamilUI-Regular; SECTamilUI-Regular
+NotoSansDevanagari-Regular.otf.2.000;GOOG;NotoSansDevanagari-Regular
+NotoSansOldItalic-Regular.ttf.Monotype Imaging - Noto Sans Old Italic
+NotoSansUgaritic-Regular.ttf.Monotype Imaging - Noto Sans Ugaritic
+NotoSansKhmer-VF.ttf.Version 1.901;GOOG;Noto Sans Khmer Regular
+NotoSansOlChiki-Regular.ttf.Monotype Imaging - Noto Sans Ol Chiki
+NotoSansHanifiRohingya-Regular.otf.2.002;GOOG;NotoSansHanifiRohingya-Regular
+NotoSansCham-Bold.ttf.Noto Sans Cham Bold:Version 1.00
+NotoSansMyanmarUI-Medium.otf.2.000;GOOG;NotoSansMyanmarUI-Medium
+NotoSansTibetan-Bold.ttf.Monotype Imaging - Noto Sans Tibetan Bold
+SECNaskhArabicUI-Bold.ttf.Monotype Imaging - SEC Naskh Arabic UI Bold
+SECGurmukhiUI-Regular.ttf.Monotype Imaging - SECGurmukhi UI
+SECTelugu-Regular.ttf.Monotype Imaging - SECTelugu
+NotoSerifTamil-Regular.otf.2.000;GOOG;NotoSerifTamil-Regular
+NotoSansTelugu-Regular.ttf.Monotype Imaging - Noto Sans Telugu
+NotoSansPhagsPa-Regular.ttf.Monotype Imaging - Noto Sans Phags Pa
+NotoSansKayahLi-Regular.ttf.Monotype Imaging - Noto Sans Kayah Li
+NotoSansTeluguUI-Bold.ttf.Monotype Imaging - Noto Sans Telugu UI Bold
+NotoSansHebrew-Bold.ttf.Monotype Imaging - Noto Sans Hebrew Bold
+NotoSansKhmerUI-Bold.ttf.Noto Sans Khmer UI Bold
+NotoSansManichaean-Regular.otf.2.000;GOOG;NotoSansManichaean-Regular
+SECCutiveMono.ttf.SECCutiveMono Regular Version 1.002
+NotoSansEgyptianHieroglyphs-Regular.ttf.Monotype Imaging - Noto Sans Egyptian Hieroglyphs
+NotoSansOsmanya-Regular.ttf.Monotype Imaging - Noto Sans Osmanya
+RobotoCondensed-Bold.ttf.Google:Roboto Condensed Bold:2017
+NotoSansMongolian-Regular.ttf.Monotype Imaging - Noto Sans Mongolian
+NotoSerifThai-Bold.ttf.Monotype Imaging - Noto Serif Thai Bold
+NotoSansMarchen-Regular.otf.2.000;GOOG;NotoSansMarchen-Regular
+NotoSansBengali-Regular.otf.2.000;GOOG;NotoSansBengali-Regular
+NotoSansLinearB-Regular.ttf.Monotype Imaging - Noto Sans Linear B
+NotoSansCherokee-Regular.ttf.Version 1.900;GOOG;Noto Sans Cherokee Regular
+NotoColorEmoji.ttf.Noto Color Emoji
+SECGujarati-Regular.ttf.Monotype Imaging - SECGujarati
+NotoSerif-Bold.ttf.Monotype Imaging - Noto Serif Bold
+NotoSansSylotiNagri-Regular.ttf.Monotype Imaging - Noto Sans Syloti Nagri
+NotoSansMandaic-Regular.ttf.Monotype Imaging - Noto Sans Mandaic
+NotoNaskhArabicUI-Bold.ttf.Monotype Imaging - Noto Naskh Arabic UI Bold
+NotoSansLaoUI-Bold.ttf.Noto Sans Lao UI Bold
+NotoSansLao-Regular.ttf.Noto Sans Lao
+NotoSansMyanmarUI-Regular.otf.2.000;GOOG;NotoSansMyanmarUI-Regular
+NotoSansThaiUI-Bold.ttf.Monotype Imaging - Noto Sans Thai UI Bold
+SECTamil-Bold.otf.2.000;GOOG;NotoSansTamil-Bold; SECTamil-Bold
+NotoSansThaana-Regular.ttf.Monotype Imaging - Noto Sans Thaana
+NotoSansOriyaUI-Bold.ttf.Monotype Imaging - Noto Sans Oriya UI Bold
+NotoSansOriya-Regular.ttf.Monotype Imaging - Noto Sans Oriya
+NotoSerifMyanmar-Regular.otf.2.001;GOOG;NotoSerifMyanmar-Regular
+NotoSansWancho-Regular.otf.2.000;GOOG;NotoSansWancho-Regular
+SECTibetan-Regular.ttf.Monotype Imaging - SECTibetan
+NotoSansAnatolianHieroglyphs-Regular.otf.2.000;GOOG;NotoSansAnatolianHieroglyphs-Regular
+NotoSerifGurmukhi-Regular.otf.1.900;GOOG;NotoSerifGurmukhi-Regular
+NotoSansBalinese-Regular.ttf.Monotype Imaging - Noto Sans Balinese
 SECMyanmarUI-Bold.otf.2.000;GOOG;NotoSansMyanmarUI-Bold; SECMyanmarUI-Bold
+NotoSerifCJK-Regular.ttc.1.001;GOOG;NotoSerifCJKjp-Regular;ADOBE
+NotoSerifCJK-Regular.ttc.1.001;GOOG;NotoSerifCJKkr-Regular;ADOBE
+NotoSerifCJK-Regular.ttc.1.001;GOOG;NotoSerifCJKsc-Regular;ADOBE
+NotoSerifCJK-Regular.ttc.1.001;GOOG;NotoSerifCJKtc-Regular;ADOBE
+NotoSansGurmukhiUI-Bold.ttf.Monotype Imaging - Noto Sans Gurmukhi UI Bold
+NotoSansBhaiksuki-Regular.otf.1.900;GOOG;NotoSansBhaiksuki-Regular
+NotoSerifEthiopic-Regular.otf.2.000;GOOG;NotoSerifEthiopic-Regular
+NotoSerifGujarati-Regular.ttf.Monotype Imaging - Noto Serif Gujarati
+NotoSansMalayalamUI-Bold.otf.2.000;GOOG;NotoSansMalayalamUI-Bold
+NotoSansArmenian-Regular.otf.2.040;GOOG;NotoSansArmenian-Regular
+Roboto-MediumItalic.ttf.Google:Roboto Medium Italic:2017
+NotoSansSundanese-Regular.ttf.Monotype Imaging - Noto Sans Sundanese
+NotoSerifGeorgian-VF.ttf.2.001;GOOG;NotoSerifGeorgian-Regular
+NotoSerifArmenian-Regular.otf.2.040;GOOG;NotoSerifArmenian-Regular
+NotoSansRunic-Regular.ttf.Monotype Imaging - Noto Sans Runic
+NotoSansLaoUI-Regular.ttf.Noto Sans Lao UI
+NotoSansCanadianAboriginal-Regular.ttf.Monotype Imaging - Noto Sans Canadian Aboriginal
+NotoSansMro-Regular.otf.2.000;GOOG;NotoSansMro-Regular
+NotoSansTamil-Medium.otf.2.000;GOOG;NotoSansTamil-Medium
+NotoSansMyanmar-Bold.otf.2.001;GOOG;NotoSansMyanmar-Bold
+NotoNaskhArabic-Bold.ttf.Monotype Imaging - Noto Naskh Arabic Bold
+NotoSerifKannada-Regular.ttf.Monotype Imaging - Noto Serif Kannada
+NotoSansPauCinHau-Regular.otf.2.000;GOOG;NotoSansPauCinHau-Regular
+SECFallback.ttf.SECFallback
+NotoSansTelugu-Bold.ttf.Monotype Imaging - Noto Sans Telugu Bold
+Roboto-BlackItalic.ttf.Google:Roboto Black Italic:2017
+NotoSansOriya-Bold.ttf.Monotype Imaging - Noto Sans Oriya Bold
+SECKannada-Regular.ttf.Monotype Imaging - SECKannada
+SECGurmukhi-Bold.ttf.Monotype Imaging -SECGurmukhi Bold
+SECMyanmarUI-Medium.otf.2.000;GOOG;NotoSansMyanmarUI-Medium; SECMyanmarUI-Medium
+NotoSansWarangCiti-Regular.otf.2.000;GOOG;NotoSansWarangCiti-Regular
+NotoSerifMalayalam-Regular.ttf.Monotype Imaging - Noto Serif Malayalam
+NotoSerif-Italic.ttf.Monotype Imaging - Noto Serif Italic
 AndroidClock.ttf.Google:AndroidClock:2012
+NotoSansSinhala-Regular.otf.2.000;GOOG;NotoSansSinhala-Regular
+NotoSansOgham-Regular.ttf.Monotype Imaging - Noto Sans Ogham
+NotoSansBengaliUI-Medium.otf.2.000;GOOG;NotoSansBengaliUI-Medium
+RobotoCondensed-BoldItalic.ttf.Google:Roboto Condensed Bold Italic:2017
+NotoSansBrahmi-Regular.ttf.Monotype Imaging - Noto Sans Brahmi
+NotoSansGurmukhi-Regular.ttf.Monotype Imaging - Noto Sans Gurmukhi
+CutiveMono.ttf.Cutive Mono Regular Version 1.002
+RobotoCondensed-Regular.ttf.Google:Roboto Condensed Regular:2017
+SECMalayalamUI-Bold.otf.2.000;GOOG;NotoSansMalayalamUI-Bold; SECMalayalamUI-Bold
+NotoSansSyriacEstrangela-Regular.ttf.Monotype Imaging - Noto Sans Syriac Estrangela
+NotoSerifDevanagari-Bold.ttf.Monotype Imaging - Noto Serif Devanagari Bold
+NotoSansTagbanwa-Regular.ttf.Monotype Imaging - Noto Sans Tagbanwa
+NotoSerifLao-Bold.ttf.Noto Serif Lao Bold
+NotoSansKhojki-Regular.otf.2.001;GOOG;NotoSansKhojki-Regular
+NotoSansTamilUI-Regular.otf.2.000;GOOG;NotoSansTamilUI-Regular
+Roboto-Thin.ttf.Google:Roboto Thin:2020
+NotoSansDevanagariUI-Bold.otf.2.000;GOOG;NotoSansDevanagariUI-Bold
+NotoSansMalayalam-Regular.otf.2.000;GOOG;NotoSansMalayalam-Regular
+SECLaoUI-Bold.ttf.SEC Sans Lao UI Bold
+NotoSansTaiViet-Regular.ttf.Monotype Imaging - Noto Sans Tai Viet
+SECBengaliUI-Medium.otf.2.000;GOOG;NotoSansBengaliUI-Medium; SECBengaliUI-Medium
+NotoSansThai-Bold.ttf.Monotype Imaging - Noto Sans Thai Bold
+RobotoNum-3R.ttf.Google:RobotoNum-3R:2015
+NotoSansSinhala-Bold.otf.2.000;GOOG;NotoSansSinhala-Bold
+SamsungMyanmarShan-Bold.ttf.Samsung Electronics; SamsungMyanmarShan Bold
+NotoSansLao-Bold.ttf.Noto Sans Lao Bold
+SamsungKorean-Light.ttf.YoonDesignInc.: SamsungKorean_v2.0-Light: 2019
+SamsungKorean-Regular.ttf.YoonDesignInc.: SamsungKorean_v2.0: 2017
+DroidSans-Bold.ttf.Google:Roboto Bold:2017
+NotoSansBengali-Bold.otf.2.000;GOOG;NotoSansBengali-Bold
+NotoSerif-Regular.ttf.Monotype Imaging - Noto Serif
+NotoSansOldPermic-Regular.otf.2.000;GOOG;NotoSansOldPermic-Regular
+NotoSansChakma-Regular.otf.2.001;GOOG;NotoSansChakma-Regular
+NotoSansShavian-Regular.ttf.Monotype Imaging - Noto Sans Shavian
+NotoSansRejang-Regular.ttf.Monotype Imaging - Noto Sans Rejang
+SECTeluguUI-Bold.ttf.Monotype Imaging - SECTelugu UI Bold
+SamsungMyanmarZawgyiUI-Regular.ttf.Monotype Imaging - SamsungMyanmarZawgyiUI
+RobotoCondensed-MediumItalic.ttf.Google:Roboto Condensed Medium Italic:2017
+NotoSansEthiopic-Regular.ttf.Monotype Imaging - Noto Sans Ethiopic
+RobotoCondensed-Medium.ttf.Google:Roboto Condensed Medium:2017
+NotoSansSharada-Regular.otf.2.000;GOOG;NotoSansSharada-Regular
+RobotoCondensed-Light.ttf.Google:Roboto Condensed Light:2017
+NotoSerifThai-Regular.ttf.Monotype Imaging - Noto Serif Thai
+NotoSansBuhid-Regular.ttf.Monotype Imaging - Noto Sans Buhid
+NotoSansDevanagari-Bold.otf.2.000;GOOG;NotoSansDevanagari-Bold
+NotoSansSinhalaUI-Regular.otf.2.000;GOOG;NotoSansSinhalaUI-Regular
+NotoSansGujarati-Bold.ttf.Monotype Imaging - Noto Sans Gujarati Bold
+NotoSansTamil-Regular.otf.2.000;GOOG;NotoSansTamil-Regular
+NotoSansBengali-Medium.otf.2.000;GOOG;NotoSansBengali-Medium
+SECTamil-Medium.otf.2.000;GOOG;NotoSansTamil-Medium; SECTamil-Medium
+ComingSoon.ttf.OpenWindow: Coming Soon: 2010
+NotoSansDevanagari-Medium.otf.2.000;GOOG;NotoSansDevanagari-Medium
+SamsungColorEmoji.ttf.SamsungColorEmoji
+SECLao-Bold.ttf.SEC Lao Bold
+SECTibetan-Bold.ttf.Monotype Imaging - SECTibetan Bold
+NotoSansMalayalam-Medium.otf.2.000;GOOG;NotoSansMalayalam-Medium
+NotoSansSinhala-Medium.otf.2.000;GOOG;NotoSansSinhala-Medium
+NotoSerifTelugu-Bold.ttf.Monotype Imaging - Noto Serif Telugu Bold
+NotoSansKhmerUI-Regular.ttf.Noto Sans Khmer UI
+NotoSansMyanmarUI-Bold.otf.2.000;GOOG;NotoSansMyanmarUI-Bold
+NotoSansGujaratiUI-Bold.ttf.Monotype Imaging - Noto Sans Gujarati UI Bold
+NotoSerifTamil-Bold.otf.2.000;GOOG;NotoSerifTamil-Bold
+NotoSerifDevanagari-Regular.ttf.Monotype Imaging - Noto Serif Devanagari
+NotoSansElbasan-Regular.otf.2.000;GOOG;NotoSansElbasan-Regular
+SECBengali-Regular.otf.2.000;GOOG;NotoSansBengali-Regular; SECBengali-Regular
+NotoSansMalayalamUI-Regular.otf.2.000;GOOG;NotoSansMalayalamUI-Regular
+NotoSansLimbu-Regular.ttf.Monotype Imaging - Noto Sans Limbu
+NotoSansMyanmar-Regular.otf.2.001;GOOG;NotoSansMyanmar-Regular
+SECBengaliUI-Bold.otf.2.000;GOOG;NotoSansBengaliUI-Bold; SECBengaliUI-Bold
+SECDevanagariUI-Medium.otf.2.000;GOOG;NotoSansDevanagariUI-Medium; SECDevanagariUI-Medium
+NotoSansBamum-Regular.ttf.Monotype Imaging - Noto Sans Bamum
+NotoSansKharoshthi-Regular.ttf.Monotype Imaging - Noto Sans Kharoshthi
+NotoSansGujaratiUI-Regular.ttf.Monotype Imaging - Noto Sans Gujarati UI
+NotoSansTagalog-Regular.ttf.Monotype Imaging - Noto Sans Tagalog
+SamsungMyanmarShan-Regular.ttf.Samsung Electronics; SamsungMyanmarShan
+SECKannadaUI-Bold.ttf.Monotype Imaging - SECKannada UI Bold
+NotoSansYi-Regular.ttf.Monotype Imaging - Noto Sans Yi
+NotoSansBengaliUI-Bold.otf.2.000;GOOG;NotoSansBengaliUI-Bold
+SECGujarati-Bold.ttf.Monotype Imaging - SECGujarati Bold
+Clock2021.ttf.1.000;SHRP;Clock2021-Regular
+NotoSansKannadaUI-Bold.ttf.Monotype Imaging - Noto Sans Kannada UI Bold
+SECKannada-Bold.ttf.Monotype Imaging - SECKannada Bold
+NotoSansLycian-Regular.ttf.Monotype Imaging - Noto Sans Lycian
+RobotoCondensed-LightItalic.ttf.Google:Roboto Condensed Light Italic:2017
+NotoSansMyanmar-Medium.otf.2.001;GOOG;NotoSansMyanmar-Medium
+NotoSansMeroitic-Regular.otf.2.000;GOOG;NotoSansMeroitic-Regular
+NotoSansBassaVah-Regular.otf.2.000;GOOG;NotoSansBassaVah-Regular
+SECBengali-Bold.otf.2.000;GOOG;NotoSansBengali-Bold; SECBengali-Bold
+NotoSerifSinhala-Bold.otf.2.000;GOOG;NotoSerifSinhala-Bold
+NotoSansMalayalam-Bold.otf.2.000;GOOG;NotoSansMalayalam-Bold
+Roboto-Bold.ttf.Google:Roboto Bold:2017
+SECMalayalamUI-Medium.otf.2.000;GOOG;NotoSansMalayalamUI-Medium; SECMalayalamUI-Medium
+SECTamilUI-Medium.otf.2.000;GOOG;NotoSansTamilUI-Medium; SECTamilUI-Medium
+NotoSansNabataean-Regular.otf.2.000;GOOG;NotoSansNabataean-Regular
+NotoSansSoraSompeng-Regular.otf.2.000;GOOG;NotoSansSoraSompeng-Regular
+NotoSansGurmukhi-Bold.ttf.Monotype Imaging - Noto Sans Gurmukhi Bold
+SECDevanagari-Bold.otf.2.000;GOOG;NotoSansDevanagari-Bold; SECDevanagari-Bold
+NotoSerifGurmukhi-Bold.otf.1.900;GOOG;NotoSerifGurmukhi-Bold
+NotoSansSinhalaUI-Bold.otf.2.000;GOOG;NotoSansSinhalaUI-Bold
+NotoSansTibetan-Regular.ttf.Monotype Imaging - Noto Sans Tibetan
+NotoSansLisu-Regular.ttf.Monotype Imaging - Noto Sans Lisu
+NotoSansCoptic-Regular.ttf.Monotype Imaging - Noto Sans Coptic
+NotoSansSaurashtra-Regular.ttf.Monotype Imaging - Noto Sans Saurashtra
+NotoSansKannada-Regular.ttf.Monotype Imaging - Noto Sans Kannada
+NotoSansSymbols-Regular-Subsetted2.ttf.Monotype Imaging - Noto Sans Symbols
+SamsungKorean-Bold.ttf.YoonDesignInc.: SamsungKorean_v2.0-Bold: 2017
+SECNaskhArabic-Regular.ttf.Monotype Imaging - SEC Naskh Arabic
+NotoSansInscriptionalPahlavi-Regular.ttf.Monotype Imaging - Noto Sans Inscriptional Pahlavi
+NotoSansInscriptionalParthian-Regular.ttf.Monotype Imaging - Noto Sans Inscriptional Parthian
+NotoSerifGujarati-Bold.ttf.Monotype Imaging - Noto Serif Gujarati Bold
+Roboto-BoldItalic.ttf.Google:Roboto Bold Italic:2017
+Roboto-ThinItalic.ttf.Google:Roboto Thin Italic:2017
+SECNaskhArabicUI-Regular.ttf.Monotype Imaging - SEC Naskh Arabic UI
+NotoSerifKannada-Bold.ttf.Monotype Imaging - Noto Serif Kannada Bold
+NotoSansLydian-Regular.ttf.Monotype Imaging - Noto Sans Lydian
+NotoSansDevanagariUI-Medium.otf.2.000;GOOG;NotoSansDevanagariUI-Medium
+SECMalayalamUI-Regular.otf.2.000;GOOG;NotoSansMalayalamUI-Regular; SECMalayalamUI-Regular
+SECMalayalam-Bold.otf.2.000;GOOG;NotoSansMalayalam-Bold; SECMalayalam-Bold
+NotoSansMeeteiMayek-Regular.ttf.Monotype Imaging - Noto Sans Meetei Mayek
+SECLao-Regular.ttf.SEC Lao
+Roboto-Black.ttf.Google:Roboto Black:2017
+SECKannadaUI-Regular.ttf.Monotype Imaging - SECKannada UI
+NotoSansTifinagh-Regular.otf.2.002;GOOG;NotoSansTifinagh-Regular
+NotoSansThai-Regular.ttf.Monotype Imaging - Noto Sans Thai
+NotoSansCarian-Regular.ttf.Monotype Imaging - Noto Sans Carian
+NotoNaskhArabicUI-Regular.ttf.Monotype Imaging - Noto Naskh Arabic UI

@@ -1,0 +1,1279 @@
+Kailasa.ttc.Kailasa Regular; 16.0d1e1; 2020-07-06
+Kailasa.ttc.Kailasa Bold; 16.0d1e1; 2020-07-06
+NanumScript.ttc.Nanum Brush Script; 13.0d1e3; 2017-06-14
+NanumScript.ttc.Nanum Pen Script; 13.0d1e3; 2017-06-14
+NotoSansPhoenician-Regular.ttf.2.000;GOOG;NotoSansPhoenician-Regular
+Georgia Italic.ttf.Georgia Italic; Version 5.00x-4; 2011-10-24
+Verdana Bold Italic.ttf.Microsoft:Verdana Bold Italic:Version 5.01x (Microsoft)
+ヒラギノ角ゴシック W8.ttc.Hiragino Sans W8; 17.0d1e38; 2021-08-13
+ヒラギノ角ゴシック W8.ttc..Hiragino Kaku Gothic Interface W8; 17.0d1e38; 2021-08-13
+ヒラギノ角ゴシック W8.ttc.Hiragino Kaku Gothic Std W8; 17.0d1e38; 2021-08-13
+ヒラギノ角ゴシック W8.ttc.Hiragino Kaku Gothic StdN W8; 17.0d1e38; 2021-08-13
+Kavivanar-regular.ttf.FontForge : Kavivanar Regular : 1-4-2016
+ヒラギノ角ゴシック W4.ttc.Hiragino Sans W4; 17.0d1e34; 2021-08-13
+ヒラギノ角ゴシック W4.ttc..Hiragino Kaku Gothic Interface W4; 17.0d1e34; 2021-08-13
+NotoSansOldNorthArabian-Regular.ttf.2.000;GOOG;NotoSansOldNorthArabian-Regular
+STHeiti Light.ttc.Heiti TC Light; 17.0d1e2; 2021-06-23
+Baijam.ttc.1.000;CDK ;BaiJamjuree-Regular
+Baijam.ttc.1.000;CDK ;BaiJamjuree-Italic
+Baijam.ttc.1.000;CDK ;BaiJamjuree-Medium
+Baijam.ttc.1.000;CDK ;BaiJamjuree-MediumItalic
+Baijam.ttc.1.000;CDK ;BaiJamjuree-SemiBold
+Baijam.ttc.1.000;CDK ;BaiJamjuree-SemiBoldItalic
+Baijam.ttc.1.000;CDK ;BaiJamjuree-Bold
+Baijam.ttc.1.000;CDK ;BaiJamjuree-BoldItalic
+Baijam.ttc.1.000;CDK ;BaiJamjuree-Light
+Baijam.ttc.1.000;CDK ;BaiJamjuree-LightItalic
+Baijam.ttc.1.000;CDK ;BaiJamjuree-ExtraLight
+Baijam.ttc.1.000;CDK ;BaiJamjuree-ExtraLightItalic
+SFCompactRounded.ttf..SF Compact Rounded; 18.0d9e2; 2022-07-06
+NotoSansOldPersian-Regular.ttf.2.000;GOOG;NotoSansOldPersian-Regular
+PCmyoungjo.ttf.PCMyungjo Regular; 13.0d2e1; 2017-07-13
+PlantagenetCherokee.ttf.Plantagenet Cherokee; 13.0d1e3; 2017-06-14
+Telugu Sangam MN.ttc.Telugu Sangam MN; 14.0d1e4; 2018-02-25
+Telugu Sangam MN.ttc.Telugu Sangam MN Bold; 14.0d1e4; 2018-02-25
+K2D.ttc.1.000;CDK ;K2D-Regular
+K2D.ttc.1.000;CDK ;K2D-Italic
+K2D.ttc.1.000;CDK ;K2D-Medium
+K2D.ttc.1.000;CDK ;K2D-MediumItalic
+K2D.ttc.1.000;CDK ;K2D-SemiBold
+K2D.ttc.1.000;CDK ;K2D-SemiBoldItalic
+K2D.ttc.1.000;CDK ;K2D-Bold
+K2D.ttc.1.000;CDK ;K2D-BoldItalic
+K2D.ttc.1.000;CDK ;K2D-ExtraBold
+K2D.ttc.1.000;CDK ;K2D-ExtraBoldItalic
+K2D.ttc.1.000;CDK ;K2D-Light
+K2D.ttc.1.000;CDK ;K2D-LightItalic
+K2D.ttc.1.000;CDK ;K2D-ExtraLight
+K2D.ttc.1.000;CDK ;K2D-ExtraLightItalic
+K2D.ttc.1.000;CDK ;K2D-Thin
+K2D.ttc.1.000;CDK ;K2D-ThinItalic
+STIXNonUniBol.otf.FontMaster:STIXNonUnicode-Bold:1.1.0
+Hiragino_Sans_CNS.ttc.Hiragino Sans CNS W3; 17.0d0e2; 2021-06-23
+Hiragino_Sans_CNS.ttc.Hiragino Sans CNS W6; 17.0d0e2; 2021-06-23
+AppleMyungjo.ttf.AppleMyungjo Regular; 13.0d1e6; 2017-06-14
+DIN Alternate Bold.ttf.DIN Alternate Bold; 13.0d3e2; 2017-11-30
+STIXTwoText.ttf.2.13 b171;STIX;STIXTwoText
+AkayaKannada-regular.ttf.1.000;UKWN;AkayaKanadaka-Regular
+LiSongPro.ttf.LiSong Pro; 17.0d1e2; 2021-06-23
+Apple Braille Outline 8 Dot.ttf.Apple Braille Outline 8 Dot; 13.0d2e27; 2017-06-30
+Wingdings.ttf.Wingdings Regular: MS: 2006
+BalooTammaKannada.ttc.Baloo Tamma 2 Regular; 15.0d1e7 (1.640); 2020-09-15
+BalooTammaKannada.ttc.Baloo Tamma 2 Medium; 15.0d1e7 (1.640); 2020-09-15
+BalooTammaKannada.ttc.Baloo Tamma 2 SemiBold; 15.0d1e7 (1.640); 2020-09-15
+BalooTammaKannada.ttc.Baloo Tamma 2 Bold; 15.0d1e7 (1.640); 2020-09-15
+BalooTammaKannada.ttc.Baloo Tamma 2 ExtraBold; 15.0d1e7 (1.640); 2020-09-15
+Courier New.ttf.Monotype:Courier New:version 5.00 (Microsoft)
+JainiPurvaDevanagari-Regular.ttf.1.001;EKTF;JainiPurva
+Avenir.ttc.Avenir Book; 13.0d3e1; 2017-06-26
+Avenir.ttc.Avenir Book Oblique; 13.0d3e1; 2017-06-26
+Avenir.ttc.Avenir Black; 13.0d3e1; 2017-06-26
+Avenir.ttc.Avenir Black Oblique; 13.0d3e1; 2017-06-26
+Avenir.ttc.Avenir Heavy; 13.0d3e1; 2017-06-26
+Avenir.ttc.Avenir Heavy Oblique; 13.0d3e1; 2017-06-26
+Avenir.ttc.Avenir Light; 13.0d3e1; 2017-06-26
+Avenir.ttc.Avenir Light Oblique; 13.0d3e1; 2017-06-26
+Avenir.ttc.Avenir Medium; 13.0d3e1; 2017-06-26
+Avenir.ttc.Avenir Medium Oblique; 13.0d3e1; 2017-06-26
+Avenir.ttc.Avenir Oblique; 13.0d3e1; 2017-06-26
+Avenir.ttc.Avenir Roman; 13.0d3e1; 2017-06-26
+Libian.ttc.Libian SC Regular; 17.0d1e2; 2021-06-23
+Libian.ttc.Libian TC Regular; 17.0d1e2; 2021-06-23
+Niramit.ttc.1.001;CDK ;Niramit-Regular
+Niramit.ttc.1.001;CDK ;Niramit-Italic
+Niramit.ttc.1.001;CDK ;Niramit-Medium
+Niramit.ttc.1.001;CDK ;Niramit-MediumItalic
+Niramit.ttc.1.001;CDK ;Niramit-SemiBold
+Niramit.ttc.1.001;CDK ;Niramit-SemiBoldItalic
+Niramit.ttc.1.001;CDK ;Niramit-Bold
+Niramit.ttc.1.001;CDK ;Niramit-BoldItalic
+Niramit.ttc.1.001;CDK ;Niramit-Light
+Niramit.ttc.1.001;CDK ;Niramit-LightItalic
+Niramit.ttc.1.001;CDK ;Niramit-ExtraLight
+Niramit.ttc.1.001;CDK ;Niramit-ExtraLightItalic
+NotoSansEgyptianHieroglyphs-Regular.ttf.2.000;GOOG;NotoSansEgyptianHieroglyphs-Regular
+BalooPaajiGurmukhi.ttc.Baloo Paaji 2 Regular; 15.0d1e7 (1.640); 2020-09-15
+BalooPaajiGurmukhi.ttc.Baloo Paaji 2 Medium; 15.0d1e7 (1.640); 2020-09-15
+BalooPaajiGurmukhi.ttc.Baloo Paaji 2 SemiBold; 15.0d1e7 (1.640); 2020-09-15
+BalooPaajiGurmukhi.ttc.Baloo Paaji 2 Bold; 15.0d1e7 (1.640); 2020-09-15
+BalooPaajiGurmukhi.ttc.Baloo Paaji 2 ExtraBold; 15.0d1e7 (1.640); 2020-09-15
+Baskerville.ttc.Baskerville; 13.0d1e10; 2017-06-15
+Baskerville.ttc.Baskerville Bold; 13.0d1e10; 2017-06-15
+Baskerville.ttc.Baskerville Italic; 13.0d1e10; 2017-06-15
+Baskerville.ttc.Baskerville Bold Italic; 13.0d1e10; 2017-06-15
+Baskerville.ttc.Baskerville SemiBold; 13.0d1e10; 2017-06-15
+Baskerville.ttc.Baskerville SemiBold Italic; 13.0d1e10; 2017-06-15
+TiroTelugu.ttc.Tiro Telugu; 15.0d6e1; 2020-09-12
+TiroTelugu.ttc.Tiro Telugu Italic; 15.0d6e1; 2020-09-12
+PingFang.ttc.PingFang HK Regular; 19.0d3e2; 2023-02-14
+PingFang.ttc.PingFang TC Regular; 19.0d3e2; 2023-02-14
+PingFang.ttc.PingFang SC Regular; 19.0d3e2; 2023-02-14
+PingFang.ttc.PingFang HK Medium; 19.0d3e2; 2023-02-14
+PingFang.ttc.PingFang TC Medium; 19.0d3e2; 2023-02-14
+PingFang.ttc.PingFang SC Medium; 19.0d3e2; 2023-02-14
+PingFang.ttc.PingFang HK Semibold; 19.0d3e2; 2023-02-14
+PingFang.ttc.PingFang TC Semibold; 19.0d3e2; 2023-02-14
+PingFang.ttc.PingFang SC Semibold; 19.0d3e2; 2023-02-14
+PingFang.ttc.PingFang HK Light; 19.0d3e2; 2023-02-14
+PingFang.ttc.PingFang TC Light; 19.0d3e2; 2023-02-14
+PingFang.ttc.PingFang SC Light; 19.0d3e2; 2023-02-14
+PingFang.ttc.PingFang HK Thin; 19.0d3e2; 2023-02-14
+PingFang.ttc.PingFang TC Thin; 19.0d3e2; 2023-02-14
+PingFang.ttc.PingFang SC Thin; 19.0d3e2; 2023-02-14
+PingFang.ttc.PingFang HK Ultralight; 19.0d3e2; 2023-02-14
+PingFang.ttc.PingFang TC Ultralight; 19.0d3e2; 2023-02-14
+PingFang.ttc.PingFang SC Ultralight; 19.0d3e2; 2023-02-14
+PingFang.ttc..PingFang HK Regular; 19.0d3e2; 2023-02-14
+PingFang.ttc..PingFang TC Regular; 19.0d3e2; 2023-02-14
+PingFang.ttc..PingFang SC Regular; 19.0d3e2; 2023-02-14
+PingFang.ttc..PingFang HK Medium; 19.0d3e2; 2023-02-14
+PingFang.ttc..PingFang TC Medium; 19.0d3e2; 2023-02-14
+PingFang.ttc..PingFang SC Medium; 19.0d3e2; 2023-02-14
+PingFang.ttc..PingFang HK Semibold; 19.0d3e2; 2023-02-14
+PingFang.ttc..PingFang TC Semibold; 19.0d3e2; 2023-02-14
+PingFang.ttc..PingFang SC Semibold; 19.0d3e2; 2023-02-14
+PingFang.ttc..PingFang HK Light; 19.0d3e2; 2023-02-14
+PingFang.ttc..PingFang TC Light; 19.0d3e2; 2023-02-14
+PingFang.ttc..PingFang SC Light; 19.0d3e2; 2023-02-14
+PingFang.ttc..PingFang HK Thin; 19.0d3e2; 2023-02-14
+PingFang.ttc..PingFang TC Thin; 19.0d3e2; 2023-02-14
+PingFang.ttc..PingFang SC Thin; 19.0d3e2; 2023-02-14
+PingFang.ttc..PingFang HK Ultralight; 19.0d3e2; 2023-02-14
+PingFang.ttc..PingFang TC Ultralight; 19.0d3e2; 2023-02-14
+PingFang.ttc..PingFang SC Ultralight; 19.0d3e2; 2023-02-14
+NotoSansSiddham-Regular.ttf.2.001;GOOG;NotoSansSiddham-Regular
+Geneva.ttf.Geneva; 17.0d2e1; 2020-12-12
+TamilSangam-MN-MA.ttc.Tamil Sangam MN Medium; 15.0d1e38; 2022-04-05
+TamilSangam-MN-MA.ttc.Grantha Sangam MN Medium; 15.0d1e38; 2022-04-05
+TamilSangam-MN-MA.ttc.Tamil Sangam MN Demibold; 15.0d1e38; 2022-04-05
+TamilSangam-MN-MA.ttc.Grantha Sangam MN DemiBold; 15.0d1e38; 2022-04-05
+TamilSangam-MN-MA.ttc.Tamil Sangam MN Black; 15.0d1e38; 2022-04-05
+TamilSangam-MN-MA.ttc.Grantha Sangam MN Black; 15.0d1e38; 2022-04-05
+TamilSangam-MN-MA.ttc.Tamil Sangam MN Light; 15.0d1e38; 2022-04-05
+TamilSangam-MN-MA.ttc.Grantha Sangam MN Light; 15.0d1e38; 2022-04-05
+NotoSansThaana-Regular.ttf.2.000;GOOG;NotoSansThaana-Regular
+NotoSansCypriot-Regular.ttf.2.000;GOOG;NotoSansCypriot-Regular
+Skia.ttf.Skia; 13.0d1e54; 2017-06-21
+SFNSRounded.ttf..SF NS Rounded; 18.0d5e2; 2022-02-16
+NotoSansCoptic-Regular.ttf.2.000;GOOG;NotoSansCoptic-Regular
+YuppySC-Regular.otf.Yuppy SC Regular; 13.0d1e1; 2017-06-09
+NotoSansPauCinHau-Regular.ttf.2.000;GOOG;NotoSansPauCinHau-Regular
+OctoberDevanagari.ttc.October Devanagari Regular; 15.0d1e5; 2020-03-06
+OctoberDevanagari.ttc.October Devanagari Medium; 15.0d1e5; 2020-03-06
+OctoberDevanagari.ttc.October Devanagari Bold; 15.0d1e5; 2020-03-06
+OctoberDevanagari.ttc.October Devanagari Heavy; 15.0d1e5; 2020-03-06
+OctoberDevanagari.ttc.October Devanagari Black; 15.0d1e5; 2020-03-06
+OctoberDevanagari.ttc.October Devanagari Light; 15.0d1e5; 2020-03-06
+OctoberDevanagari.ttc.October Devanagari ExtraLight; 15.0d1e5; 2020-03-06
+OctoberDevanagari.ttc.October Devanagari Thin; 15.0d1e5; 2020-03-06
+OctoberDevanagari.ttc.October Devanagari Hairline; 15.0d1e5; 2020-03-06
+AquaKana.ttc..Aqua Kana; 13.0d1e4; 2017-06-02
+AquaKana.ttc..Aqua Kana Bold; 13.0d1e4; 2017-06-02
+Helvetica.ttc.Helvetica; 17.0d1e1; 2020-09-21
+Helvetica.ttc.Helvetica Bold; 17.0d1e1; 2020-09-21
+Helvetica.ttc.Helvetica Oblique; 17.0d1e1; 2020-09-21
+Helvetica.ttc.Helvetica Bold Oblique; 17.0d1e1; 2020-09-21
+Helvetica.ttc.Helvetica Light; 17.0d1e1; 2020-09-21
+Helvetica.ttc.Helvetica Light Oblique; 17.0d1e1; 2020-09-21
+Times New Roman Italic.ttf.Monotype:Times New Roman Italic:Version 5.00 (Microsoft)
+YuMincho.ttc.YuMincho Medium; 17.0d1e1; 2021-06-22
+YuMincho.ttc.YuMincho Demibold; 17.0d1e1; 2021-06-22
+YuMincho.ttc.YuMincho Extrabold; 17.0d1e1; 2021-06-22
+YuMincho.ttc.YuMincho +36p Kana Medium; 17.0d1e1; 2021-06-22
+YuMincho.ttc.YuMincho +36p Kana Demibold; 17.0d1e1; 2021-06-22
+YuMincho.ttc.YuMincho +36p Kana Extrabold; 17.0d1e1; 2021-06-22
+LingWaiTC-Medium.otf.LingWai TC Medium; 13.0d1e2; 2017-06-29
+Raanana.ttc.Raanana; 14.0d1e14; 2020-10-14
+Raanana.ttc.Raanana Bold; 14.0d1e14; 2020-10-14
+ヒラギノ角ゴシック W5.ttc.Hiragino Sans W5; 17.0d1e35; 2021-08-13
+ヒラギノ角ゴシック W5.ttc..Hiragino Kaku Gothic Interface W5; 17.0d1e35; 2021-08-13
+TsukushiBMaruGothic.ttc.Tsukushi B Round Gothic Regular; 15.0d1e2; 2019-07-30
+TsukushiBMaruGothic.ttc.Tsukushi B Round Gothic Bold; 15.0d1e2; 2019-07-30
+Ornanong.ttc.PSL Ornanong Pro; 14.0d1e4; 2019-03-07
+Ornanong.ttc.PSL Ornanong Pro Italic; 14.0d1e4; 2019-03-07
+Ornanong.ttc.PSL Ornanong Pro Demibold; 14.0d1e4; 2019-03-07
+Ornanong.ttc.PSL Ornanong Pro Demibold Italic; 14.0d1e4; 2019-03-07
+Ornanong.ttc.PSL Ornanong Pro Bold; 14.0d1e4; 2019-03-07
+Ornanong.ttc.PSL Ornanong Pro Bold Italic; 14.0d1e4; 2019-03-07
+Ornanong.ttc.PSL Ornanong Pro Light; 14.0d1e4; 2019-03-07
+Ornanong.ttc.PSL Ornanong Pro Light Italic; 14.0d1e4; 2019-03-07
+LahoreGurmukhi.ttc.Lahore Gurmukhi Regular; 14.0d6e2; 2021-07-08
+LahoreGurmukhi.ttc.Lahore Gurmukhi Medium; 14.0d6e2; 2021-07-08
+LahoreGurmukhi.ttc.Lahore Gurmukhi SemiBold; 14.0d6e2; 2021-07-08
+LahoreGurmukhi.ttc.Lahore Gurmukhi Bold; 14.0d6e2; 2021-07-08
+LahoreGurmukhi.ttc.Lahore Gurmukhi Light; 14.0d6e2; 2021-07-08
+NotoSansTifinagh-Regular.ttf.2.000;GOOG;NotoSansTifinagh-Regular
+NotoSansTaiViet-Regular.ttf.2.000;GOOG;NotoSansTaiViet-Regular
+Mishafi Gold.ttf.Mishafi Gold Regular; 13.0d2e1; 2017-06-28
+LavaKannada.ttc.Lava Kannada Regular; 15.0d1e5; 2020-03-05
+LavaKannada.ttc.Lava Kannada Medium; 15.0d1e5; 2020-03-05
+LavaKannada.ttc.Lava Kannada Bold; 15.0d1e5; 2020-03-05
+LavaKannada.ttc.Lava Kannada Heavy; 15.0d1e5; 2020-03-05
+KoHo.ttc.1.000;CDK ;KoHo-Regular
+KoHo.ttc.1.000;CDK ;KoHo-Italic
+KoHo.ttc.1.000;CDK ;KoHo-Medium
+KoHo.ttc.1.000;CDK ;KoHo-MediumItalic
+KoHo.ttc.1.000;CDK ;KoHo-SemiBold
+KoHo.ttc.1.000;CDK ;KoHo-SemiBoldItalic
+KoHo.ttc.1.000;CDK ;KoHo-Bold
+KoHo.ttc.1.000;CDK ;KoHo-BoldItalic
+KoHo.ttc.1.000;CDK ;KoHo-Light
+KoHo.ttc.1.000;CDK ;KoHo-LightItalic
+KoHo.ttc.1.000;CDK ;KoHo-ExtraLight
+KoHo.ttc.1.000;CDK ;KoHo-ExtraLightItalic
+Kefa.ttc.Kefa Regular; 17.0d1e2; 2021-06-27
+Kefa.ttc.Kefa Bold; 17.0d1e2; 2021-06-27
+Arial Black.ttf.Monotype - Arial Black Regular
+NotoSansPsalterPahlavi-Regular.ttf.2.000;GOOG;NotoSansPsalterPahlavi-Regular
+NotoSansOldTurkic-Regular.ttf.2.000;GOOG;NotoSansOldTurkic-Regular
+Bradley Hand Bold.ttf.Bradley Hand Bold; 14.0d0e1; 2017-11-14
+NotoSansTakri-Regular.ttf.2.001;GOOG;NotoSansTakri-Regular
+Apple Braille Pinpoint 8 Dot.ttf.Apple Braille Pinpoint 8 Dot; 13.0d2e27; 2017-06-30
+TiroMarathi.ttc.Tiro Devanagari Marathi; 17.0d1e1; 2021-08-25
+TiroMarathi.ttc.Tiro Devanagari Marathi Italic; 17.0d1e1; 2021-08-25
+STIXVarBol.otf.FontMaster:STIXVariants-Bold:1.1.0
+Hanzipen.ttc.HanziPen SC Regular; 14.0d1e1; 2018-06-12
+Hanzipen.ttc.HanziPen TC Regular; 14.0d1e1; 2018-06-12
+Hanzipen.ttc.HanziPen SC Bold; 14.0d1e1; 2018-06-12
+Hanzipen.ttc.HanziPen TC Bold; 14.0d1e1; 2018-06-12
+STIXIntUpBol.otf.FontMaster:STIXIntegralsUp-Bold:1.1.0
+NotoSansMarchen-Regular.ttf.2.000;GOOG;NotoSansMarchen-Regular
+Malayalam Sangam MN.ttc.Malayalam Sangam MN; 14.0d4e6; 2018-07-09
+Malayalam Sangam MN.ttc.Malayalam Sangam MN Bold; 14.0d4e6; 2018-07-09
+Courier New Italic.ttf.Monotype:Courier New Italic:version 5.00 (Microsoft)
+Courier New Bold.ttf.Monotype:Courier New Bold:version 5.00 (Microsoft)
+NotoSansHanunoo-Regular.ttf.2.000;GOOG;NotoSansHanunoo-Regular
+NotoSansNewa-Regular.ttf.2.002;GOOG;NotoSansNewa-Regular
+ZapfDingbats.ttf.Zapf Dingbats; 13.0d1e2; 2017-06-15
+NotoSansMendeKikakui-Regular.ttf.2.000;GOOG;NotoSansMendeKikakui-Regular
+HeadlineA.ttf.HeadLineA Regular; 13.0d3e1; 2017-07-13
+NotoSansOriya.ttc.Noto Sans Oriya; 14.0d1e2; 2018-11-25
+NotoSansOriya.ttc.Noto Sans Oriya Bold; 14.0d1e2; 2018-11-25
+NotoSansBassaVah-Regular.ttf.2.000;GOOG;NotoSansBassaVah-Regular
+NotoSansKaithi-Regular.ttf.2.000;GOOG;NotoSansKaithi-Regular
+Athelas.ttc.Athelas Regular; 13.0d1e3; 2017-06-07
+Athelas.ttc.Athelas Italic; 13.0d1e3; 2017-06-07
+Athelas.ttc.Athelas Bold Italic; 13.0d1e3; 2017-06-07
+Athelas.ttc.Athelas Bold; 13.0d1e3; 2017-06-07
+LingWaiSC-Medium.otf.LingWai SC Medium; 13.0d1e3; 2017-06-29
+NotoSansLinearA-Regular.ttf.2.000;GOOG;NotoSansLinearA-Regular
+NotoSansMro-Regular.ttf.2.000;GOOG;NotoSansMro-Regular
+NotoSerifAhom-Regular.ttf.2.003;GOOG;NotoSerifAhom-Regular
+LavaDevanagari.ttc.Lava Devanagari Regular; 15.0d2e2; 2020-03-06
+LavaDevanagari.ttc.Lava Devanagari Medium; 15.0d2e2; 2020-03-06
+LavaDevanagari.ttc.Lava Devanagari Bold; 15.0d2e2; 2020-03-06
+LavaDevanagari.ttc.Lava Devanagari Heavy; 15.0d2e2; 2020-03-06
+STIXNonUni.otf.FontMaster:STIXNonUnicode-Regular:1.1.0
+Charter.ttc.Charter Roman; 14.0d2e1; 2017-11-28
+Charter.ttc.Charter Italic; 14.0d2e1; 2017-11-28
+Charter.ttc.Charter Bold Italic; 14.0d2e1; 2017-11-28
+Charter.ttc.Charter Bold; 14.0d2e1; 2017-11-28
+Charter.ttc.Charter Black Italic; 14.0d2e1; 2017-11-28
+Charter.ttc.Charter Black; 14.0d2e1; 2017-11-28
+Seravek.ttc.Seravek; 13.0d3e2; 2017-06-30
+Seravek.ttc.Seravek Italic; 13.0d3e2; 2017-06-30
+Seravek.ttc.Seravek Medium Italic; 13.0d3e2; 2017-06-30
+Seravek.ttc.Seravek Medium; 13.0d3e2; 2017-06-30
+Seravek.ttc.Seravek Light Italic; 13.0d3e2; 2017-06-30
+Seravek.ttc.Seravek Light; 13.0d3e2; 2017-06-30
+Seravek.ttc.Seravek ExtraLight Italic; 13.0d3e2; 2017-06-30
+Seravek.ttc.Seravek ExtraLight; 13.0d3e2; 2017-06-30
+Seravek.ttc.Seravek Bold Italic; 13.0d3e2; 2017-06-30
+Seravek.ttc.Seravek Bold; 13.0d3e2; 2017-06-30
+Verdana Italic.ttf.Microsoft:Verdana Italic:Version 5.01x (Microsoft)
+Comic Sans MS.ttf.Microsoft Comic Sans
+Optima.ttc.Optima Regular; 13.0d1e2; 2017-06-15
+Optima.ttc.Optima Bold; 13.0d1e2; 2017-06-15
+Optima.ttc.Optima Italic; 13.0d1e2; 2017-06-15
+Optima.ttc.Optima Bold Italic; 13.0d1e2; 2017-06-15
+Optima.ttc.Optima ExtraBlack; 13.0d1e2; 2017-06-15
+Marion.ttc.Marion Regular; 13.0d1e2; 2017-06-15
+Marion.ttc.Marion Italic; 13.0d1e2; 2017-06-15
+Marion.ttc.Marion Bold; 13.0d1e2; 2017-06-15
+Apple Chancery.ttf.Apple Chancery; 13.0d1e4; 2017-06-08
+NotoSansCarian-Regular.ttf.2.000;GOOG;NotoSansCarian-Regular
+ChalkboardSE.ttc.Chalkboard SE Light; 13.0d1e2; 2017-06-16
+ChalkboardSE.ttc.Chalkboard SE Regular; 13.0d1e2; 2017-06-16
+ChalkboardSE.ttc.Chalkboard SE Bold; 13.0d1e2; 2017-06-16
+AkayaTelivigala-regular.ttf.1.000;UKWN;AkayaTelivigala-Regular
+Academy Engraved LET Fonts.ttf.Academy Engraved LET Plain:1.0; 16.0d1e1; 2020-08-17
+GeezaPro.ttc.Geeza Pro Regular; 14.0d1e4; 2017-12-05
+GeezaPro.ttc.Geeza Pro Bold; 14.0d1e4; 2017-12-05
+GeezaPro.ttc..Geeza Pro Interface Regular; 14.0d1e4; 2017-12-05
+GeezaPro.ttc..Geeza Pro Interface Bold; 14.0d1e4; 2017-12-05
+GeezaPro.ttc..Geeza Pro Interface Light; 14.0d1e4; 2017-12-05
+GeezaPro.ttc..Geeza Pro PUA; 14.0d1e4; 2017-12-05
+GeezaPro.ttc..Geeza Pro PUA Bold; 14.0d1e4; 2017-12-05
+BalooChettanMalayalam.ttc.Baloo Chettan 2 Regular; 15.0d1e7 (1.640); 2020-09-15
+BalooChettanMalayalam.ttc.Baloo Chettan 2 Medium; 15.0d1e7 (1.640); 2020-09-15
+BalooChettanMalayalam.ttc.Baloo Chettan 2 SemiBold; 15.0d1e7 (1.640); 2020-09-15
+BalooChettanMalayalam.ttc.Baloo Chettan 2 Bold; 15.0d1e7 (1.640); 2020-09-15
+BalooChettanMalayalam.ttc.Baloo Chettan 2 ExtraBold; 15.0d1e7 (1.640); 2020-09-15
+Shobhika-Devanagari.ttc.1.040;IITB;Shobhika-Regular
+Shobhika-Devanagari.ttc.1.040;IITB;Shobhika-Bold
+NotoSansCanadianAboriginal-Regular.otf.2.001;GOOG;NotoSansCanadianAboriginal-Regular
+NotoSansHatran-Regular.ttf.2.000;GOOG;NotoSansHatran-Regular
+NotoSansLydian-Regular.ttf.2.000;GOOG;NotoSansLydian-Regular
+Myanmar MN.ttc.Myanmar MN; 14.0d1e2; 2018-02-27
+Myanmar MN.ttc.Myanmar MN Bold; 14.0d1e2; 2018-02-27
+CambayDevanagari.ttc.1.180;UKWN;CambayDevanagari-Regular
+CambayDevanagari.ttc.1.018;UKWN;CambayDevanagari-Oblique
+CambayDevanagari.ttc.1.005;UKWN;CambayDevanagari-BoldOblique
+CambayDevanagari.ttc.1.095;UKWN;CambayDevanagari-Bold
+SFNSItalic.ttf..SF NS Italic; 18.0d9e1; 2022-05-11
+Impact.ttf.Impact - 1992
+Hannotate.ttc.Hannotate SC Regular; 13.0d2e1; 2017-06-30
+Hannotate.ttc.Hannotate TC Regular; 13.0d2e1; 2017-06-30
+Hannotate.ttc.Hannotate SC Bold; 13.0d2e1; 2017-06-30
+Hannotate.ttc.Hannotate TC Bold; 13.0d2e1; 2017-06-30
+PTSerif.ttc.PT Serif; 13.0d2e1; 2017-06-29
+PTSerif.ttc.PT Serif Italic; 13.0d2e1; 2017-06-29
+PTSerif.ttc.PT Serif Bold Italic; 13.0d2e1; 2017-06-29
+PTSerif.ttc.PT Serif Bold; 13.0d2e1; 2017-06-29
+BigCaslon.ttf.Big Caslon Medium; 13.0d1e11; 2017-06-07
+NotoSansAvestan-Regular.ttf.2.000;GOOG;NotoSansAvestan-Regular
+BalooThambiTamil.ttc.Baloo Thambi 2 Regular; 15.0d1e7 (1.640); 2020-09-15
+BalooThambiTamil.ttc.Baloo Thambi 2 Medium; 15.0d1e7 (1.640); 2020-09-15
+BalooThambiTamil.ttc.Baloo Thambi 2 SemiBold; 15.0d1e7 (1.640); 2020-09-15
+BalooThambiTamil.ttc.Baloo Thambi 2 Bold; 15.0d1e7 (1.640); 2020-09-15
+BalooThambiTamil.ttc.Baloo Thambi 2 ExtraBold; 15.0d1e7 (1.640); 2020-09-15
+NotoSansKhojki-Regular.ttf.2.001;GOOG;NotoSansKhojki-Regular
+NotoSansNabataean-Regular.ttf.2.000;GOOG;NotoSansNabataean-Regular
+Silom.ttf.Silom; 14.0d1e1; 2017-11-02
+Savoye LET.ttc.Savoye LET Plain:1.0; 13.0d2e4; 2017-06-30
+Savoye LET.ttc.Savoye LET Plain CC.:1.0; 13.0d2e4; 2017-06-30
+SFNSMono.ttf..SF NS Mono Light; 16.0d2e1; 2020-06-30
+STIXSizFiveSymReg.otf.FontMaster:STIXSizeFiveSym-Regular:1.1.0
+Gurmukhi.ttf.Gurmukhi MT; 13.0d1e4; 2017-06-18
+Yuanti.ttc.Yuanti SC Regular; 17.0d1e4; 2021-06-23
+Yuanti.ttc.Yuanti TC Regular; 17.0d1e4; 2021-06-23
+Yuanti.ttc.Yuanti SC Bold; 17.0d1e4; 2021-06-23
+Yuanti.ttc.Yuanti TC Bold; 17.0d1e4; 2021-06-23
+Yuanti.ttc.Yuanti SC Light; 17.0d1e4; 2021-06-23
+Yuanti.ttc.Yuanti TC Light; 17.0d1e4; 2021-06-23
+Times New Roman Bold Italic.ttf.Monotype:Times New Roman Bold Italic:Version 5.00 (Microsoft)
+Gurmukhi Sangam MN.ttc.Gurmukhi Sangam MN; 14.0d3e1; 2018-03-08
+Gurmukhi Sangam MN.ttc.Gurmukhi Sangam MN Bold; 14.0d3e1; 2018-03-08
+Apple Symbols.ttf.Apple Symbols; 17.0d1e2; 2021-05-16
+SFCompact.ttf..SF Compact Black; 18.0d9e2; 2022-07-06
+NotoSansSoraSompeng-Regular.ttf.2.000;GOOG;NotoSansSoraSompeng-Regular
+Luminari.ttf.Luminari; 13.0d1e2; 2017-06-16
+BalooBhaijaanUrdu-Regular.ttf.1.443;EKTF;BalooBhaijaan
+STIXNonUniBolIta.otf.FontMaster:STIXNonUnicode-BoldItalic:1.1.0
+AnnaiMN.ttf.Annai MN Regular; 16.0d2e3; 2021-02-18
+LiHeiPro.ttf.LiHei Pro; 17.0d1e2; 2021-06-23
+NotoSansMiao-Regular.ttf.2.001;GOOG;NotoSansMiao-Regular
+NotoNastaliq.ttc.Noto Nastaliq Urdu; 18.0d1e1; 2022-03-05
+NotoNastaliq.ttc..Noto Nastaliq Urdu UI; 18.0d1e1; 2022-03-05
+NotoNastaliq.ttc.Noto Nastaliq Urdu Bold; 18.0d1e1; 2022-03-05
+NotoNastaliq.ttc..Noto Nastaliq Urdu UI Bold; 18.0d1e1; 2022-03-05
+Trebuchet MS Bold.ttf.Microsoft Trebuchet Bold
+ヒラギノ角ゴシック W2.ttc.Hiragino Sans W2; 17.0d1e32; 2021-08-13
+ヒラギノ角ゴシック W2.ttc..Hiragino Kaku Gothic Interface W2; 17.0d1e32; 2021-08-13
+MuktaMalar-Tamil.ttc.2.538;EKTF;MuktaMalar-Bold
+MuktaMalar-Tamil.ttc.2.538;EKTF;MuktaMalar-ExtraBold
+MuktaMalar-Tamil.ttc.2.538;EKTF;MuktaMalar-ExtraLight
+MuktaMalar-Tamil.ttc.2.538;EKTF;MuktaMalar-Light
+MuktaMalar-Tamil.ttc.2.538;EKTF;MuktaMalar-Medium
+MuktaMalar-Tamil.ttc.2.538;EKTF;MuktaMalar-Regular
+MuktaMalar-Tamil.ttc.2.538;EKTF;MuktaMalar-SemiBold
+NotoSansNewTaiLue-Regular.ttf.2.000;GOOG;NotoSansNewTaiLue-Regular
+SamaTamil.ttc.Sama Tamil Regular; 15.0d1e6; 2020-03-06
+SamaTamil.ttc.Sama Tamil Book; 15.0d1e6; 2020-03-06
+SamaTamil.ttc.Sama Tamil Medium; 15.0d1e6; 2020-03-06
+SamaTamil.ttc.Sama Tamil SemiBold; 15.0d1e6; 2020-03-06
+SamaTamil.ttc.Sama Tamil Bold; 15.0d1e6; 2020-03-06
+SamaTamil.ttc.Sama Tamil ExtraBold; 15.0d1e6; 2020-03-06
+Khmer Sangam MN.ttf.Khmer Sangam MN; 14.0d1e9; 2018-03-01
+Comic Sans MS Bold.ttf.Microsoft Comic Sans Bold
+Arial Bold.ttf.Monotype:Arial Bold:Version 5.01 (Microsoft)
+Sinhala MN.ttc.Sinhala MN; 14.0d1e1; 2018-02-25
+Sinhala MN.ttc.Sinhala MN Bold; 14.0d1e1; 2018-02-25
+Arial Italic.ttf.Monotype:Arial Regular Italic:Version 3.14 (Microsoft)
+Georgia Bold.ttf.Georgia Bold; Version 5.00x-4; 2011-10-24
+Lao MN.ttc.Lao MN; 14.0d1e9; 2018-02-27
+Lao MN.ttc.Lao MN Bold; 14.0d1e9; 2018-02-27
+STFANGSO.ttf.STFangsong; 17.0d1e4; 2021-06-23
+LucidaGrande.ttc.Lucida Grande; 15.0d1e1; 2019-07-01
+LucidaGrande.ttc.Lucida Grande Bold; 15.0d1e1; 2019-07-01
+LucidaGrande.ttc..Lucida Grande UI Regular; 15.0d1e1; 2019-07-01
+LucidaGrande.ttc..Lucida Grande UI Bold; 15.0d1e1; 2019-07-01
+Modak-Devanagari.ttf.1.155;EKTF;Modak
+NotoSansKhudawadi-Regular.ttf.2.000;GOOG;NotoSansKhudawadi-Regular
+Copperplate.ttc.Copperplate; 13.0d1e2; 2017-06-09
+Copperplate.ttc.Copperplate Light; 13.0d1e2; 2017-06-09
+Copperplate.ttc.Copperplate Bold; 13.0d1e2; 2017-06-09
+NotoSansGothic-Regular.ttf.2.000;GOOG;NotoSansGothic-Regular
+STIXIntUpSmReg.otf.FontMaster:STIXIntegralsUpSm-Regular:1.1.0
+Kyokasho.ttc.YuKyokasho Yoko Medium; 17.0d1e1; 2021-06-22
+Kyokasho.ttc.YuKyokasho Yoko Bold; 17.0d1e1; 2021-06-22
+Kyokasho.ttc.YuKyokasho Medium; 17.0d1e1; 2021-06-22
+Kyokasho.ttc.YuKyokasho Bold; 17.0d1e1; 2021-06-22
+NotoSansSharada-Regular.ttf.2.001;GOOG;NotoSansSharada-Regular
+BMKirangHaerang-Regular.otf.BM KIRANGHAERANG OTF; 14.0d1e1; 2019-05-14
+Keyboard.ttf..Keyboard; 13.0d2e4; 2017-07-26
+BiauKai.ttf.BiauKai; 13.0d1e2; 2017-06-04
+BiauKai.ttc.BiauKaiHK Regular; 14.0d1; 2023-01-10
+BiauKai.ttc.BiauKaiTC Regular; 14.0d1; 2023-01-10
+STIXTwoText-Italic.ttf.2.13 b171;STIX;STIXTwoText-Italic
+Georgia Bold Italic.ttf.Georgia Bold Italic; Version 5.00x-4; 2011-10-24
+NotoSansMyanmar.ttc.Noto Sans Myanmar Black; 17.0d1e2; 2020-11-30
+NotoSansMyanmar.ttc.Noto Sans Myanmar Bold; 17.0d1e2; 2020-11-30
+NotoSansMyanmar.ttc.Noto Sans Myanmar ExtraBold; 17.0d1e2; 2020-11-30
+NotoSansMyanmar.ttc.Noto Sans Myanmar ExtraLight; 17.0d1e2; 2020-11-30
+NotoSansMyanmar.ttc.Noto Sans Myanmar Light; 17.0d1e2; 2020-11-30
+NotoSansMyanmar.ttc.Noto Sans Myanmar Medium; 17.0d1e2; 2020-11-30
+NotoSansMyanmar.ttc.Noto Sans Myanmar Regular; 17.0d1e2; 2020-11-30
+NotoSansMyanmar.ttc.Noto Sans Myanmar SemiBold; 17.0d1e2; 2020-11-30
+NotoSansMyanmar.ttc.Noto Sans Myanmar Thin; 17.0d1e2; 2020-11-30
+NotoSansMyanmar.ttc.Noto Sans Zawgyi Black; 17.0d1e2; 2020-11-30
+NotoSansMyanmar.ttc.Noto Sans Zawgyi Bold; 17.0d1e2; 2020-11-30
+NotoSansMyanmar.ttc.Noto Sans Zawgyi ExtraBold; 17.0d1e2; 2020-11-30
+NotoSansMyanmar.ttc.Noto Sans Zawgyi ExtraLight; 17.0d1e2; 2020-11-30
+NotoSansMyanmar.ttc.Noto Sans Zawgyi Light; 17.0d1e2; 2020-11-30
+NotoSansMyanmar.ttc.Noto Sans Zawgyi Medium; 17.0d1e2; 2020-11-30
+NotoSansMyanmar.ttc.Noto Sans Zawgyi Regular; 17.0d1e2; 2020-11-30
+NotoSansMyanmar.ttc.Noto Sans Zawgyi SemiBold; 17.0d1e2; 2020-11-30
+NotoSansMyanmar.ttc.Noto Sans Zawgyi Thin; 17.0d1e2; 2020-11-30
+Lantinghei.ttc.Lantinghei SC Demibold; 13.0d2e1; 2017-06-30
+Lantinghei.ttc.Lantinghei SC Extralight; 13.0d2e1; 2017-06-30
+Lantinghei.ttc.Lantinghei SC Heavy; 13.0d2e1; 2017-06-30
+Lantinghei.ttc.Lantinghei TC Demibold; 13.0d2e1; 2017-06-30
+Lantinghei.ttc.Lantinghei TC Extralight; 13.0d2e1; 2017-06-30
+Lantinghei.ttc.Lantinghei TC Heavy; 13.0d2e1; 2017-06-30
+ArialHB.ttc.Arial Hebrew; 13.0d1e1; 2017-06-17
+ArialHB.ttc.Arial Hebrew Bold; 13.0d1e1; 2017-06-17
+ArialHB.ttc.Arial Hebrew Light; 13.0d1e1; 2017-06-17
+ArialHB.ttc..Arial Hebrew Desk Interface; 13.0d1e1; 2017-06-17
+ArialHB.ttc..Arial Hebrew Desk Interface Bold; 13.0d1e1; 2017-06-17
+ArialHB.ttc..Arial Hebrew Desk Interface Light; 13.0d1e1; 2017-06-17
+ArialHB.ttc.Arial Hebrew Scholar; 13.0d1e1; 2017-06-17
+ArialHB.ttc.Arial Hebrew Scholar Bold; 13.0d1e1; 2017-06-17
+ArialHB.ttc.Arial Hebrew Scholar Light; 13.0d1e1; 2017-06-17
+Al Tarikh.ttc.Al Tarikh Regular; 13.0d2e1; 2017-06-27
+Al Tarikh.ttc..Al Tarikh PUA; 13.0d2e1; 2017-06-27
+Iowan Old Style.ttc.Iowan Old Style Roman; 14.0d1e1; 2017-11-13
+Iowan Old Style.ttc.Iowan Old Style Bold; 14.0d1e1; 2017-11-13
+Iowan Old Style.ttc.Iowan Old Style Italic; 14.0d1e1; 2017-11-13
+Iowan Old Style.ttc.Iowan Old Style Bold Italic; 14.0d1e1; 2017-11-13
+Iowan Old Style.ttc.Iowan Old Style Black; 14.0d1e1; 2017-11-13
+Iowan Old Style.ttc.Iowan Old Style Black Italic; 14.0d1e1; 2017-11-13
+Iowan Old Style.ttc.Iowan Old Style Titling; 14.0d1e1; 2017-11-13
+BMHannaPro-Regular.otf.BM HANNA Pro OTF; 18.0d1e4; 2022-06-27
+ヒラギノ丸ゴ ProN W4.ttc.Hiragino Maru Gothic Pro W4; 17.0d1e2; 2021-06-23
+ヒラギノ丸ゴ ProN W4.ttc.Hiragino Maru Gothic ProN W4; 17.0d1e2; 2021-06-23
+ITFDevanagari.ttc.ITF Devanagari Book; 14.0d3e6; 2018-03-01
+ITFDevanagari.ttc.ITF Devanagari Bold; 14.0d3e6; 2018-03-01
+ITFDevanagari.ttc.ITF Devanagari Demi; 14.0d3e6; 2018-03-01
+ITFDevanagari.ttc.ITF Devanagari Light; 14.0d3e6; 2018-03-01
+ITFDevanagari.ttc.ITF Devanagari Medium; 14.0d3e6; 2018-03-01
+ITFDevanagari.ttc.ITF Devanagari Marathi Book; 14.0d3e6; 2018-03-01
+ITFDevanagari.ttc.ITF Devanagari Marathi Bold; 14.0d3e6; 2018-03-01
+ITFDevanagari.ttc.ITF Devanagari Marathi Demi; 14.0d3e6; 2018-03-01
+ITFDevanagari.ttc.ITF Devanagari Marathi Light; 14.0d3e6; 2018-03-01
+ITFDevanagari.ttc.ITF Devanagari Marathi Medium; 14.0d3e6; 2018-03-01
+GotuDevanagari-Regular.ttf.Gotu; Version 2.320 (15.0d2e2); 2020-09-13
+STIXNonUniIta.otf.FontMaster:STIXNonUnicode-Italic:1.1.0
+OctoberCompressedDevanagari.ttc.October Compressed Devanagari Regular; 15.0d1e4; 2020-03-06
+OctoberCompressedDevanagari.ttc.October Compressed Devanagari Medium; 15.0d1e4; 2020-03-06
+OctoberCompressedDevanagari.ttc.October Compressed Devanagari Bold; 15.0d1e4; 2020-03-06
+OctoberCompressedDevanagari.ttc.October Compressed Devanagari Heavy; 15.0d1e4; 2020-03-06
+OctoberCompressedDevanagari.ttc.October Compressed Devanagari Black; 15.0d1e4; 2020-03-06
+OctoberCompressedDevanagari.ttc.October Compressed Devanagari Light; 15.0d1e4; 2020-03-06
+OctoberCompressedDevanagari.ttc.October Compressed Devanagari ExtraLight; 15.0d1e4; 2020-03-06
+OctoberCompressedDevanagari.ttc.October Compressed Devanagari Thin; 15.0d1e4; 2020-03-06
+OctoberCompressedDevanagari.ttc.October Compressed Devanagari Hairline; 15.0d1e4; 2020-03-06
+STIXVar.otf.FontMaster:STIXVariants-Regular:1.1.0
+NotoSansBuginese-Regular.ttf.2.000;GOOG;NotoSansBuginese-Regular
+GillSans.ttc.Gill Sans; 16.0d1e1; 2020-07-06
+GillSans.ttc.Gill Sans Bold; 16.0d1e1; 2020-07-06
+GillSans.ttc.Gill Sans Italic; 16.0d1e1; 2020-07-06
+GillSans.ttc.Gill Sans Bold Italic; 16.0d1e1; 2020-07-06
+GillSans.ttc.Gill Sans SemiBold; 16.0d1e1; 2020-07-06
+GillSans.ttc.Gill Sans SemiBold Italic; 16.0d1e1; 2020-07-06
+GillSans.ttc.Gill Sans UltraBold; 16.0d1e1; 2020-07-06
+GillSans.ttc.Gill Sans Light; 16.0d1e1; 2020-07-06
+GillSans.ttc.Gill Sans Light Italic; 16.0d1e1; 2020-07-06
+STIXGeneralBolIta.otf.FontMaster:STIXGeneral-BoldItalic:1.1.0
+NotoSansOldHungarian-Regular.ttf.2.001;GOOG;NotoSansOldHungarian-Regular
+STHEITI.ttf.STHeiti; 17.0d1e1; 2021-06-23
+NotoSansPahawhHmong-Regular.ttf.2.000;GOOG;NotoSansPahawhHmong-Regular
+Rockwell.ttc.Rockwell; 13.0d2e1; 2017-11-28
+Rockwell.ttc.Rockwell Italic; 13.0d2e1; 2017-11-28
+Rockwell.ttc.Rockwell Bold; 13.0d2e1; 2017-11-28
+Rockwell.ttc.Rockwell Bold Italic; 13.0d2e1; 2017-11-28
+NotoSansUgaritic-Regular.ttf.2.000;GOOG;NotoSansUgaritic-Regular
+Trebuchet MS.ttf.Microsoft Trebuchet
+Telugu MN.ttc.Telugu MN; 14.0d1e2; 2018-02-25
+Telugu MN.ttc.Telugu MN Bold; 14.0d1e2; 2018-02-25
+NotoSansMongolian-Regular.ttf.Monotype Imaging - Noto Sans Mongolian
+Srisakdi.ttc.1.000;CDK ;Srisakdi-Regular
+Srisakdi.ttc.1.000;CDK ;Srisakdi-Bold
+BMHanna11yrs-Regular.otf.BM HANNA 11yrs old OTF; 18.0d1e4; 2022-06-27
+NanumGothic.ttc.NanumGothic; 13.0d1e3; 2017-06-14
+NanumGothic.ttc.NanumGothic Bold; 13.0d1e3; 2017-06-14
+NanumGothic.ttc.NanumGothic ExtraBold; 13.0d1e3; 2017-06-14
+OctoberCondensedDevanagari.ttc.October Condensed Devanagari Regular; 15.0d1e5; 2020-03-06
+OctoberCondensedDevanagari.ttc.October Condensed Devanagari Medium; 15.0d1e5; 2020-03-06
+OctoberCondensedDevanagari.ttc.October Condensed Devanagari Bold; 15.0d1e5; 2020-03-06
+OctoberCondensedDevanagari.ttc.October Condensed Devanagari Heavy; 15.0d1e5; 2020-03-06
+OctoberCondensedDevanagari.ttc.October Condensed Devanagari Black; 15.0d1e5; 2020-03-06
+OctoberCondensedDevanagari.ttc.October Condensed Devanagari Light; 15.0d1e5; 2020-03-06
+OctoberCondensedDevanagari.ttc.October Condensed Devanagari ExtraLight; 15.0d1e5; 2020-03-06
+OctoberCondensedDevanagari.ttc.October Condensed Devanagari Thin; 15.0d1e5; 2020-03-06
+OctoberCondensedDevanagari.ttc.October Condensed Devanagari Hairline; 15.0d1e5; 2020-03-06
+Apple Color Emoji.ttc.Apple Color Emoji; 18.3d3e1; 2023-02-01
+Apple Color Emoji.ttc..Apple Color Emoji UI; 18.3d3e1; 2023-02-01
+Kannada MN.ttc.Kannada MN; 14.0d1e6; 2018-02-27
+Kannada MN.ttc.Kannada MN Bold; 14.0d1e6; 2018-02-27
+YuGothic-Bold.otf.YuGothic Bold; 17.0d1e1; 2021-06-22
+NotoSansBhaiksuki-Regular.ttf.2.000;GOOG;NotoSansBhaiksuki-Regular
+NotoSansRejang-Regular.ttf.2.000;GOOG;NotoSansRejang-Regular
+MuktaVaani-Gujarati.ttc.2.538;EKTF;MuktaVaani-Light
+MuktaVaani-Gujarati.ttc.2.538;EKTF;MuktaVaani-Bold
+MuktaVaani-Gujarati.ttc.2.538;EKTF;MuktaVaani-ExtraBold
+MuktaVaani-Gujarati.ttc.2.538;EKTF;MuktaVaani-ExtraLight
+MuktaVaani-Gujarati.ttc.2.538;EKTF;MuktaVaani-Medium
+MuktaVaani-Gujarati.ttc.2.538;EKTF;MuktaVaani-Regular
+MuktaVaani-Gujarati.ttc.2.538;EKTF;MuktaVaani-SemiBold
+NotoSansMeroitic-Regular.ttf.2.000;GOOG;NotoSansMeroitic-Regular
+NotoSansOldItalic-Regular.ttf.2.002;GOOG;NotoSansOldItalic-Regular
+Klee.ttc.Klee Demibold; 15.0d1e1; 2019-07-30
+Klee.ttc.Klee Medium; 15.0d1e1; 2019-07-30
+Noteworthy.ttc.Noteworthy Light; 17.0d1e1; 2020-10-09
+Noteworthy.ttc.Noteworthy Bold; 17.0d1e1; 2020-10-09
+NotoSansCuneiform-Regular.ttf.2.000;GOOG;NotoSansCuneiform-Regular
+Tahoma.ttf.Microsoft Tahoma Regular
+NotoSansManichaean-Regular.ttf.2.000;GOOG;NotoSansManichaean-Regular
+Galvji.ttc.Galvji; 14.0d1e3; 2017-12-06
+Galvji.ttc.Galvji Bold; 14.0d1e3; 2017-12-06
+Galvji.ttc.Galvji Oblique; 14.0d1e3; 2017-12-06
+Galvji.ttc.Galvji Bold Oblique; 14.0d1e3; 2017-12-06
+Pilgiche.ttf.PilGi Regular; 13.0d2e5; 2017-07-13
+KufiStandardGK.ttc.KufiStandardGK Regular; 13.0d1e11; 2017-06-30
+KufiStandardGK.ttc..KufiStandardGK PUA; 13.0d1e11; 2017-06-30
+Courier New Bold Italic.ttf.Monotype:Courier New Bold Italic:version 3.10 (Microsoft)
+AdelleSans.ttc.Adelle Sans Devanagari Regular; 15.0d2e1; 2020-08-14
+AdelleSans.ttc.Adelle Sans Devanagari Semibold; 15.0d2e1; 2020-08-14
+AdelleSans.ttc.Adelle Sans Devanagari Bold; 15.0d2e1; 2020-08-14
+AdelleSans.ttc.Adelle Sans Devanagari Extrabold; 15.0d2e1; 2020-08-14
+AdelleSans.ttc.Adelle Sans Devanagari Heavy; 15.0d2e1; 2020-08-14
+AdelleSans.ttc.Adelle Sans Devanagari Light; 15.0d2e1; 2020-08-14
+AdelleSans.ttc.Adelle Sans Devanagari Thin; 15.0d2e1; 2020-08-14
+ヒラギノ角ゴシック W0.ttc.Hiragino Sans W0; 17.0d1e30; 2021-08-13
+ヒラギノ角ゴシック W0.ttc..Hiragino Kaku Gothic Interface W0; 17.0d1e30; 2021-08-13
+NotoSansDuployan-Regular.ttf.2.000;GOOG;NotoSansDuployan-Regular
+STXIHEI.ttf.STXihei; 17.0d1e2; 2021-06-23
+TsukushiAMaruGothic.ttc.Tsukushi A Round Gothic Regular; 15.0d1e1; 2019-07-30
+TsukushiAMaruGothic.ttc.Tsukushi A Round Gothic Bold; 15.0d1e1; 2019-07-30
+NewYorkItalic.ttf..New York Italic; 17.0d5e1; 2021-06-04
+BMDoHyeon-Regular.otf.BM DoHyeon OTF; 14.0d1e4; 2019-05-14
+SFNSMonoItalic.ttf..SF NS Mono Light Italic; 16.0d2e1; 2020-06-30
+Muna.ttc.Muna Regular; 13.0d1e4; 2017-06-28
+Muna.ttc..Muna PUA; 13.0d1e4; 2017-06-28
+Muna.ttc.Muna Bold; 13.0d1e4; 2017-06-28
+Muna.ttc..Muna PUA Bold; 13.0d1e4; 2017-06-28
+Muna.ttc.Muna Black; 13.0d1e4; 2017-06-28
+Muna.ttc..Muna PUA Black; 13.0d1e4; 2017-06-28
+Apple Braille Pinpoint 6 Dot.ttf.Apple Braille Pinpoint 6 Dot; 13.0d2e27; 2017-06-30
+NanumMyeongjo.ttc.NanumMyeongjo; 13.0d1e3; 2017-06-14
+NanumMyeongjo.ttc.NanumMyeongjo Bold; 13.0d1e3; 2017-06-14
+NanumMyeongjo.ttc.NanumMyeongjo ExtraBold; 13.0d1e3; 2017-06-14
+STHeiti Medium.ttc.Heiti TC Medium; 17.0d1e2; 2021-06-23
+ToppanBunkyuMidashiMinchoStdN-ExtraBold.otf.Toppan Bunkyu Midashi Mincho Extrabold; 17.0d1e1; 2021-07-21
+Avenir Next.ttc.Avenir Next Bold; 13.0d1e10; 2017-06-30
+Avenir Next.ttc.Avenir Next Bold Italic; 13.0d1e10; 2017-06-30
+Avenir Next.ttc.Avenir Next Demi Bold; 13.0d1e10; 2017-06-30
+Avenir Next.ttc.Avenir Next Demi Bold Italic; 13.0d1e10; 2017-06-30
+Avenir Next.ttc.Avenir Next Italic; 13.0d1e10; 2017-06-30
+Avenir Next.ttc.Avenir Next Medium; 13.0d1e10; 2017-06-30
+Avenir Next.ttc.Avenir Next Medium Italic; 13.0d1e10; 2017-06-30
+Avenir Next.ttc.Avenir Next Regular; 13.0d1e10; 2017-06-30
+Avenir Next.ttc.Avenir Next Heavy; 13.0d1e10; 2017-06-30
+Avenir Next.ttc.Avenir Next Heavy Italic; 13.0d1e10; 2017-06-30
+Avenir Next.ttc.Avenir Next Ultra Light; 13.0d1e10; 2017-06-30
+Avenir Next.ttc.Avenir Next Ultra Light Italic; 13.0d1e10; 2017-06-30
+Ayuthaya.ttf.Ayuthaya; 13.0d1e7; 2017-06-12
+Beirut.ttc.Beirut Regular; 13.0d1e6; 2017-06-27
+Beirut.ttc..Beirut PUA; 13.0d1e6; 2017-06-27
+NotoSansBuhid-Regular.ttf.2.000;GOOG;NotoSansBuhid-Regular
+Farisi.ttf.Farisi Regular; 13.0d1e3; 2017-06-13
+NotoSansTirhuta-Regular.ttf.2.001;GOOG;NotoSansTirhuta-Regular
+NotoSansKharoshthi-Regular.ttf.2.000;GOOG;NotoSansKharoshthi-Regular
+NotoSansYi-Regular.ttf.2.000;GOOG;NotoSansYi-Regular
+MarkerFelt.ttc.Marker Felt Thin; 13.0d1e11; 2017-06-09
+MarkerFelt.ttc.Marker Felt Wide; 13.0d1e11; 2017-06-09
+Apple Braille Outline 6 Dot.ttf.Apple Braille Outline 6 Dot; 13.0d2e27; 2017-06-30
+OctoberTamil.ttc.October Tamil Regular; 15.0d1e7; 2020-03-05
+OctoberTamil.ttc.October Tamil Medium; 15.0d1e7; 2020-03-05
+OctoberTamil.ttc.October Tamil Bold; 15.0d1e7; 2020-03-05
+OctoberTamil.ttc.October Tamil Heavy; 15.0d1e7; 2020-03-05
+OctoberTamil.ttc.October Tamil Black; 15.0d1e7; 2020-03-05
+OctoberTamil.ttc.October Tamil Light; 15.0d1e7; 2020-03-05
+OctoberTamil.ttc.October Tamil ExtraLight; 15.0d1e7; 2020-03-05
+OctoberTamil.ttc.October Tamil Thin; 15.0d1e7; 2020-03-05
+OctoberTamil.ttc.October Tamil Hairline; 15.0d1e7; 2020-03-05
+NotoSansSundanese-Regular.ttf.2.000;GOOG;NotoSansSundanese-Regular
+Damascus.ttc.Damascus Regular; 13.0d3e9; 2017-06-29
+Damascus.ttc..Damascus PUA; 13.0d3e9; 2017-06-29
+Damascus.ttc.Damascus Light; 13.0d3e9; 2017-06-29
+Damascus.ttc..Damascus PUA Light; 13.0d3e9; 2017-06-29
+Damascus.ttc.Damascus Medium; 13.0d3e9; 2017-06-29
+Damascus.ttc..Damascus PUA Medium; 13.0d3e9; 2017-06-29
+Damascus.ttc.Damascus Bold; 13.0d3e9; 2017-06-29
+Damascus.ttc..Damascus PUA Bold; 13.0d3e9; 2017-06-29
+Damascus.ttc.Damascus Semi Bold; 13.0d3e9; 2017-06-29
+Damascus.ttc..Damascus PUA Semi Bold; 13.0d3e9; 2017-06-29
+NotoSansPhagsPa-Regular.ttf.2.000;GOOG;NotoSansPhagsPa-Regular
+NotoSerifBalinese-Regular.ttf.2.000;GOOG;NotoSerifBalinese-Regular
+WawaTC-Regular.otf.Wawati TC Regular; 15.0d1e3; 2019-06-24
+Diwan Thuluth.ttf.Diwan Thuluth Regular; 13.0d1e5; 2017-06-13
+KohinoorGujarati.ttc.Kohinoor Gujarati Bold; 14.0d2e16; 2018-11-24
+KohinoorGujarati.ttc.Kohinoor Gujarati Light; 14.0d2e16; 2018-11-24
+KohinoorGujarati.ttc.Kohinoor Gujarati Medium; 14.0d2e16; 2018-11-24
+KohinoorGujarati.ttc.Kohinoor Gujarati Regular; 14.0d2e16; 2018-11-24
+KohinoorGujarati.ttc.Kohinoor Gujarati Semibold; 14.0d2e16; 2018-11-24
+Mishafi.ttf.Mishafi Regular; 13.0d2e1; 2017-06-28
+Kokonor.ttf.Kokonor Regular; 18.0d1e10; 2022-04-19
+STIXSizThreeSymReg.otf.FontMaster:STIXSizeThreeSym-Regular:1.1.0
+Hiragino Sans GB.ttc.Hiragino Sans GB W3; 17.0d0e2; 2021-06-23
+Hiragino Sans GB.ttc..Hiragino Sans GB Interface W3; 17.0d0e2; 2021-06-23
+Hiragino Sans GB.ttc.Hiragino Sans GB W6; 17.0d0e2; 2021-06-23
+Hiragino Sans GB.ttc..Hiragino Sans GB Interface W6; 17.0d0e2; 2021-06-23
+Phosphate.ttc.Phosphate Inline; 13.0d1e2; 2017-06-15
+Phosphate.ttc.Phosphate Solid; 13.0d1e2; 2017-06-15
+NotoSansArmenian.ttc.Noto Sans Armenian Black; 15.0d1e2; 2019-03-15
+NotoSansArmenian.ttc.Noto Sans Armenian Bold; 15.0d1e2; 2019-03-15
+NotoSansArmenian.ttc.Noto Sans Armenian ExtraBold; 15.0d1e2; 2019-03-15
+NotoSansArmenian.ttc.Noto Sans Armenian ExtraLight; 15.0d1e2; 2019-03-15
+NotoSansArmenian.ttc.Noto Sans Armenian Light; 15.0d1e2; 2019-03-15
+NotoSansArmenian.ttc.Noto Sans Armenian Medium; 15.0d1e2; 2019-03-15
+NotoSansArmenian.ttc.Noto Sans Armenian Regular; 15.0d1e2; 2019-03-15
+NotoSansArmenian.ttc.Noto Sans Armenian SemiBold; 15.0d1e2; 2019-03-15
+NotoSansArmenian.ttc.Noto Sans Armenian Thin; 15.0d1e2; 2019-03-15
+GujaratiMT.ttc.Gujarati MT; 13.0d1e2; 2017-06-18
+GujaratiMT.ttc.Gujarati MT Bold; 13.0d1e2; 2017-06-18
+SFArabic.ttf..SF Arabic; 18.0d8e1; 2022-09-16
+NISC18030.ttf.GB18030 Bitmap; 18.0d1e1; 2022-09-12
+Bodoni 72 OS.ttc.Bodoni 72 Oldstyle Book; 13.0d2e1; 2017-07-12
+Bodoni 72 OS.ttc.Bodoni 72 Oldstyle Book Italic; 13.0d2e1; 2017-07-12
+Bodoni 72 OS.ttc.Bodoni 72 Oldstyle Bold; 13.0d2e1; 2017-07-12
+BalooBhaiGujarati.ttc.Baloo Bhai 2 Regular; 15.0d1e7 (1.640); 2020-09-15
+BalooBhaiGujarati.ttc.Baloo Bhai 2 Medium; 15.0d1e7 (1.640); 2020-09-15
+BalooBhaiGujarati.ttc.Baloo Bhai 2 SemiBold; 15.0d1e7 (1.640); 2020-09-15
+BalooBhaiGujarati.ttc.Baloo Bhai 2 Bold; 15.0d1e7 (1.640); 2020-09-15
+BalooBhaiGujarati.ttc.Baloo Bhai 2 ExtraBold; 15.0d1e7 (1.640); 2020-09-15
+SamaGurmukhi.ttc.Sama Gurmukhi Regular; 15.0d1e6; 2020-03-06
+SamaGurmukhi.ttc.Sama Gurmukhi Book; 15.0d1e6; 2020-03-06
+SamaGurmukhi.ttc.Sama Gurmukhi Medium; 15.0d1e6; 2020-03-06
+SamaGurmukhi.ttc.Sama Gurmukhi SemiBold; 15.0d1e6; 2020-03-06
+SamaGurmukhi.ttc.Sama Gurmukhi Bold; 15.0d1e6; 2020-03-06
+SamaGurmukhi.ttc.Sama Gurmukhi ExtraBold; 15.0d1e6; 2020-03-06
+NotoSansImperialAramaic-Regular.ttf.2.000;GOOG;NotoSansImperialAramaic-Regular
+ArimaMadurai.ttc.Arima Madurai; 14.0d1e6; 2021-07-07
+ArimaMadurai.ttc.Arima Madurai Medium; 14.0d1e6; 2021-07-07
+ArimaMadurai.ttc.Arima Madurai Semi Bold; 14.0d1e6; 2021-07-07
+ArimaMadurai.ttc.Arima Madurai Bold; 14.0d1e6; 2021-07-07
+ArimaMadurai.ttc.Arima Madurai Black; 14.0d1e6; 2021-07-07
+ArimaMadurai.ttc.Arima Madurai Light; 14.0d1e6; 2021-07-07
+ArimaMadurai.ttc.Arima Madurai ExtraLight; 14.0d1e6; 2021-07-07
+ArimaMadurai.ttc.Arima Madurai Thin; 14.0d1e6; 2021-07-07
+Cochin.ttc.Cochin; 13.0d2e1; 2017-06-19
+Cochin.ttc.Cochin Bold; 13.0d2e1; 2017-06-19
+Cochin.ttc.Cochin Italic; 13.0d2e1; 2017-06-19
+Cochin.ttc.Cochin Bold Italic; 13.0d2e1; 2017-06-19
+NotoSansInscriptionalPahlavi-Regular.ttf.2.000;GOOG;NotoSansInscriptionalPahlavi-Regular
+SFCompactItalic.ttf..SF Compact Black Italic; 18.0d9e2; 2022-07-06
+AppleSDGothicNeo.ttc.Apple SD Gothic Neo Regular; 13.0d2e9; 2021-07-22
+AppleSDGothicNeo.ttc..Apple SD Gothic NeoI Regular; 13.0d2e9; 2021-07-22
+AppleSDGothicNeo.ttc.Apple SD Gothic Neo Medium; 13.0d2e9; 2021-07-22
+AppleSDGothicNeo.ttc..Apple SD Gothic NeoI Medium; 13.0d2e9; 2021-07-22
+AppleSDGothicNeo.ttc.Apple SD Gothic Neo SemiBold; 13.0d2e9; 2021-07-22
+AppleSDGothicNeo.ttc..Apple SD Gothic NeoI SemiBold; 13.0d2e9; 2021-07-22
+AppleSDGothicNeo.ttc.Apple SD Gothic Neo Bold; 13.0d2e9; 2021-07-22
+AppleSDGothicNeo.ttc..Apple SD Gothic NeoI Bold; 13.0d2e9; 2021-07-22
+AppleSDGothicNeo.ttc.Apple SD Gothic Neo Light; 13.0d2e9; 2021-07-22
+AppleSDGothicNeo.ttc..Apple SD Gothic NeoI Light; 13.0d2e9; 2021-07-22
+AppleSDGothicNeo.ttc.Apple SD Gothic Neo Thin; 13.0d2e9; 2021-07-22
+AppleSDGothicNeo.ttc..Apple SD Gothic NeoI Thin; 13.0d2e9; 2021-07-22
+AppleSDGothicNeo.ttc.Apple SD Gothic Neo UltraLight; 13.0d2e9; 2021-07-22
+AppleSDGothicNeo.ttc..Apple SD Gothic NeoI UltraLight; 13.0d2e9; 2021-07-22
+AppleSDGothicNeo.ttc.Apple SD Gothic Neo ExtraBold; 13.0d2e9; 2021-07-22
+AppleSDGothicNeo.ttc..Apple SD Gothic NeoI ExtraBold; 13.0d2e9; 2021-07-22
+AppleSDGothicNeo.ttc.Apple SD Gothic Neo Heavy; 13.0d2e9; 2021-07-22
+AppleSDGothicNeo.ttc..Apple SD Gothic NeoI Heavy; 13.0d2e9; 2021-07-22
+Wingdings 2.ttf.Wingdings 2
+NewPeninimMT.ttc.New Peninim MT; 13.0d1e4; 2017-06-14
+NewPeninimMT.ttc.New Peninim MT Inclined; 13.0d1e4; 2017-06-14
+NewPeninimMT.ttc.New Peninim MT Bold Inclined; 13.0d1e4; 2017-06-14
+NewPeninimMT.ttc.New Peninim MT Bold; 13.0d1e4; 2017-06-14
+Myanmar Sangam MN.ttc.Myanmar Sangam MN; 14.0d1e8; 2018-02-27
+Myanmar Sangam MN.ttc.Myanmar Sangam MN Bold; 14.0d1e8; 2018-02-27
+Sarabun.ttc.1.000;CDK ;Sarabun-Regular
+Sarabun.ttc.1.000;CDK ;Sarabun-Italic
+Sarabun.ttc.1.000;CDK ;Sarabun-Medium
+Sarabun.ttc.1.000;CDK ;Sarabun-MediumItalic
+Sarabun.ttc.1.000;CDK ;Sarabun-SemiBold
+Sarabun.ttc.1.000;CDK ;Sarabun-SemiBoldItalic
+Sarabun.ttc.1.000;CDK ;Sarabun-Bold
+Sarabun.ttc.1.000;CDK ;Sarabun-BoldItalic
+Sarabun.ttc.1.000;CDK ;Sarabun-ExtraBold
+Sarabun.ttc.1.000;CDK ;Sarabun-ExtraBoldItalic
+Sarabun.ttc.1.000;CDK ;Sarabun-Light
+Sarabun.ttc.1.000;CDK ;Sarabun-LightItalic
+Sarabun.ttc.1.000;CDK ;Sarabun-ExtraLight
+Sarabun.ttc.1.000;CDK ;Sarabun-ExtraLightItalic
+Sarabun.ttc.1.000;CDK ;Sarabun-Thin
+Sarabun.ttc.1.000;CDK ;Sarabun-ThinItalic
+Bangla MN.ttc.Bangla MN; 14.0d1e2; 2018-02-25
+Bangla MN.ttc.Bangla MN Bold; 14.0d1e2; 2018-02-25
+TiroTamil.ttc.Tiro Tamil; 15.0d6e1; 2020-09-12
+TiroTamil.ttc.Tiro Tamil Italic; 15.0d6e1; 2020-09-12
+Katari.ttc.Katari Regular; 16.0d2e5; 2021-02-16
+Katari.ttc.Katari Italic; 16.0d2e5; 2021-02-16
+Katari.ttc.Katari Medium; 16.0d2e5; 2021-02-16
+Katari.ttc.Katari Medium Italic; 16.0d2e5; 2021-02-16
+Katari.ttc.Katari Bold; 16.0d2e5; 2021-02-16
+Katari.ttc.Katari Bold Italic; 16.0d2e5; 2021-02-16
+Katari.ttc.Katari Black; 16.0d2e5; 2021-02-16
+Katari.ttc.Katari Black Italic; 16.0d2e5; 2021-02-16
+Apple Braille.ttf.Apple Braille; 13.0d2e27; 2017-06-30
+Nadeem.ttc.Nadeem Regular; 18.0d1e1; 2022-02-07
+Nadeem.ttc..Nadeem PUA; 18.0d1e1; 2022-02-07
+NotoSansAdlam-Regular.ttf.3.000;GOOG;NotoSansAdlam-Regular
+NotoSansSaurashtra-Regular.ttf.2.000;GOOG;NotoSansSaurashtra-Regular
+ToppanBunkyuGothicPr6N.ttc.Toppan Bunkyu Gothic Demibold; 17.0d1e1; 2021-07-21
+ToppanBunkyuGothicPr6N.ttc.Toppan Bunkyu Gothic Regular; 17.0d1e1; 2021-07-21
+Arial Narrow Italic.ttf.Arial Narrow Italic : 2007
+Malayalam MN.ttc.Malayalam MN; 14.0d1e6; 2018-02-24
+Malayalam MN.ttc.Malayalam MN Bold; 14.0d1e6; 2018-02-24
+Kohinoor.ttc.Kohinoor Devanagari Regular; 14.0d5e3; 2018-07-10
+Kohinoor.ttc.Kohinoor Devanagari Medium; 14.0d5e3; 2018-07-10
+Kohinoor.ttc.Kohinoor Devanagari Semibold; 14.0d5e3; 2018-07-10
+Kohinoor.ttc.Kohinoor Devanagari Bold; 14.0d5e3; 2018-07-10
+Kohinoor.ttc.Kohinoor Devanagari Light; 14.0d5e3; 2018-07-10
+BMYeongSung-Regular.otf.BM YEONSUNG OTF; 14.0d1e1; 2019-05-14
+STIXSizThreeSymBol.otf.FontMaster:STIXSizeThreeSym-Bold:1.1.0
+NotoSerifNyiakengPuachueHmong-Regular.ttf.1.000;GOOG;NotoSerifHmongNyiakeng-Regular
+OsakaMono.ttf.Osaka-Mono; 16.0d1e2; 2020-04-21
+DecoTypeNaskh.ttc.DecoType Naskh Regular; 14.0d0e1; 2017-11-14
+DecoTypeNaskh.ttc..DecoType Naskh PUA; 14.0d0e1; 2017-11-14
+AlBayan.ttc.Al Bayan Plain; 18.0d1e1; 2022-02-07
+AlBayan.ttc..Al Bayan PUA Plain; 18.0d1e1; 2022-02-07
+AlBayan.ttc.Al Bayan Bold; 18.0d1e1; 2022-02-07
+AlBayan.ttc..Al Bayan PUA Bold; 18.0d1e1; 2022-02-07
+NotoSansSylotiNagri-Regular.ttf.2.001;GOOG;NotoSansSylotiNagri-Regular
+Zapfino.ttf.Zapfino; 18.0d1e2; 2021-11-18
+Monaco.ttf.Monaco; 17.0d1e5; 2020-09-21
+Microsoft Sans Serif.ttf.Microsoft Sans Serif Regular
+Xingkai.ttc.Xingkai SC Bold; 17.0d1e3; 2021-06-23
+Xingkai.ttc.Xingkai TC Bold; 17.0d1e3; 2021-06-23
+Xingkai.ttc.Xingkai SC Light; 17.0d1e3; 2021-06-23
+Xingkai.ttc.Xingkai TC Light; 17.0d1e3; 2021-06-23
+STIXGeneralItalic.otf.FontMaster:STIXGeneral-Italic:1.1.0
+Osaka.ttf.Osaka; 16.0d1e2; 2020-04-21
+NotoSansBatak-Regular.ttf.2.000;GOOG;NotoSansBatak-Regular
+TiroSanskrit.ttc.Tiro Devanagari Sanskrit; 17.0d1e1; 2021-08-25
+TiroSanskrit.ttc.Tiro Devanagari Sanskrit Italic; 17.0d1e1; 2021-08-25
+SuperClarendon.ttc.Superclarendon Regular; 13.0d1e4; 2017-06-14
+SuperClarendon.ttc.Superclarendon Italic; 13.0d1e4; 2017-06-14
+SuperClarendon.ttc.Superclarendon Light Italic; 13.0d1e4; 2017-06-14
+SuperClarendon.ttc.Superclarendon Light; 13.0d1e4; 2017-06-14
+SuperClarendon.ttc.Superclarendon Bold Italic; 13.0d1e4; 2017-06-14
+SuperClarendon.ttc.Superclarendon Bold; 13.0d1e4; 2017-06-14
+SuperClarendon.ttc.Superclarendon Black Italic; 13.0d1e4; 2017-06-14
+SuperClarendon.ttc.Superclarendon Black; 13.0d1e4; 2017-06-14
+FahKwang.ttc.1.000;CDK ;Fahkwang-Regular
+FahKwang.ttc.1.000;CDK ;Fahkwang-Italic
+FahKwang.ttc.1.000;CDK ;Fahkwang-Medium
+FahKwang.ttc.1.000;CDK ;Fahkwang-MediumItalic
+FahKwang.ttc.1.000;CDK ;Fahkwang-SemiBold
+FahKwang.ttc.1.000;CDK ;Fahkwang-SemiBoldItalic
+FahKwang.ttc.1.000;CDK ;Fahkwang-Bold
+FahKwang.ttc.1.000;CDK ;Fahkwang-BoldItalic
+FahKwang.ttc.1.000;CDK ;Fahkwang-Light
+FahKwang.ttc.1.000;CDK ;Fahkwang-LightItalic
+FahKwang.ttc.1.000;CDK ;Fahkwang-ExtraLight
+FahKwang.ttc.1.000;CDK ;Fahkwang-ExtraLightItalic
+NotoSansLisu-Regular.ttf.2.000;GOOG;NotoSansLisu-Regular
+Bangla Sangam MN.ttc.Bangla Sangam MN; 14.0d1e1; 2018-02-25
+Bangla Sangam MN.ttc.Bangla Sangam MN Bold; 14.0d1e1; 2018-02-25
+Devanagari Sangam MN.ttc.Devanagari Sangam MN; 14.0d1e12; 2018-03-01
+Devanagari Sangam MN.ttc.Devanagari Sangam MN Bold; 14.0d1e12; 2018-03-01
+STIXIntDReg.otf.FontMaster:STIXIntegralsD-Regular:1.1.0
+PTMono.ttc.PT Mono Bold; 13.0d2e4; 2017-06-29
+PTMono.ttc.PT Mono; 13.0d2e4; 2017-06-29
+NotoSansTaiTham-Regular.ttf.Monotype Imaging - Noto Sans Tai Tham
+Menlo.ttc.Menlo Regular; 17.0d1e1; 2021-02-10
+Menlo.ttc.Menlo Bold; 17.0d1e1; 2021-02-10
+Menlo.ttc.Menlo Italic; 17.0d1e1; 2021-02-10
+Menlo.ttc.Menlo Bold Italic; 17.0d1e1; 2021-02-10
+STIXIntUpDBol.otf.FontMaster:STIXIntegralsUpD-Bold:1.1.0
+NotoSansMandaic-Regular.ttf.2.000;GOOG;NotoSansMandaic-Regular
+BalooBhainaOdia.ttc.Baloo Bhaina 2 Regular; 15.0d1e7 (1.640); 2020-09-15
+BalooBhainaOdia.ttc.Baloo Bhaina 2 Medium; 15.0d1e7 (1.640); 2020-09-15
+BalooBhainaOdia.ttc.Baloo Bhaina 2 SemiBold; 15.0d1e7 (1.640); 2020-09-15
+BalooBhainaOdia.ttc.Baloo Bhaina 2 Bold; 15.0d1e7 (1.640); 2020-09-15
+BalooBhainaOdia.ttc.Baloo Bhaina 2 ExtraBold; 15.0d1e7 (1.640); 2020-09-15
+SignPainter.ttc.SignPainter-HouseScript; 14.0d1e1; 2018-01-16
+SignPainter.ttc.SignPainter-HouseScript Semibold; 14.0d1e1; 2018-01-16
+ヒラギノ角ゴシック W1.ttc.Hiragino Sans W1; 17.0d1e31; 2021-08-13
+ヒラギノ角ゴシック W1.ttc..Hiragino Kaku Gothic Interface W1; 17.0d1e31; 2021-08-13
+STIXGeneral.otf.FontMaster:STIXGeneral-Regular:1.1.0
+STIXIntSmReg.otf.FontMaster:STIXIntegralsSm-Regular:1.1.0
+Hoefler Text.ttc.Hoefler Text; 14.0d1e2; 2018-01-19
+Hoefler Text.ttc.Hoefler Text Black; 14.0d1e2; 2018-01-19
+Hoefler Text.ttc.Hoefler Text Italic; 14.0d1e2; 2018-01-19
+Hoefler Text.ttc.Hoefler Text Black Italic; 14.0d1e2; 2018-01-19
+ToppanBunkyuMinchoPr6N-Regular.otf.Toppan Bunkyu Mincho Regular; 17.0d1e1; 2021-07-21
+NotoSansGunjalaGondi-Regular.otf.1.002;GOOG;NotoSansGunjalaGondi-Regular
+Songti.ttc.Songti SC Black; 17.0d2e3; 2021-06-30
+Songti.ttc.Songti SC Bold; 17.0d2e3; 2021-06-30
+Songti.ttc.Songti TC Bold; 17.0d2e3; 2021-06-30
+Songti.ttc.Songti SC Light; 17.0d2e3; 2021-06-30
+Songti.ttc.STSong; 17.0d2e3; 2021-06-30
+Songti.ttc.Songti TC Light; 17.0d2e3; 2021-06-30
+Songti.ttc.Songti SC Regular; 17.0d2e3; 2021-06-30
+Songti.ttc.Songti TC Regular; 17.0d2e3; 2021-06-30
+BMJua-Regular.otf.BM JUA OTF; 18.0d1e4; 2022-06-27
+STIXSizTwoSymBol.otf.FontMaster:STIXSizeTwoSym-Bold:1.1.0
+NotoSansMultani-Regular.ttf.2.000;GOOG;NotoSansMultani-Regular
+STIXSizOneSymBol.otf.FontMaster:STIXSizeOneSym-Bold:1.1.0
+NotoSansTagbanwa-Regular.ttf.2.000;GOOG;NotoSansTagbanwa-Regular
+Avenir Next Condensed.ttc.Avenir Next Condensed Bold; 13.0d1e10; 2017-06-30
+Avenir Next Condensed.ttc.Avenir Next Condensed Bold Italic; 13.0d1e10; 2017-06-30
+Avenir Next Condensed.ttc.Avenir Next Condensed Demi Bold; 13.0d1e10; 2017-06-30
+Avenir Next Condensed.ttc.Avenir Next Condensed Demi Bold Italic; 13.0d1e10; 2017-06-30
+Avenir Next Condensed.ttc.Avenir Next Condensed Italic; 13.0d1e10; 2017-06-30
+Avenir Next Condensed.ttc.Avenir Next Condensed Medium; 13.0d1e10; 2017-06-30
+Avenir Next Condensed.ttc.Avenir Next Condensed Medium Italic; 13.0d1e10; 2017-06-30
+Avenir Next Condensed.ttc.Avenir Next Condensed Regular; 13.0d1e10; 2017-06-30
+Avenir Next Condensed.ttc.Avenir Next Condensed Heavy; 13.0d1e10; 2017-06-30
+Avenir Next Condensed.ttc.Avenir Next Condensed Heavy Italic; 13.0d1e10; 2017-06-30
+Avenir Next Condensed.ttc.Avenir Next Condensed Ultra Light; 13.0d1e10; 2017-06-30
+Avenir Next Condensed.ttc.Avenir Next Condensed Ultra Light Italic; 13.0d1e10; 2017-06-30
+Trattatello.ttf.Trattatello; 13.0d2e2; 2017-06-20
+Al Nile.ttc.Al Nile; 13.0d2e2; 2017-06-27
+Al Nile.ttc..Al Nile PUA; 13.0d2e2; 2017-06-27
+Al Nile.ttc.Al Nile Bold; 13.0d2e2; 2017-06-27
+Al Nile.ttc..Al Nile PUA Bold; 13.0d2e2; 2017-06-27
+SamaGujarati.ttc.Sama Gujarati Regular; 15.0d1e5; 2020-03-06
+SamaGujarati.ttc.Sama Gujarati Book; 15.0d1e5; 2020-03-06
+SamaGujarati.ttc.Sama Gujarati Medium; 15.0d1e5; 2020-03-06
+SamaGujarati.ttc.Sama Gujarati SemiBold; 15.0d1e5; 2020-03-06
+SamaGujarati.ttc.Sama Gujarati Bold; 15.0d1e5; 2020-03-06
+SamaGujarati.ttc.Sama Gujarati ExtraBold; 15.0d1e5; 2020-03-06
+Kaiti.ttc.Kaiti SC Regular; 17.0d1e2; 2021-06-23
+Kaiti.ttc.STKaiti; 17.0d1e2; 2021-06-23
+Kaiti.ttc.Kaiti TC Regular; 17.0d1e2; 2021-06-23
+Kaiti.ttc.Kaiti SC Bold; 17.0d1e2; 2021-06-23
+Kaiti.ttc.Kaiti TC Bold; 17.0d1e2; 2021-06-23
+Kaiti.ttc.Kaiti SC Black; 17.0d1e2; 2021-06-23
+Kaiti.ttc.Kaiti TC Black; 17.0d1e2; 2021-06-23
+NotoSansBrahmi-Regular.ttf.2.000;GOOG;NotoSansBrahmi-Regular
+Symbol.ttf.Symbol; 13.0d2e2; 2017-06-09
+NotoSansWarangCiti-Regular.ttf.3.000;GOOG;NotoSansWarangCiti-Regular
+Gungseouche.ttf.GungSeo Regular; 13.0d1e3; 2017-06-12
+Maku-Devanagari.ttc.Maku Regular; 14.0d7e8; 2019-08-07
+Maku-Devanagari.ttc.Maku Bold; 14.0d7e8; 2019-08-07
+ヒラギノ角ゴシック W3.ttc.Hiragino Sans W3; 17.0d1e33; 2021-08-13
+ヒラギノ角ゴシック W3.ttc..Hiragino Kaku Gothic Interface W3; 17.0d1e33; 2021-08-13
+ヒラギノ角ゴシック W3.ttc.Hiragino Kaku Gothic ProN W3; 17.0d1e33; 2021-08-13
+ヒラギノ角ゴシック W3.ttc.Hiragino Kaku Gothic Pro W3; 17.0d1e33; 2021-08-13
+SimSong.ttc.簡宋 標準體; 16.0d3e1; 2020-06-04
+SimSong.ttc.簡宋 粗體; 16.0d3e1; 2020-06-04
+Futura.ttc.Futura Medium; 16.0d2e1; 2020-07-06
+Futura.ttc.Futura Medium Italic; 16.0d2e1; 2020-07-06
+Futura.ttc.Futura Bold; 16.0d2e1; 2020-07-06
+Futura.ttc.Futura Condensed Medium; 16.0d2e1; 2020-07-06
+Futura.ttc.Futura Condensed ExtraBold; 16.0d2e1; 2020-07-06
+NotoSerifKannada.ttc.2.001;GOOG;NotoSerifKannada-Regular
+NotoSerifKannada.ttc.2.001;GOOG;NotoSerifKannada-Thin
+NotoSerifKannada.ttc.2.001;GOOG;NotoSerifKannada-SemiBold
+NotoSerifKannada.ttc.2.001;GOOG;NotoSerifKannada-Medium
+NotoSerifKannada.ttc.2.001;GOOG;NotoSerifKannada-Light
+NotoSerifKannada.ttc.2.001;GOOG;NotoSerifKannada-ExtraLight
+NotoSerifKannada.ttc.2.001;GOOG;NotoSerifKannada-ExtraBold
+NotoSerifKannada.ttc.2.001;GOOG;NotoSerifKannada-Bold
+NotoSerifKannada.ttc.2.001;GOOG;NotoSerifKannada-Black
+NotoSansOsage-Regular.ttf.2.000;GOOG;NotoSansOsage-Regular
+Times New Roman Bold.ttf.Monotype:Times New Roman Bold:Version 5.01 (Microsoft)
+SnellRoundhand.ttc.Snell Roundhand; 15.0d1e1; 2019-04-22
+SnellRoundhand.ttc.Snell Roundhand Bold; 15.0d1e1; 2019-04-22
+SnellRoundhand.ttc.Snell Roundhand Black; 15.0d1e1; 2019-04-22
+Chalkduster.ttf.Chalkduster; 13.0d2e1; 2017-07-06
+Oriya Sangam MN.ttc.Oriya Sangam MN; 14.0d1e2; 2018-02-24
+Oriya Sangam MN.ttc.Oriya Sangam MN Bold; 14.0d1e2; 2018-02-24
+AppleLiGothic-Medium.ttf.Apple LiGothic Medium; 13.0d2e6; 2017-06-06
+YuGothic-Medium.otf.YuGothic Medium; 17.0d1e1; 2021-06-22
+NotoSansSamaritan-Regular.ttf.2.000;GOOG;NotoSansSamaritan-Regular
+Sinhala Sangam MN.ttc.Sinhala Sangam MN; 14.0d1e2; 2018-02-25
+Sinhala Sangam MN.ttc.Sinhala Sangam MN Bold; 14.0d1e2; 2018-02-25
+SFArabicRounded.ttf..SF Arabic Rounded; 18.0d7e1; 2022-07-12
+NotoSansOlChiki-Regular.ttf.2.000;GOOG;NotoSansOlChiki-Regular
+InaiMathi-MN.ttc.InaiMathi; 13.0d1e5; 2017-06-13
+InaiMathi-MN.ttc.InaiMathi Bold; 13.0d1e5; 2017-06-13
+DevanagariMT.ttc.Devanagari MT; 13.0d1e3; 2017-06-12
+DevanagariMT.ttc.Devanagari MT Bold; 13.0d1e3; 2017-06-12
+NotoSansBamum-Regular.ttf.2.000;GOOG;NotoSansBamum-Regular
+Kai.ttf.Kai Regular; 13.0d1e2; 2017-06-16
+Mukta-Devanagari.ttc.2.538;EKTF;Mukta-Regular
+Mukta-Devanagari.ttc.2.538;EKTF;Mukta-SemiBold
+Mukta-Devanagari.ttc.2.538;EKTF;Mukta-Medium
+Mukta-Devanagari.ttc.2.538;EKTF;Mukta-Light
+Mukta-Devanagari.ttc.2.538;EKTF;Mukta-ExtraLight
+Mukta-Devanagari.ttc.2.538;EKTF;Mukta-ExtraBold
+Mukta-Devanagari.ttc.2.538;EKTF;Mukta-Bold
+ArimaKoshi.ttc.1.019;NDIS;ArimaKoshi-Regular
+ArimaKoshi.ttc.1.019;NDIS;ArimaKoshi-Medium
+ArimaKoshi.ttc.1.019;NDIS;ArimaKoshi-Bold
+ArimaKoshi.ttc.1.019;NDIS;ArimaKoshi-ExtraBold
+ArimaKoshi.ttc.1.019;NDIS;ArimaKoshi-Black
+ArimaKoshi.ttc.1.019;NDIS;ArimaKoshi-Light
+ArimaKoshi.ttc.1.019;NDIS;ArimaKoshi-ExtraLight
+ArimaKoshi.ttc.1.019;NDIS;ArimaKoshi-Thin
+ヒラギノ角ゴシック W6.ttc.Hiragino Sans W6; 17.0d1e36; 2021-08-13
+ヒラギノ角ゴシック W6.ttc..Hiragino Kaku Gothic Interface W6; 17.0d1e36; 2021-08-13
+ヒラギノ角ゴシック W6.ttc.Hiragino Kaku Gothic ProN W6; 17.0d1e36; 2021-08-13
+ヒラギノ角ゴシック W6.ttc.Hiragino Kaku Gothic Pro W6; 17.0d1e36; 2021-08-13
+ToppanBunkyuMidashiGothicStdN-ExtraBold.otf.Toppan Bunkyu Midashi Gothic Extrabold; 17.0d1e1; 2021-07-21
+NotoSansTaiLe-Regular.ttf.2.000;GOOG;NotoSansTaiLe-Regular
+AmericanTypewriter.ttc.American Typewriter; 16.0d2e4; 2020-07-06
+AmericanTypewriter.ttc.American Typewriter Light; 16.0d2e4; 2020-07-06
+AmericanTypewriter.ttc.American Typewriter Bold; 16.0d2e4; 2020-07-06
+AmericanTypewriter.ttc.American Typewriter Semibold; 16.0d2e4; 2020-07-06
+AmericanTypewriter.ttc.American Typewriter Condensed; 16.0d2e4; 2020-07-06
+AmericanTypewriter.ttc.American Typewriter Condensed Bold; 16.0d2e4; 2020-07-06
+AmericanTypewriter.ttc.American Typewriter Condensed Light; 16.0d2e4; 2020-07-06
+NotoSansHanifiRohingya-Regular.ttf.2.002;GOOG;NotoSansHanifiRohingya-Regular
+PartyLET-plain.ttf.Party LET Plain; 16.0d1e2; 2020-08-17
+Arial Narrow Bold.ttf.Arial Narrow Bold : 2007
+Krub.ttc.1.000;CDK ;Krub-Regular
+Krub.ttc.1.000;CDK ;Krub-Italic
+Krub.ttc.1.000;CDK ;Krub-Medium
+Krub.ttc.1.000;CDK ;Krub-MediumItalic
+Krub.ttc.1.000;CDK ;Krub-SemiBold
+Krub.ttc.1.000;CDK ;Krub-SemiBoldItalic
+Krub.ttc.1.000;CDK ;Krub-Bold
+Krub.ttc.1.000;CDK ;Krub-BoldItalic
+Krub.ttc.1.000;CDK ;Krub-Light
+Krub.ttc.1.000;CDK ;Krub-LightItalic
+Krub.ttc.1.000;CDK ;Krub-ExtraLight
+Krub.ttc.1.000;CDK ;Krub-ExtraLightItalic
+NotoSansMahajani-Regular.ttf.2.000;GOOG;NotoSansMahajani-Regular
+NotoSansKayahLi-Regular.ttf.2.000;GOOG;NotoSansKayahLi-Regular
+NotoSansLycian-Regular.ttf.2.000;GOOG;NotoSansLycian-Regular
+STIXIntUpReg.otf.FontMaster:STIXIntegralsUp-Regular:1.1.0
+NotoSansInscriptionalParthian-Regular.ttf.2.000;GOOG;NotoSansInscriptionalParthian-Regular
+STIXSizFourSymBol.otf.FontMaster:STIXSizeFourSym-Bold:1.1.0
+NotoSansOsmanya-Regular.ttf.2.000;GOOG;NotoSansOsmanya-Regular
+KohinoorBangla.ttc.Kohinoor Bangla; 14.0d2e3; 2018-02-28
+KohinoorBangla.ttc.Kohinoor Bangla Semibold; 14.0d2e3; 2018-02-28
+KohinoorBangla.ttc.Kohinoor Bangla Medium; 14.0d2e3; 2018-02-28
+KohinoorBangla.ttc.Kohinoor Bangla Bold; 14.0d2e3; 2018-02-28
+KohinoorBangla.ttc.Kohinoor Bangla Light; 14.0d2e3; 2018-02-28
+Lao Sangam MN.ttf.Lao Sangam MN; 14.0d1e6; 2018-02-27
+Brush Script.ttf.Brush Script MT Italic; 8.0d1e1; 2011-11-13
+NotoSansJavanese-Regular.otf.2.000;GOOG;NotoSansJavanese-Regular
+Kannada Sangam MN.ttc.Kannada Sangam MN; 14.0d2e4; 2018-02-27
+Kannada Sangam MN.ttc.Kannada Sangam MN Bold; 14.0d2e4; 2018-02-27
+ChakraPetch.ttc.1.000;CDK ;ChakraPetch-Regular
+ChakraPetch.ttc.1.000;CDK ;ChakraPetch-Italic
+ChakraPetch.ttc.1.000;CDK ;ChakraPetch-Medium
+ChakraPetch.ttc.1.000;CDK ;ChakraPetch-MediumItalic
+ChakraPetch.ttc.1.000;CDK ;ChakraPetch-SemiBold
+ChakraPetch.ttc.1.000;CDK ;ChakraPetch-SemiBoldItalic
+ChakraPetch.ttc.1.000;CDK ;ChakraPetch-Bold
+ChakraPetch.ttc.1.000;CDK ;ChakraPetch-BoldItalic
+ChakraPetch.ttc.1.000;CDK ;ChakraPetch-Light
+ChakraPetch.ttc.1.000;CDK ;ChakraPetch-LightItalic
+ChakraPetch.ttc.1.000;CDK ;ChakraPetch-ExtraLight
+ChakraPetch.ttc.1.000;CDK ;ChakraPetch-ExtraLightItalic
+Sana.ttc.Sana Regular; 13.0d1e4; 2017-06-28
+Sana.ttc..Sana PUA; 13.0d1e4; 2017-06-28
+STIXIntUpDReg.otf.FontMaster:STIXIntegralsUpD-Regular:1.1.0
+Diwan Kufi.ttc.Diwan Kufi Regular; 13.0d2e1; 2017-06-27
+Diwan Kufi.ttc..Diwan Kufi PUA; 13.0d2e1; 2017-06-27
+OctoberCompressedTamil.ttc.October Compressed Tamil Regular; 15.0d1e6; 2020-03-05
+OctoberCompressedTamil.ttc.October Compressed Tamil Medium; 15.0d1e6; 2020-03-05
+OctoberCompressedTamil.ttc.October Compressed Tamil Bold; 15.0d1e6; 2020-03-05
+OctoberCompressedTamil.ttc.October Compressed Tamil Heavy; 15.0d1e6; 2020-03-05
+OctoberCompressedTamil.ttc.October Compressed Tamil Black; 15.0d1e6; 2020-03-05
+OctoberCompressedTamil.ttc.October Compressed Tamil Light; 15.0d1e6; 2020-03-05
+OctoberCompressedTamil.ttc.October Compressed Tamil ExtraLight; 15.0d1e6; 2020-03-05
+OctoberCompressedTamil.ttc.October Compressed Tamil Thin; 15.0d1e6; 2020-03-05
+OctoberCompressedTamil.ttc.October Compressed Tamil Hairline; 15.0d1e6; 2020-03-05
+TiroKannada.ttc.Tiro Kannada; 15.0d6e1; 2020-09-12
+TiroKannada.ttc.Tiro Kannada Italic; 15.0d6e1; 2020-09-12
+Didot.ttc.Didot; 13.0d1e3; 2017-06-30
+Didot.ttc.Didot Italic; 13.0d1e3; 2017-06-30
+Didot.ttc.Didot Bold; 13.0d1e3; 2017-06-30
+Tamil MN.ttc.Tamil MN; 14.0d1e7; 2018-02-23
+Tamil MN.ttc.Tamil MN Bold; 14.0d1e7; 2018-02-23
+Arial Narrow Bold Italic.ttf.Arial Narrow Bold Italic : 2007
+SFNS.ttf..SF NS; 18.0d9e1; 2022-05-11
+Baghdad.ttc.Baghdad Regular; 13.0d1e5; 2017-06-13
+Baghdad.ttc..Baghdad PUA; 13.0d1e5; 2017-06-13
+Charmonman.ttc.1.000;CDK ;Charmonman-Regular
+Charmonman.ttc.1.000;CDK ;Charmonman-Bold
+NotoSansGlagolitic-Regular.ttf.2.000;GOOG;NotoSansGlagolitic-Regular
+Baoli.ttc.Baoli SC Regular; 17.0d1e1; 2021-06-23
+Baoli.ttc.Baoli TC Regular; 17.0d1e1; 2021-06-23
+TiroHindi.ttc.Tiro Devanagari Hindi; 17.0d1e1; 2021-08-25
+TiroHindi.ttc.Tiro Devanagari Hindi Italic; 17.0d1e1; 2021-08-25
+MuktaMahee.ttc.MuktaMahee Regular; 14.0d1e18; 2018-11-26
+MuktaMahee.ttc.MuktaMahee SemiBold; 14.0d1e18; 2018-11-26
+MuktaMahee.ttc.MuktaMahee Medium; 14.0d1e18; 2018-11-26
+MuktaMahee.ttc.MuktaMahee Light; 14.0d1e18; 2018-11-26
+MuktaMahee.ttc.MuktaMahee ExtraLight; 14.0d1e18; 2018-11-26
+MuktaMahee.ttc.MuktaMahee ExtraBold; 14.0d1e18; 2018-11-26
+MuktaMahee.ttc.MuktaMahee Bold; 14.0d1e18; 2018-11-26
+NotoSansOldPermic-Regular.ttf.2.000;GOOG;NotoSansOldPermic-Regular
+STIXIntUpSmBol.otf.FontMaster:STIXIntegralsUpSm-Bold:1.1.0
+Hei.ttf.Hei Regular; 13.0d1e4; 2017-06-14
+NotoSansMeeteiMayek-Regular.ttf.2.000;GOOG;NotoSansMeeteiMayek-Regular
+Oriya MN.ttc.Oriya MN; 14.0d1e6; 2018-02-24
+Oriya MN.ttc.Oriya MN Bold; 14.0d1e6; 2018-02-24
+NotoSansCaucasianAlbanian-Regular.ttf.2.001;GOOG;NotoSansCaucasianAlbanian-Regular
+NotoSerifYezidi-Regular.otf.1.000;GOOG;NotoSerifYezidi-Regular
+NotoSansTagalog-Regular.ttf.2.000;GOOG;NotoSansTagalog-Regular
+Arial Bold Italic.ttf.Monotype:Arial Bold Italic:version 3.14 (Microsoft)
+PTSans.ttc.PT Sans; 13.0d3e2; 2017-06-30
+PTSans.ttc.PT Sans Italic; 13.0d3e2; 2017-06-30
+PTSans.ttc.PT Sans Narrow Bold; 13.0d3e2; 2017-06-30
+PTSans.ttc.PT Sans Narrow; 13.0d3e2; 2017-06-30
+PTSans.ttc.PT Sans Caption Bold; 13.0d3e2; 2017-06-30
+PTSans.ttc.PT Sans Caption; 13.0d3e2; 2017-06-30
+PTSans.ttc.PT Sans Bold Italic; 13.0d3e2; 2017-06-30
+PTSans.ttc.PT Sans Bold; 13.0d3e2; 2017-06-30
+NotoSansVai-Regular.ttf.2.000;GOOG;NotoSansVai-Regular
+SamaDevanagari.ttc.Sama Devanagari Regular; 15.0d1e7; 2020-03-06
+SamaDevanagari.ttc.Sama Devanagari Book; 15.0d1e7; 2020-03-06
+SamaDevanagari.ttc.Sama Devanagari Medium; 15.0d1e7; 2020-03-06
+SamaDevanagari.ttc.Sama Devanagari SemiBold; 15.0d1e7; 2020-03-06
+SamaDevanagari.ttc.Sama Devanagari Bold; 15.0d1e7; 2020-03-06
+SamaDevanagari.ttc.Sama Devanagari ExtraBold; 15.0d1e7; 2020-03-06
+Herculanum.ttf.Herculanum; 13.0d1e2; 2017-06-07
+PadyakkeExpandedOne-regular.otf.1.402;UKWN;PadyakkeExpandedOne-Regular
+Bodoni 72.ttc.Bodoni 72 Book; 13.0d2e1; 2017-07-12
+Bodoni 72.ttc.Bodoni 72 Book Italic; 13.0d2e1; 2017-07-12
+Bodoni 72.ttc.Bodoni 72 Bold; 13.0d2e1; 2017-07-12
+STIXSizOneSymReg.otf.FontMaster:STIXSizeOneSym-Regular:1.1.0
+Mshtakan.ttc.Mshtakan; 14.0d1e1; 2017-11-24
+Mshtakan.ttc.Mshtakan Oblique; 14.0d1e1; 2017-11-24
+Mshtakan.ttc.Mshtakan Bold; 14.0d1e1; 2017-11-24
+Mshtakan.ttc.Mshtakan BoldOblique; 14.0d1e1; 2017-11-24
+EuphemiaCAS.ttc.Euphemia UCAS; 15.0d1e3; 2020-09-02
+EuphemiaCAS.ttc.Euphemia UCAS Bold; 15.0d1e3; 2020-09-02
+EuphemiaCAS.ttc.Euphemia UCAS Italic; 15.0d1e3; 2020-09-02
+JainiDevanagari-Regular.ttf.1.001;EKTF;Jaini
+Arial Rounded Bold.ttf.Arial Rounded MT Bold
+NotoSansNKo-Regular.ttf.2.001;GOOG;NotoSansNKo-Regular
+Trebuchet MS Italic.ttf.Microsoft Trebuchet Italic
+Shree714.ttc.Shree Devanagari 714; 13.0d2e1; 2017-06-30
+Shree714.ttc.Shree Devanagari 714 Bold; 13.0d2e1; 2017-06-30
+Shree714.ttc.Shree Devanagari 714 Italic; 13.0d2e1; 2017-06-30
+Shree714.ttc.Shree Devanagari 714 Bold Italic; 13.0d2e1; 2017-06-30
+Arial.ttf.Monotype:Arial Regular:Version 5.01 (Microsoft)
+NotoSansSyriac-Regular.ttf.2.000;GOOG;NotoSansSyriac-Regular
+Bodoni 72 Smallcaps Book.ttf.Bodoni 72 Smallcaps Book; 13.0d2e1; 2017-07-12
+OctoberCondensedTamil.ttc.October Condensed Tamil Regular; 15.0d1e4; 2020-03-05
+OctoberCondensedTamil.ttc.October Condensed Tamil Medium; 15.0d1e4; 2020-03-05
+OctoberCondensedTamil.ttc.October Condensed Tamil Bold; 15.0d1e4; 2020-03-05
+OctoberCondensedTamil.ttc.October Condensed Tamil Heavy; 15.0d1e4; 2020-03-05
+OctoberCondensedTamil.ttc.October Condensed Tamil Black; 15.0d1e4; 2020-03-05
+OctoberCondensedTamil.ttc.October Condensed Tamil Light; 15.0d1e4; 2020-03-05
+OctoberCondensedTamil.ttc.October Condensed Tamil ExtraLight; 15.0d1e4; 2020-03-05
+OctoberCondensedTamil.ttc.October Condensed Tamil Thin; 15.0d1e4; 2020-03-05
+OctoberCondensedTamil.ttc.October Condensed Tamil Hairline; 15.0d1e4; 2020-03-05
+Krungthep.ttf.Krungthep; 14.0d1e1; 2017-11-02
+NotoSansCham-Regular.ttf.2.000;GOOG;NotoSansCham-Regular
+Charm.ttc.1.002;CDK ;Charm-Regular
+Charm.ttc.1.002;CDK ;Charm-Bold
+Tahoma Bold.ttf.Microsoft Tahoma Bold
+ヒラギノ角ゴシック W7.ttc.Hiragino Sans W7; 17.0d1e37; 2021-08-13
+ヒラギノ角ゴシック W7.ttc..Hiragino Kaku Gothic Interface W7; 17.0d1e37; 2021-08-13
+NotoSansPalmyrene-Regular.ttf.2.000;GOOG;NotoSansPalmyrene-Regular
+Arial Narrow.ttf.Arial Narrow Regular : 2007
+LavaTelugu.ttc.Lava Telugu Regular; 15.0d1e4; 2020-03-05
+LavaTelugu.ttc.Lava Telugu Medium; 15.0d1e4; 2020-03-05
+LavaTelugu.ttc.Lava Telugu Bold; 15.0d1e4; 2020-03-05
+LavaTelugu.ttc.Lava Telugu Heavy; 15.0d1e4; 2020-03-05
+DIN Condensed Bold.ttf.DIN Condensed Bold; 14.0d1e1; 2018-05-22
+ThonburiUI.ttc..ThonburiUI Regular; 18.0d2e6; 2022-06-16
+ThonburiUI.ttc..ThonburiUIWatch Regular; 18.0d2e6; 2022-06-16
+HelveticaNeue.ttc.Helvetica Neue; 17.0d2e1; 2021-02-05
+HelveticaNeue.ttc.Helvetica Neue Bold; 17.0d2e1; 2021-02-05
+HelveticaNeue.ttc.Helvetica Neue Italic; 17.0d2e1; 2021-02-05
+HelveticaNeue.ttc.Helvetica Neue Bold Italic; 17.0d2e1; 2021-02-05
+HelveticaNeue.ttc.Helvetica Neue Condensed Bold; 17.0d2e1; 2021-02-05
+HelveticaNeue.ttc.Helvetica Neue UltraLight; 17.0d2e1; 2021-02-05
+HelveticaNeue.ttc.Helvetica Neue UltraLight Italic; 17.0d2e1; 2021-02-05
+HelveticaNeue.ttc.Helvetica Neue Light; 17.0d2e1; 2021-02-05
+HelveticaNeue.ttc.Helvetica Neue Light Italic; 17.0d2e1; 2021-02-05
+HelveticaNeue.ttc.Helvetica Neue Condensed Black; 17.0d2e1; 2021-02-05
+HelveticaNeue.ttc.Helvetica Neue Medium; 17.0d2e1; 2021-02-05
+HelveticaNeue.ttc.Helvetica Neue Medium Italic; 17.0d2e1; 2021-02-05
+HelveticaNeue.ttc.Helvetica Neue Thin; 17.0d2e1; 2021-02-05
+HelveticaNeue.ttc.Helvetica Neue Thin Italic; 17.0d2e1; 2021-02-05
+Baloo-Devanagari.ttc.Baloo 2 Regular; 15.0d1e7 (1.640); 2020-09-15
+Baloo-Devanagari.ttc.Baloo 2 Medium; 15.0d1e7 (1.640); 2020-09-15
+Baloo-Devanagari.ttc.Baloo 2 SemiBold; 15.0d1e7 (1.640); 2020-09-15
+Baloo-Devanagari.ttc.Baloo 2 Bold; 15.0d1e7 (1.640); 2020-09-15
+Baloo-Devanagari.ttc.Baloo 2 ExtraBold; 15.0d1e7 (1.640); 2020-09-15
+Sathu.ttf.Sathu; 14.0d1e1; 2017-11-02
+BalooDaBangla.ttc.Baloo Da 2 Regular; 15.0d1e7 (1.640); 2020-09-15
+BalooDaBangla.ttc.Baloo Da 2 Medium; 15.0d1e7 (1.640); 2020-09-15
+BalooDaBangla.ttc.Baloo Da 2 SemiBold; 15.0d1e7 (1.640); 2020-09-15
+BalooDaBangla.ttc.Baloo Da 2 Bold; 15.0d1e7 (1.640); 2020-09-15
+BalooDaBangla.ttc.Baloo Da 2 ExtraBold; 15.0d1e7 (1.640); 2020-09-15
+Georgia.ttf.Georgia; Version 5.00x-4; 2011-10-24
+Courier.ttc.Courier; 19.0d1e1; 2022-07-29
+Courier.ttc.Courier Bold; 19.0d1e1; 2022-07-29
+Courier.ttc.Courier Oblique; 19.0d1e1; 2022-07-29
+Courier.ttc.Courier Bold Oblique; 19.0d1e1; 2022-07-29
+Khmer MN.ttc.Khmer MN; 14.0d1e1; 2018-02-27
+Khmer MN.ttc.Khmer MN Bold; 14.0d1e1; 2018-02-27
+TiroBangla.ttc.Tiro Bangla; 15.0d6e1; 2020-09-12
+TiroBangla.ttc.Tiro Bangla Italic; 15.0d6e1; 2020-09-12
+Tamil Sangam MN.ttc.Tamil Sangam MN; 15.0d1e38; 2022-04-05
+Tamil Sangam MN.ttc.Grantha Sangam MN Regular; 15.0d1e38; 2022-04-05
+Tamil Sangam MN.ttc.Tamil Sangam MN Bold; 15.0d1e38; 2022-04-05
+Tamil Sangam MN.ttc.Grantha Sangam MN Bold; 15.0d1e38; 2022-04-05
+Times New Roman.ttf.Monotype:Times New Roman Regular:Version 5.01 (Microsoft)
+Hoefler Text Ornaments.ttf.Hoefler Text Ornaments; 14.0d1e2; 2018-01-19
+NotoSansMasaramGondi-Regular.otf.1.003;GOOG;NotoSansMasaramGondi-Regular
+NewYork.ttf..New York; 17.0d5e1; 2021-06-04
+Andale Mono.ttf.Andale Mono Regular
+KohinoorTelugu.ttc.Kohinoor Telugu; 14.0d1e3; 2018-02-28
+KohinoorTelugu.ttc.Kohinoor Telugu Semibold; 14.0d1e3; 2018-02-28
+KohinoorTelugu.ttc.Kohinoor Telugu Medium; 14.0d1e3; 2018-02-28
+KohinoorTelugu.ttc.Kohinoor Telugu Bold; 14.0d1e3; 2018-02-28
+KohinoorTelugu.ttc.Kohinoor Telugu Light; 14.0d1e3; 2018-02-28
+SukhumvitSet.ttc.Sukhumvit Set Thin; 17.0d1e2; 2021-07-13
+SukhumvitSet.ttc.Sukhumvit Set Light; 17.0d1e2; 2021-07-13
+SukhumvitSet.ttc.Sukhumvit Set Text; 17.0d1e2; 2021-07-13
+SukhumvitSet.ttc.Sukhumvit Set Medium; 17.0d1e2; 2021-07-13
+SukhumvitSet.ttc.Sukhumvit Set Semi Bold; 17.0d1e2; 2021-07-13
+SukhumvitSet.ttc.Sukhumvit Set Bold; 17.0d1e2; 2021-07-13
+STIXGeneralBol.otf.FontMaster:STIXGeneral-Bold:1.1.0
+NotoSansOldSouthArabian-Regular.ttf.2.000;GOOG;NotoSansOldSouthArabian-Regular
+TiroGurmukhi.ttc.Tiro Gurmukhi; 15.0d6e1; 2020-09-12
+TiroGurmukhi.ttc.Tiro Gurmukhi Italic; 15.0d6e1; 2020-09-12
+ヒラギノ角ゴシック W9.ttc.Hiragino Sans W9; 17.0d1e39; 2021-08-13
+ヒラギノ角ゴシック W9.ttc..Hiragino Kaku Gothic Interface W9; 17.0d1e39; 2021-08-13
+Wingdings 3.ttf.Wingdings 3
+Webdings.ttf.Microsoft Webdings
+STIXSizTwoSymReg.otf.FontMaster:STIXSizeTwoSym-Regular:1.1.0
+Thonburi.ttc.Thonburi; 18.0d1e1; 2022-01-12
+Thonburi.ttc.Thonburi Bold; 18.0d1e1; 2022-01-12
+Thonburi.ttc.Thonburi Light; 18.0d1e1; 2022-01-12
+ヒラギノ明朝 ProN.ttc.Hiragino Mincho ProN W3; 17.0d1e2; 2021-06-23
+ヒラギノ明朝 ProN.ttc.Hiragino Mincho Pro W3; 17.0d1e2; 2021-06-23
+ヒラギノ明朝 ProN.ttc.Hiragino Mincho ProN W6; 17.0d1e2; 2021-06-23
+ヒラギノ明朝 ProN.ttc.Hiragino Mincho Pro W6; 17.0d1e2; 2021-06-23
+Verdana.ttf.Microsoft:Verdana Regular:Version 5.01x (Microsoft)
+SamaMalayalam.ttc.Sama Malayalam Regular; 15.0d1e5; 2020-03-06
+SamaMalayalam.ttc.Sama Malayalam Book; 15.0d1e5; 2020-03-06
+SamaMalayalam.ttc.Sama Malayalam Medium; 15.0d1e5; 2020-03-06
+SamaMalayalam.ttc.Sama Malayalam SemiBold; 15.0d1e5; 2020-03-06
+SamaMalayalam.ttc.Sama Malayalam Bold; 15.0d1e5; 2020-03-06
+SamaMalayalam.ttc.Sama Malayalam ExtraBold; 15.0d1e5; 2020-03-06
+NotoSansChakma-Regular.ttf.2.001;GOOG;NotoSansChakma-Regular
+NotoSansWancho-Regular.ttf.2.000;GOOG;NotoSansWancho-Regular
+NotoSansLinearB-Regular.ttf.2.000;GOOG;NotoSansLinearB-Regular
+NotoSansKannada.ttc.Noto Sans Kannada Black; 14.0d1e7; 2018-11-25
+NotoSansKannada.ttc.Noto Sans Kannada Bold; 14.0d1e7; 2018-11-25
+NotoSansKannada.ttc.Noto Sans Kannada ExtraBold; 14.0d1e7; 2018-11-25
+NotoSansKannada.ttc.Noto Sans Kannada ExtraLight; 14.0d1e7; 2018-11-25
+NotoSansKannada.ttc.Noto Sans Kannada Light; 14.0d1e7; 2018-11-25
+NotoSansKannada.ttc.Noto Sans Kannada Medium; 14.0d1e7; 2018-11-25
+NotoSansKannada.ttc.Noto Sans Kannada Regular; 14.0d1e7; 2018-11-25
+NotoSansKannada.ttc.Noto Sans Kannada SemiBold; 14.0d1e7; 2018-11-25
+NotoSansKannada.ttc.Noto Sans Kannada Thin; 14.0d1e7; 2018-11-25
+NotoSansLepcha-Regular.ttf.2.000;GOOG;NotoSansLepcha-Regular
+YuppyTC-Regular.otf.Yuppy TC Regular; 13.0d1e1; 2017-06-09
+STIXIntDBol.otf.FontMaster:STIXIntegralsD-Bold:1.1.0
+SamaKannada.ttc.Sama Kannada Regular; 15.0d1e6; 2020-03-06
+SamaKannada.ttc.Sama Kannada Book; 15.0d1e6; 2020-03-06
+SamaKannada.ttc.Sama Kannada Medium; 15.0d1e6; 2020-03-06
+SamaKannada.ttc.Sama Kannada SemiBold; 15.0d1e6; 2020-03-06
+SamaKannada.ttc.Sama Kannada Bold; 15.0d1e6; 2020-03-06
+SamaKannada.ttc.Sama Kannada ExtraBold; 15.0d1e6; 2020-03-06
+Verdana Bold.ttf.Microsoft:Verdana Bold:Version 5.01x (Microsoft)
+BMHannaAir-Regular.otf.BM HANNA Air OTF; 18.0d1e4; 2022-06-27
+AppleGothic.ttf.AppleGothic Regular; 13.0d1e3; 2017-07-12
+Corsiva.ttc.Corsiva Hebrew; 13.0d1e4; 2017-06-14
+Corsiva.ttc.Corsiva Hebrew Bold; 13.0d1e4; 2017-06-14
+BalooTammuduTelugu.ttc.Baloo Tammudu 2 Regular; 15.0d1e7 (1.640); 2020-09-15
+BalooTammuduTelugu.ttc.Baloo Tammudu 2 Medium; 15.0d1e7 (1.640); 2020-09-15
+BalooTammuduTelugu.ttc.Baloo Tammudu 2 SemiBold; 15.0d1e7 (1.640); 2020-09-15
+BalooTammuduTelugu.ttc.Baloo Tammudu 2 Bold; 15.0d1e7 (1.640); 2020-09-15
+BalooTammuduTelugu.ttc.Baloo Tammudu 2 ExtraBold; 15.0d1e7 (1.640); 2020-09-15
+AppleLiSung-Light.ttf.Apple LiSung Light; 16.0d1e1; 2020-03-25
+Times.ttc.Times Roman; 17.0d1e1; 2021-01-16
+Times.ttc.Times Bold; 17.0d1e1; 2021-01-16
+Times.ttc.Times Italic; 17.0d1e1; 2021-01-16
+Times.ttc.Times Bold Italic; 17.0d1e1; 2021-01-16
+Farah.ttc.Farah Regular; 13.0d2e3; 2017-07-12
+Farah.ttc..Farah PUA; 13.0d2e3; 2017-07-12
+Waseem.ttc.Waseem Regular; 13.0d1e2; 2017-06-13
+Waseem.ttc.Waseem Light; 13.0d1e2; 2017-06-13
+Trebuchet MS Bold Italic.ttf.Microsoft Trebuchet Bold Italic
+STIXSizFourSymReg.otf.FontMaster:STIXSizeFourSym-Regular:1.1.0
+Arial Unicode.ttf.Monotype - Arial Unicode MS
+NotoSansElbasan-Regular.ttf.2.000;GOOG;NotoSansElbasan-Regular
+STIXIntSmBol.otf.FontMaster:STIXIntegralsSm-Bold:1.1.0
+NotoSansModi-Regular.ttf.2.000;GOOG;NotoSansModi-Regular
+Kodchasan.ttc.1.000;CDK ;Kodchasan-Regular
+Kodchasan.ttc.1.000;CDK ;Kodchasan-Italic
+Kodchasan.ttc.1.000;CDK ;Kodchasan-Medium
+Kodchasan.ttc.1.000;CDK ;Kodchasan-MediumItalic
+Kodchasan.ttc.1.000;CDK ;Kodchasan-SemiBold
+Kodchasan.ttc.1.000;CDK ;Kodchasan-SemiBoldItalic
+Kodchasan.ttc.1.000;CDK ;Kodchasan-Bold
+Kodchasan.ttc.1.000;CDK ;Kodchasan-BoldItalic
+Kodchasan.ttc.1.000;CDK ;Kodchasan-Light
+Kodchasan.ttc.1.000;CDK ;Kodchasan-LightItalic
+Kodchasan.ttc.1.000;CDK ;Kodchasan-ExtraLight
+Kodchasan.ttc.1.000;CDK ;Kodchasan-ExtraLightItalic
+Gurmukhi MN.ttc.Gurmukhi MN; 14.0d4e2; 2018-07-12
+Gurmukhi MN.ttc.Gurmukhi MN Bold; 14.0d4e2; 2018-07-12
+PTSerifCaption.ttc.PT Serif Caption; 13.0d2e1; 2017-06-29
+PTSerifCaption.ttc.PT Serif Caption Italic; 13.0d2e1; 2017-06-29
+Mali.ttc.1.010;CDK ;Mali-Regular
+Mali.ttc.1.010;CDK ;Mali-Italic
+Mali.ttc.1.010;CDK ;Mali-Medium
+Mali.ttc.1.010;CDK ;Mali-MediumItalic
+Mali.ttc.1.010;CDK ;Mali-SemiBold
+Mali.ttc.1.010;CDK ;Mali-SemiBoldItalic
+Mali.ttc.1.010;CDK ;Mali-Bold
+Mali.ttc.1.010;CDK ;Mali-BoldItalic
+Mali.ttc.1.010;CDK ;Mali-Light
+Mali.ttc.1.010;CDK ;Mali-LightItalic
+Mali.ttc.1.010;CDK ;Mali-ExtraLight
+Mali.ttc.1.010;CDK ;Mali-ExtraLightItalic
+Palatino.ttc.Palatino; 18.0d1e19; 2021-11-10
+Palatino.ttc.Palatino Italic; 18.0d1e19; 2021-11-10
+Palatino.ttc.Palatino Bold; 18.0d1e19; 2021-11-10
+Palatino.ttc.Palatino Bold Italic; 18.0d1e19; 2021-11-10
+Papyrus.ttc.Papyrus Condensed; 13.0d1e2; 2017-06-15
+Papyrus.ttc.Papyrus; 13.0d1e2; 2017-06-15
+NotoSerifMyanmar.ttc.Noto Serif Myanmar Black; 14.0d1e5; 2018-11-28
+NotoSerifMyanmar.ttc.Noto Serif Myanmar Bold; 14.0d1e5; 2018-11-28
+NotoSerifMyanmar.ttc.Noto Serif Myanmar ExtraBold; 14.0d1e5; 2018-11-28
+NotoSerifMyanmar.ttc.Noto Serif Myanmar ExtraLight; 14.0d1e5; 2018-11-28
+NotoSerifMyanmar.ttc.Noto Serif Myanmar Light; 14.0d1e5; 2018-11-28
+NotoSerifMyanmar.ttc.Noto Serif Myanmar Medium; 14.0d1e5; 2018-11-28
+NotoSerifMyanmar.ttc.Noto Serif Myanmar Regular; 14.0d1e5; 2018-11-28
+NotoSerifMyanmar.ttc.Noto Serif Myanmar SemiBold; 14.0d1e5; 2018-11-28
+NotoSerifMyanmar.ttc.Noto Serif Myanmar Thin; 14.0d1e5; 2018-11-28
+NotoSansLimbu-Regular.ttf.2.000;GOOG;NotoSansLimbu-Regular
+STIXTwoMath.otf.2.13 b171;STIX;STIXTwoMath-Regular
+Gujarati Sangam MN.ttc.Gujarati Sangam MN; 17.0d1e3; 2021-08-03
+Gujarati Sangam MN.ttc.Gujarati Sangam MN Bold; 17.0d1e3; 2021-08-03
+WawaSC-Regular.otf.Wawati SC Regular; 13.0d1e2; 2017-06-09
+Hubballi-regular.otf.1.000;GOOG;Hubballi-Regular
+Chalkboard.ttc.Chalkboard; 13.0d1e2; 2017-06-16
+Chalkboard.ttc.Chalkboard Bold; 13.0d1e2; 2017-06-16
+Bodoni Ornaments.ttf.Bodoni Ornaments; 13.0d2e1; 2017-07-12

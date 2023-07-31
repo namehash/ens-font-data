@@ -25,21 +25,25 @@ def get_supported_cps(font: ttLib.TTFont) -> set[int]:
 
 
 def process_font(font: ttLib.TTFont, output: str):
-    font_supported_cps = get_supported_cps(font)
-    font_unsupported_cps = NORMALIZATION.valid - font_supported_cps
-    font_supported_emoji = set()
-    font_unsupported_emoji = set()
-    with io.BytesIO() as f:
-        font.save(f)
-        fontdata = f.getvalue()
-        for emoji_cps in NORMALIZATION.emoji:
-            emoji = ''.join(chr(cp) for cp in emoji_cps)
-            if is_emoji_supported_by_font(emoji, fontdata):
-                font_supported_emoji.add(tuple(emoji_cps))
-            else:
-                font_unsupported_emoji.add(tuple(emoji_cps))
-
     id = get_font_id(font)
+
+    try:
+        font_supported_cps = get_supported_cps(font)
+        font_unsupported_cps = NORMALIZATION.valid - font_supported_cps
+        font_supported_emoji = set()
+        font_unsupported_emoji = set()
+        with io.BytesIO() as f:
+            font.save(f)
+            fontdata = f.getvalue()
+            for emoji_cps in NORMALIZATION.emoji:
+                emoji = ''.join(chr(cp) for cp in emoji_cps)
+                if is_emoji_supported_by_font(emoji, fontdata):
+                    font_supported_emoji.add(tuple(emoji_cps))
+                else:
+                    font_unsupported_emoji.add(tuple(emoji_cps))
+    except Exception as e:
+        print(f'Error processing {id}: {e}')
+        return None, set(), set(), set(), set()
 
     os.makedirs(os.path.join(output, id))
 
@@ -55,10 +59,11 @@ def process_font(font: ttLib.TTFont, output: str):
     with open(os.path.join(output, id, 'unsupported_emoji.json'), 'w', encoding='utf-8') as f:
         json.dump(sorted(font_unsupported_emoji), f)
 
-    return font_supported_cps, font_unsupported_cps, font_supported_emoji, font_unsupported_emoji
+    return id, font_supported_cps, font_unsupported_cps, font_supported_emoji, font_unsupported_emoji
 
 
 def process_font_path(font_path: str, output: str):
+    processed = []
     if font_path.endswith('.ttc'):
         with ttLib.TTCollection(font_path) as collection:
             supported_cps = set()
@@ -66,7 +71,10 @@ def process_font_path(font_path: str, output: str):
             supported_emoji = set()
             unsupported_emoji = set()
             for subfont in collection.fonts:
-                font_supported_cps, font_unsupported_cps, font_supported_emoji, font_unsupported_emoji = process_font(subfont, output)
+                id, font_supported_cps, font_unsupported_cps, font_supported_emoji, font_unsupported_emoji = process_font(subfont, output)
+                if id is None:
+                    continue
+                processed.append(id)
                 supported_cps.update(font_supported_cps)
                 unsupported_cps.update(font_unsupported_cps)
                 supported_emoji.update(font_supported_emoji)
@@ -75,8 +83,10 @@ def process_font_path(font_path: str, output: str):
             unsupported_emoji = unsupported_emoji - supported_emoji
     else:
         with ttLib.TTFont(font_path) as font:
-            supported_cps, unsupported_cps, supported_emoji, unsupported_emoji = process_font(font, output)
-    return supported_cps, unsupported_cps, supported_emoji, unsupported_emoji
+            id, supported_cps, unsupported_cps, supported_emoji, unsupported_emoji = process_font(font, output)
+            if id is not None:
+                processed.append(id)
+    return processed, supported_cps, unsupported_cps, supported_emoji, unsupported_emoji
 
 
 def run():
@@ -116,7 +126,11 @@ def run():
 
     with TqdmCallback(desc='Analyzing fonts'):
         results = db.from_sequence(font_paths, partition_size=1).map(process_font_path, args.output).compute()
-    for font_supported_cps, font_unsupported_cps, font_supported_emoji, font_unsupported_emoji in results:
+
+    processed_fonts = []
+
+    for ids, font_supported_cps, font_unsupported_cps, font_supported_emoji, font_unsupported_emoji in results:
+        processed_fonts.extend(ids)
         supported_cps.update(font_supported_cps)
         unsupported_cps.update(font_unsupported_cps)
         supported_emoji.update(font_supported_emoji)
@@ -144,14 +158,8 @@ def run():
         json.dump(sorted(unsupported_emoji), f)
 
     with open(os.path.join(args.output, 'fonts.txt'), 'w', encoding='utf-8') as f:
-        for font_path in font_paths:
-            if font_path.endswith('.ttc'):
-                with ttLib.TTCollection(font_path) as collection:
-                    for subfont in collection.fonts:
-                        f.write(get_font_id(subfont) + '\n')
-            else:
-                with ttLib.TTFont(font_path) as font:
-                    f.write(get_font_id(font) + '\n')
+        for id in processed_fonts:
+            f.write(id + '\n')
 
 
 if __name__ == '__main__':
