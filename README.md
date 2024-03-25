@@ -114,3 +114,9 @@ python dump.py supported_chars.json
 2. The set of pre-installed fonts is subject to regional settings, software versions, user-installed fonts, etc. It is difficult to determine a set of fonts that is common to all users.
 
 Taking the above into account, we can only provide the results for one plausible user configuration. We make the assumption that this configuration is representative of the majority of users.
+
+## License
+
+Licensed under the MIT License, Copyright © 2023-present [NameHash Labs](https://namehashlabs.org).
+
+See [LICENSE](./LICENSE) for more information.
